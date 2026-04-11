@@ -1,0 +1,394 @@
+{
+  "ward": [
+    {
+      "ward": "Orthopaedics",
+      "admissions": 81,
+      "avg_los": 17.2,
+      "avg_cost": 75948.0,
+      "deaths": 22
+    },
+    {
+      "ward": "Surgical",
+      "admissions": 78,
+      "avg_los": 14.2,
+      "avg_cost": 81591.0,
+      "deaths": 12
+    },
+    {
+      "ward": "Oncology",
+      "admissions": 76,
+      "avg_los": 14.5,
+      "avg_cost": 72249.0,
+      "deaths": 11
+    },
+    {
+      "ward": "Maternity",
+      "admissions": 75,
+      "avg_los": 15.4,
+      "avg_cost": 79119.0,
+      "deaths": 14
+    },
+    {
+      "ward": "General",
+      "admissions": 73,
+      "avg_los": 14.9,
+      "avg_cost": 74527.0,
+      "deaths": 19
+    },
+    {
+      "ward": "Paediatrics",
+      "admissions": 71,
+      "avg_los": 15.3,
+      "avg_cost": 82978.0,
+      "deaths": 18
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Acute Gastroenteritis",
+      "cases": 48
+    },
+    {
+      "diagnosis": "Pneumonia",
+      "cases": 41
+    },
+    {
+      "diagnosis": "Fracture",
+      "cases": 40
+    },
+    {
+      "diagnosis": "Sepsis",
+      "cases": 38
+    },
+    {
+      "diagnosis": "Anaemia",
+      "cases": 36
+    },
+    {
+      "diagnosis": "Road Traffic Accident",
+      "cases": 35
+    },
+    {
+      "diagnosis": "Preeclampsia",
+      "cases": 35
+    },
+    {
+      "diagnosis": "Malaria",
+      "cases": 35
+    },
+    {
+      "diagnosis": "Typhoid",
+      "cases": 32
+    },
+    {
+      "diagnosis": "Hiv/Aids",
+      "cases": 30
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2022-01",
+      "admissions": 22
+    },
+    {
+      "month": "2022-02",
+      "admissions": 17
+    },
+    {
+      "month": "2022-03",
+      "admissions": 21
+    },
+    {
+      "month": "2022-04",
+      "admissions": 25
+    },
+    {
+      "month": "2022-05",
+      "admissions": 20
+    },
+    {
+      "month": "2022-06",
+      "admissions": 12
+    },
+    {
+      "month": "2022-07",
+      "admissions": 18
+    },
+    {
+      "month": "2022-08",
+      "admissions": 15
+    },
+    {
+      "month": "2022-09",
+      "admissions": 18
+    },
+    {
+      "month": "2022-10",
+      "admissions": 18
+    },
+    {
+      "month": "2022-11",
+      "admissions": 14
+    },
+    {
+      "month": "2022-12",
+      "admissions": 18
+    },
+    {
+      "month": "2023-01",
+      "admissions": 17
+    },
+    {
+      "month": "2023-02",
+      "admissions": 18
+    },
+    {
+      "month": "2023-03",
+      "admissions": 22
+    },
+    {
+      "month": "2023-04",
+      "admissions": 25
+    },
+    {
+      "month": "2023-05",
+      "admissions": 17
+    },
+    {
+      "month": "2023-06",
+      "admissions": 18
+    },
+    {
+      "month": "2023-07",
+      "admissions": 19
+    },
+    {
+      "month": "2023-08",
+      "admissions": 14
+    },
+    {
+      "month": "2023-09",
+      "admissions": 12
+    },
+    {
+      "month": "2023-10",
+      "admissions": 22
+    },
+    {
+      "month": "2023-11",
+      "admissions": 13
+    },
+    {
+      "month": "2023-12",
+      "admissions": 23
+    },
+    {
+      "month": "2024-01",
+      "admissions": 18
+    },
+    {
+      "month": "2024-02",
+      "admissions": 14
+    },
+    {
+      "month": "2024-03",
+      "admissions": 12
+    },
+    {
+      "month": "2024-04",
+      "admissions": 20
+    },
+    {
+      "month": "2024-05",
+      "admissions": 15
+    },
+    {
+      "month": "2024-06",
+      "admissions": 2
+    }
+  ],
+  "lab": [
+    {
+      "test_name": "Typhoid (Widal)",
+      "total": 118,
+      "abnormal": 59,
+      "pct": 50.0,
+      "tat": 37.8
+    },
+    {
+      "test_name": "Creatinine",
+      "total": 104,
+      "abnormal": 52,
+      "pct": 50.0,
+      "tat": 37.2
+    },
+    {
+      "test_name": "Cd4 Count",
+      "total": 113,
+      "abnormal": 55,
+      "pct": 48.7,
+      "tat": 36.8
+    },
+    {
+      "test_name": "Full Blood Count",
+      "total": 125,
+      "abnormal": 57,
+      "pct": 45.6,
+      "tat": 35.3
+    },
+    {
+      "test_name": "Malaria Rdt",
+      "total": 119,
+      "abnormal": 54,
+      "pct": 45.4,
+      "tat": 39.1
+    },
+    {
+      "test_name": "Haemoglobin",
+      "total": 136,
+      "abnormal": 60,
+      "pct": 44.1,
+      "tat": 36.3
+    },
+    {
+      "test_name": "Hiv Rapid Test",
+      "total": 103,
+      "abnormal": 41,
+      "pct": 39.8,
+      "tat": 38.1
+    },
+    {
+      "test_name": "Urine Analysis",
+      "total": 126,
+      "abnormal": 49,
+      "pct": 38.9,
+      "tat": 36.6
+    },
+    {
+      "test_name": "Blood Glucose (Fasting)",
+      "total": 83,
+      "abnormal": 32,
+      "pct": 38.6,
+      "tat": 34.2
+    },
+    {
+      "test_name": "Alt (Liver)",
+      "total": 90,
+      "abnormal": 30,
+      "pct": 33.3,
+      "tat": 38.1
+    }
+  ],
+  "opd": [
+    {
+      "clinic": "Paediatric Opd",
+      "visits": 101,
+      "avg_wait": 127.0
+    },
+    {
+      "clinic": "Eye",
+      "visits": 98,
+      "avg_wait": 124.0
+    },
+    {
+      "clinic": "Tb Clinic",
+      "visits": 94,
+      "avg_wait": 123.0
+    },
+    {
+      "clinic": "Dental",
+      "visits": 91,
+      "avg_wait": 123.0
+    },
+    {
+      "clinic": "Nutrition",
+      "visits": 89,
+      "avg_wait": 125.0
+    },
+    {
+      "clinic": "General Opd",
+      "visits": 89,
+      "avg_wait": 125.0
+    },
+    {
+      "clinic": "Hiv/Aids Clinic",
+      "visits": 83,
+      "avg_wait": 127.0
+    },
+    {
+      "clinic": "Antenatal Care",
+      "visits": 76,
+      "avg_wait": 115.0
+    },
+    {
+      "clinic": "Diabetes Clinic",
+      "visits": 70,
+      "avg_wait": 111.0
+    }
+  ],
+  "revenue": [
+    {
+      "src": "Inpatient",
+      "rev": 36932246.0
+    },
+    {
+      "src": "Outpatient",
+      "rev": 1126579.0
+    }
+  ],
+  "gender": [
+    {
+      "gender": "Female",
+      "cnt": 186
+    },
+    {
+      "gender": "Male",
+      "cnt": 178
+    }
+  ],
+  "county": [
+    {
+      "county": "Kakamega",
+      "cnt": 48
+    },
+    {
+      "county": "Machakos",
+      "cnt": 47
+    },
+    {
+      "county": "Nakuru",
+      "cnt": 44
+    },
+    {
+      "county": "Meru",
+      "cnt": 41
+    },
+    {
+      "county": "Kisumu",
+      "cnt": 41
+    },
+    {
+      "county": "Mombasa",
+      "cnt": 40
+    },
+    {
+      "county": "Nyeri",
+      "cnt": 33
+    },
+    {
+      "county": "Thika",
+      "cnt": 30
+    }
+  ],
+  "kpis": {
+    "total_patients": 388,
+    "total_admissions": 519,
+    "total_lab_tests": 1117,
+    "total_opd_visits": 791,
+    "avg_los": 15.4,
+    "inpatient_revenue": 36932246,
+    "outpatient_revenue": 1126579,
+    "mortality_rate": 20.42,
+    "abnormal_lab_pct": 43.8
+  }
+}

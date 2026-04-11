@@ -1,0 +1,520 @@
+admission_id,patient_id,admission_date,discharge_date,ward,diagnosis,attending_doctor,total_cost_kes,discharge_outcome,bed_number,length_of_stay
+ADM-00308,PAT-0148,2023-04-26,2023-05-02,Surgical,Acute Gastroenteritis,Dr. Kariuki,17564.05,Deceased,27,6.0
+ADM-00532,PAT-0182,2023-07-17,2023-08-03,Oncology,Hiv/Aids,Dr. Chebet,,Absconded,95,17.0
+ADM-00403,PAT-0102,2022-05-24,2022-06-02,General,Acute Gastroenteritis,Dr. Omondi,148698.59,Deceased,6,9.0
+ADM-00495,PAT-0101,2022-05-25,2022-05-27,,Anaemia,Dr. Wanjiku,9254.62,Against Medical Advice,55,2.0
+ADM-00547,PAT-0098,2022-10-10,,Surgical,Fracture,Dr. Otieno,45565.13,Deceased,32,
+ADM-00081,PAT-0377,2023-09-07,2023-09-10,Maternity,Typhoid,Dr. Chebet,138213.76,Recovered,62,3.0
+ADM-00206,PAT-0299,2022-02-12,2022-02-19,General,Malaria,Dr. Omondi,,Recovered,38,7.0
+ADM-00068,PAT-0147,2023-11-22,2023-12-20,Surgical,Pneumonia,Dr. Omondi,93011.74,Absconded,84,28.0
+ADM-00456,PAT-0333,2024-04-19,2024-05-01,Surgical,Fracture,Dr. Otieno,76697.86,Absconded,65,12.0
+ADM-00376,PAT-0238,2022-12-25,2023-01-02,Orthopaedics,Typhoid,Dr. Muthoni,24853.28,Deceased,50,8.0
+ADM-00501,PAT-0345,2022-12-05,2022-12-23,Paediatrics,,Dr. Muthoni,,Referred,47,18.0
+ADM-00490,PAT-0177,2022-05-12,2022-06-11,Orthopaedics,Pneumonia,Dr. Wanjiku,23239.76,Deceased,109,30.0
+ADM-00470,PAT-0316,2023-02-26,2023-03-28,,Acute Gastroenteritis,Dr. Chebet,76176.77,Against Medical Advice,,30.0
+ADM-00153,PAT-0280,2022-11-01,2022-11-30,Maternity,Diabetes Mellitus,Dr. Kariuki,,Deceased,83,29.0
+ADM-00241,PAT-0288,2023-10-13,2023-10-14,Oncology,Sepsis,Dr. Wanjiku,93683.29,Against Medical Advice,104,1.0
+ADM-00110,PAT-0005,2023-04-15,2023-04-23,General,Preeclampsia,Dr. Wanjiku,43341.54,,116,8.0
+ADM-00223,PAT-0231,2023-10-09,,Orthopaedics,Hiv/Aids,Dr. Wanjiku,89185.84,,58,
+ADM-00056,PAT-0248,2022-03-25,2022-03-30,Oncology,Preeclampsia,Dr. Wanjiku,149863.86,,66,5.0
+ADM-00117,PAT-0131,2024-02-10,2024-02-15,Paediatrics,Anaemia,,27509.48,Deceased,105,5.0
+ADM-00555,PAT-0329,2023-01-09,2023-01-24,Oncology,Fracture,Dr. Otieno,71224.99,Against Medical Advice,83,15.0
+ADM-00002,PAT-0235,2022-06-28,2022-07-02,Orthopaedics,Hiv/Aids,Dr. Muthoni,85055.58,Against Medical Advice,108,4.0
+ADM-00031,PAT-0167,2023-11-11,2023-12-11,Maternity,Hiv/Aids,Dr. Wanjiku,127683.81,Deceased,38,30.0
+ADM-00204,PAT-0260,2024-01-08,2024-01-13,Surgical,,Dr. Otieno,119963.94,Referred,89,5.0
+ADM-00247,PAT-0257,2024-04-17,,Surgical,Typhoid,Dr. Wanjiku,149613.94,Recovered,54,
+ADM-00510,PAT-0010,2023-06-02,2023-06-18,,Pneumonia,Dr. Chebet,108608.94,Recovered,83,16.0
+ADM-00389,PAT-0036,2023-01-03,2023-02-01,Oncology,,Dr. Otieno,,Against Medical Advice,86,29.0
+ADM-00356,PAT-0312,2022-04-01,2022-04-17,Orthopaedics,Tuberculosis,Dr. Wanjiku,122322.21,Deceased,85,16.0
+ADM-00423,PAT-0048,2024-02-08,2024-03-05,General,Acute Gastroenteritis,,85044.53,Absconded,17,26.0
+ADM-00162,PAT-0322,2023-01-09,2023-01-19,,Tuberculosis,Dr. Omondi,56745.84,Absconded,,10.0
+ADM-00085,PAT-0187,2022-04-08,2022-04-25,Maternity,Malaria,Dr. Chebet,100796.73,Absconded,80,17.0
+ADM-00536,PAT-0129,2023-06-13,2023-07-03,Surgical,Appendicitis,Dr. Muthoni,103758.84,Against Medical Advice,116,20.0
+ADM-00131,PAT-0076,2023-02-27,2023-03-21,Paediatrics,Anaemia,Dr. Omondi,56475.54,Recovered,102,22.0
+ADM-00429,PAT-0223,2024-01-13,2024-01-28,,Road Traffic Accident,Dr. Kariuki,62266.61,Deceased,92,15.0
+ADM-00129,PAT-0126,2022-10-19,2022-11-05,Maternity,Fracture,Dr. Otieno,137167.49,Referred,31,17.0
+ADM-00427,PAT-0283,2023-05-07,2023-06-06,Surgical,Sepsis,Dr. Otieno,34787.12,Referred,46,30.0
+ADM-00142,PAT-0235,2023-06-27,2023-06-30,Surgical,Appendicitis,Dr. Chebet,104329.38,Deceased,9,3.0
+ADM-00430,PAT-0057,2022-03-07,2022-04-02,Surgical,Road Traffic Accident,Dr. Kariuki,125452.35,Referred,94,26.0
+ADM-00375,PAT-0252,2023-11-26,2023-12-12,,,Dr. Omondi,49607.05,Deceased,11,16.0
+ADM-00289,PAT-0240,2023-12-18,2023-12-25,Orthopaedics,Pneumonia,Dr. Kariuki,128744.56,Recovered,109,7.0
+ADM-00541,PAT-0296,2022-02-02,2022-02-17,Oncology,Road Traffic Accident,Dr. Otieno,4201.51,Absconded,65,15.0
+ADM-00172,PAT-0020,2022-04-14,,General,Preeclampsia,Dr. Otieno,132195.04,Deceased,92,
+ADM-00328,PAT-0336,2023-03-19,2023-03-26,Surgical,Diabetes Mellitus,Dr. Otieno,145450.27,Against Medical Advice,111,7.0
+ADM-00527,PAT-0026,2024-02-22,2024-03-13,General,Diabetes Mellitus,Dr. Omondi,120584.61,Recovered,18,20.0
+ADM-00366,PAT-0215,2022-11-26,2022-11-28,Surgical,Pneumonia,Dr. Wanjiku,115724.65,Referred,79,2.0
+ADM-00222,PAT-0354,2022-05-05,2022-05-09,Surgical,Tuberculosis,Dr. Otieno,74406.89,Referred,,4.0
+ADM-00125,PAT-0096,2022-01-13,2022-02-04,Oncology,,Dr. Omondi,,Recovered,49,22.0
+ADM-00124,PAT-0042,2022-01-13,2022-01-26,Maternity,Acute Gastroenteritis,Dr. Otieno,109044.71,Referred,,13.0
+ADM-00143,PAT-0008,2023-09-25,2023-10-16,Orthopaedics,Hypertension,Dr. Muthoni,114754.23,Recovered,45,21.0
+ADM-00033,PAT-0171,2022-03-02,2022-03-07,Paediatrics,Hiv/Aids,Dr. Otieno,24861.89,Absconded,23,5.0
+ADM-00069,PAT-0061,2023-07-27,2023-08-18,Oncology,Acute Gastroenteritis,Dr. Otieno,14616.58,Deceased,92,22.0
+ADM-00019,PAT-0128,2022-07-12,2022-07-21,General,Sepsis,Dr. Wanjiku,120627.19,Recovered,87,9.0
+ADM-00343,PAT-0371,2024-04-14,2024-04-26,Surgical,Anaemia,Dr. Muthoni,86978.84,Recovered,28,12.0
+ADM-00570,PAT-0054,2022-08-06,2022-09-02,,,Dr. Omondi,,Against Medical Advice,114,27.0
+ADM-00410,PAT-0336,2023-02-05,2023-02-06,General,Appendicitis,Dr. Chebet,145284.64,Deceased,73,1.0
+ADM-00561,PAT-0273,2023-05-10,2023-05-18,,Acute Gastroenteritis,Dr. Kariuki,145408.49,Absconded,106,8.0
+ADM-00370,PAT-0026,2023-05-20,2023-06-03,Maternity,Malaria,Dr. Kariuki,53952.58,Recovered,,14.0
+ADM-00017,PAT-0018,2022-06-08,2022-07-06,Paediatrics,Acute Gastroenteritis,Dr. Wanjiku,12369.78,Deceased,,28.0
+ADM-00500,PAT-0161,2022-08-09,2022-08-22,General,Fracture,Dr. Wanjiku,74481.15,Absconded,109,13.0
+ADM-00472,PAT-0259,2023-03-12,2023-03-19,Oncology,Sepsis,Dr. Muthoni,68340.41,Against Medical Advice,16,7.0
+ADM-00373,PAT-0031,2024-01-29,2024-02-22,Surgical,Tuberculosis,Dr. Omondi,141036.4,Against Medical Advice,16,24.0
+ADM-00398,PAT-0200,2022-02-04,2022-02-26,Oncology,Fracture,Dr. Omondi,99466.13,Referred,,22.0
+ADM-00433,PAT-0348,2022-07-14,2022-08-13,General,,Dr. Wanjiku,122797.94,Against Medical Advice,47,30.0
+ADM-00240,PAT-0336,2024-06-01,2024-06-29,General,Sepsis,Dr. Wanjiku,128830.57,Absconded,17,28.0
+ADM-00285,PAT-0236,2022-01-09,2022-01-20,Maternity,Typhoid,,62894.95,Deceased,106,11.0
+ADM-00166,PAT-0390,2022-03-01,2022-03-12,General,Fracture,Dr. Otieno,18164.07,,85,11.0
+ADM-00293,PAT-0214,2022-03-17,2022-03-28,General,Preeclampsia,Dr. Kariuki,127591.63,Recovered,79,11.0
+ADM-00014,PAT-0385,2022-04-19,2022-04-23,General,Malaria,Dr. Omondi,35039.36,Against Medical Advice,65,4.0
+ADM-00269,PAT-0319,2024-04-02,2024-04-16,Orthopaedics,Typhoid,Dr. Omondi,31011.41,Against Medical Advice,95,14.0
+ADM-00599,PAT-0124,2023-01-02,2023-02-01,General,,Dr. Omondi,7817.51,Absconded,78,30.0
+ADM-00041,PAT-0050,2022-01-04,2022-01-10,Paediatrics,Sepsis,Dr. Kariuki,15869.15,Against Medical Advice,65,6.0
+ADM-00339,PAT-0113,2023-08-05,2023-08-10,Maternity,,Dr. Wanjiku,,Against Medical Advice,82,5.0
+ADM-00066,PAT-0179,2023-01-29,2023-02-10,,Hiv/Aids,Dr. Omondi,87855.02,Recovered,34,12.0
+ADM-00073,PAT-0337,2022-04-01,2022-04-10,Oncology,Hiv/Aids,Dr. Otieno,18029.05,Referred,53,9.0
+ADM-00183,PAT-0331,2022-12-13,2022-12-19,,Appendicitis,Dr. Wanjiku,82242.11,Absconded,21,6.0
+ADM-00109,PAT-0301,2023-02-09,2023-02-24,Oncology,Appendicitis,Dr. Otieno,61777.88,Deceased,54,15.0
+ADM-00345,PAT-0314,2022-01-24,2022-02-04,General,Diabetes Mellitus,Dr. Omondi,43067.12,Referred,15,11.0
+ADM-00444,PAT-0207,2023-06-18,2023-06-21,Maternity,Diabetes Mellitus,Dr. Chebet,6605.83,Against Medical Advice,114,3.0
+ADM-00382,PAT-0290,2024-04-16,2024-05-12,General,Pneumonia,Dr. Muthoni,119055.6,Absconded,108,26.0
+ADM-00233,PAT-0163,2023-01-02,,Surgical,Road Traffic Accident,Dr. Wanjiku,,Referred,,
+ADM-00282,PAT-0275,2022-01-21,2022-02-04,General,Acute Gastroenteritis,Dr. Kariuki,56516.96,Deceased,5,14.0
+ADM-00595,PAT-0259,2023-06-06,2023-07-06,,Sepsis,Dr. Kariuki,146135.39,Recovered,61,30.0
+ADM-00514,PAT-0050,2023-12-06,2023-12-25,General,Acute Gastroenteritis,Dr. Otieno,50719.87,Referred,95,19.0
+ADM-00313,PAT-0004,2023-08-16,2023-08-23,Paediatrics,Malaria,Dr. Omondi,139656.68,Referred,103,7.0
+ADM-00177,PAT-0007,2022-02-01,2022-02-20,,Diabetes Mellitus,Dr. Muthoni,94111.63,Recovered,103,19.0
+ADM-00301,PAT-0172,2022-12-09,2023-01-03,,Road Traffic Accident,Dr. Muthoni,97416.76,Recovered,113,25.0
+ADM-00004,PAT-0093,2023-06-13,2023-07-03,Orthopaedics,Sepsis,Dr. Otieno,105908.99,,94,20.0
+ADM-00418,PAT-0325,2023-12-09,2024-01-06,Orthopaedics,Fracture,Dr. Omondi,55470.15,Against Medical Advice,30,28.0
+ADM-00516,PAT-0025,2022-01-26,2022-02-17,Orthopaedics,Appendicitis,Dr. Kariuki,83584.79,Absconded,92,22.0
+ADM-00227,PAT-0150,2023-04-16,,Oncology,Appendicitis,Dr. Kariuki,98254.64,Against Medical Advice,61,
+ADM-00554,PAT-0030,2023-04-17,2023-05-05,,,Dr. Muthoni,149865.36,Against Medical Advice,74,18.0
+ADM-00534,PAT-0204,2023-12-19,,,Anaemia,Dr. Muthoni,25417.36,Referred,5,
+ADM-00544,PAT-0389,2023-12-21,2024-01-06,Maternity,Typhoid,Dr. Omondi,116205.89,Absconded,98,16.0
+ADM-00090,PAT-0133,2023-01-06,2023-01-09,Paediatrics,Anaemia,Dr. Chebet,114645.66,Against Medical Advice,86,3.0
+ADM-00135,PAT-0064,2023-05-11,,Paediatrics,Fracture,Dr. Omondi,85523.24,Deceased,6,
+ADM-00474,PAT-0109,2023-07-27,2023-08-15,Maternity,Appendicitis,Dr. Kariuki,23931.61,Referred,,19.0
+ADM-00497,PAT-0142,2024-03-22,,Oncology,Typhoid,Dr. Muthoni,114047.25,Against Medical Advice,106,
+ADM-00503,PAT-0118,2023-12-15,2024-01-01,Surgical,Typhoid,Dr. Muthoni,7731.81,Absconded,85,17.0
+ADM-00548,PAT-0015,2024-05-18,2024-06-08,Maternity,Typhoid,Dr. Muthoni,,Recovered,81,21.0
+ADM-00130,PAT-0136,2023-02-27,2023-03-11,General,Diabetes Mellitus,Dr. Wanjiku,134848.71,Recovered,68,12.0
+ADM-00158,PAT-0305,2024-02-10,2024-03-01,Maternity,Diabetes Mellitus,Dr. Wanjiku,10290.92,Recovered,,20.0
+ADM-00184,PAT-0320,2023-06-02,2023-06-14,Orthopaedics,Hiv/Aids,Dr. Omondi,25542.96,Absconded,,12.0
+ADM-00355,PAT-0181,2022-01-21,2022-01-31,Oncology,Malaria,Dr. Chebet,74430.34,Deceased,74,10.0
+ADM-00228,PAT-0035,2023-12-21,2024-01-04,,Malaria,Dr. Chebet,7892.83,Absconded,63,14.0
+ADM-00194,PAT-0147,2023-08-27,2023-09-25,,Pneumonia,Dr. Otieno,87357.16,Deceased,82,29.0
+ADM-00121,PAT-0168,2022-09-30,2022-10-11,Paediatrics,Road Traffic Accident,Dr. Muthoni,2134.8,Deceased,86,11.0
+ADM-00274,PAT-0235,2024-02-28,2024-03-02,Paediatrics,,Dr. Chebet,,Absconded,119,3.0
+ADM-00441,PAT-0276,2022-11-14,2022-12-13,General,Road Traffic Accident,Dr. Muthoni,130326.44,Recovered,14,29.0
+ADM-00159,PAT-0114,2023-12-11,2023-12-24,Oncology,Acute Gastroenteritis,Dr. Muthoni,6592.93,Recovered,117,13.0
+ADM-00210,PAT-0152,2024-04-13,2024-04-28,Paediatrics,Appendicitis,Dr. Muthoni,45647.62,Referred,47,15.0
+ADM-00312,PAT-0366,2022-11-10,2022-11-17,Orthopaedics,Road Traffic Accident,Dr. Muthoni,71117.13,Deceased,56,7.0
+ADM-00590,PAT-0327,2023-03-24,2023-03-27,Orthopaedics,,Dr. Otieno,20741.39,Referred,113,3.0
+ADM-00319,PAT-0331,2023-12-16,2023-12-29,General,Malaria,Dr. Kariuki,70972.07,Referred,105,13.0
+ADM-00061,PAT-0106,2022-02-06,2022-02-18,Maternity,Pneumonia,Dr. Kariuki,127450.75,Absconded,30,12.0
+ADM-00586,PAT-0143,2024-01-24,2024-02-13,Oncology,Preeclampsia,Dr. Chebet,35231.58,,58,20.0
+ADM-00438,PAT-0160,2022-09-05,2022-09-28,Maternity,Road Traffic Accident,Dr. Omondi,114577.64,Deceased,114,23.0
+ADM-00330,PAT-0264,2023-09-25,2023-10-01,Orthopaedics,Sepsis,Dr. Wanjiku,,Against Medical Advice,99,6.0
+ADM-00132,PAT-0024,2023-04-17,2023-05-15,Oncology,Fracture,Dr. Wanjiku,36078.32,Recovered,56,28.0
+ADM-00059,PAT-0071,2023-04-07,2023-04-16,Oncology,Pneumonia,Dr. Omondi,114232.62,Deceased,114,9.0
+ADM-00449,PAT-0038,2023-10-22,,Surgical,Road Traffic Accident,Dr. Wanjiku,121709.2,Against Medical Advice,18,
+ADM-00237,PAT-0043,2023-06-28,2023-07-21,Surgical,Hypertension,Dr. Chebet,28615.27,Referred,93,23.0
+ADM-00353,PAT-0062,2022-08-17,2022-09-10,Paediatrics,Typhoid,Dr. Wanjiku,61855.45,Recovered,105,24.0
+ADM-00468,PAT-0209,2023-02-24,2023-03-20,Oncology,Hiv/Aids,Dr. Wanjiku,45113.92,Recovered,83,24.0
+ADM-00137,PAT-0135,2023-10-26,2023-10-27,General,,Dr. Omondi,118022.05,Against Medical Advice,29,1.0
+ADM-00457,PAT-0114,2023-04-02,2023-04-24,Maternity,Fracture,Dr. Kariuki,95354.8,Against Medical Advice,116,22.0
+ADM-00201,PAT-0111,2024-01-09,2024-01-12,Surgical,Typhoid,Dr. Wanjiku,84943.11,Absconded,112,3.0
+ADM-00305,PAT-0209,2022-12-27,2023-01-16,Maternity,,Dr. Kariuki,132026.46,Recovered,41,20.0
+ADM-00236,PAT-0311,2023-03-20,2023-04-01,Paediatrics,Tuberculosis,Dr. Omondi,122895.51,Deceased,9,12.0
+ADM-00392,PAT-0291,2022-07-22,2022-08-08,General,Anaemia,Dr. Chebet,13840.35,Against Medical Advice,,17.0
+ADM-00067,PAT-0372,2022-10-17,2022-11-16,Oncology,Appendicitis,,112261.98,Recovered,96,30.0
+ADM-00344,PAT-0176,2023-03-11,,Orthopaedics,Acute Gastroenteritis,Dr. Chebet,100092.1,Absconded,36,
+ADM-00250,PAT-0133,2022-01-19,2022-02-10,,Tuberculosis,Dr. Chebet,72660.11,Against Medical Advice,27,22.0
+ADM-00517,PAT-0376,2022-10-02,2022-10-10,Maternity,Road Traffic Accident,Dr. Kariuki,38945.01,Against Medical Advice,89,8.0
+ADM-00118,PAT-0374,2023-09-05,2023-09-28,Paediatrics,Acute Gastroenteritis,Dr. Otieno,47193.17,Referred,14,23.0
+ADM-00029,PAT-0331,2023-02-07,2023-02-12,Surgical,Acute Gastroenteritis,Dr. Chebet,88229.0,Referred,17,5.0
+ADM-00351,PAT-0199,2024-03-31,2024-04-10,Oncology,Pneumonia,Dr. Wanjiku,132878.17,Referred,,10.0
+ADM-00245,PAT-0062,2022-07-03,,Surgical,Sepsis,,62856.9,Referred,106,
+ADM-00581,PAT-0106,2022-08-24,2022-09-20,Surgical,Pneumonia,Dr. Chebet,92727.63,Referred,1,27.0
+ADM-00564,PAT-0332,2022-03-27,2022-04-26,,Tuberculosis,Dr. Muthoni,132181.36,Absconded,,30.0
+ADM-00104,PAT-0107,2023-03-25,2023-04-13,,,Dr. Muthoni,70647.21,Absconded,69,19.0
+ADM-00021,PAT-0149,2022-05-12,2022-05-31,Paediatrics,Hypertension,Dr. Muthoni,103858.34,Recovered,36,19.0
+ADM-00138,PAT-0355,2023-03-06,2023-03-28,Orthopaedics,Malaria,Dr. Muthoni,125490.21,Recovered,,22.0
+ADM-00310,PAT-0146,2023-10-27,2023-11-08,General,Road Traffic Accident,Dr. Kariuki,53516.53,Recovered,56,12.0
+ADM-00156,PAT-0087,2022-04-08,2022-04-25,Oncology,Fracture,Dr. Muthoni,110032.52,Referred,78,17.0
+ADM-00082,PAT-0344,2023-09-21,2023-10-21,Maternity,Hypertension,Dr. Kariuki,92411.6,Against Medical Advice,83,30.0
+ADM-00226,PAT-0157,2023-05-07,2023-05-29,General,,Dr. Muthoni,,Absconded,2,22.0
+ADM-00399,PAT-0333,2022-10-24,2022-11-11,,Diabetes Mellitus,Dr. Wanjiku,112737.99,Absconded,13,18.0
+ADM-00213,PAT-0307,2022-09-27,2022-10-07,Paediatrics,Sepsis,Dr. Muthoni,77771.09,Absconded,110,10.0
+ADM-00336,PAT-0002,2023-12-25,2023-12-31,Surgical,Typhoid,Dr. Muthoni,88433.12,Recovered,51,6.0
+ADM-00008,PAT-0192,2024-05-08,2024-06-02,Maternity,Appendicitis,Dr. Muthoni,129685.31,Against Medical Advice,29,25.0
+ADM-00575,PAT-0164,2023-02-25,,Maternity,Malaria,Dr. Omondi,73812.73,,74,
+ADM-00542,PAT-0146,2022-05-06,2022-05-14,Paediatrics,Preeclampsia,Dr. Wanjiku,98893.97,Deceased,94,8.0
+ADM-00168,PAT-0366,2023-12-23,2023-12-30,Oncology,Road Traffic Accident,Dr. Omondi,32891.24,Recovered,,7.0
+ADM-00160,PAT-0091,2023-10-16,2023-11-12,Maternity,Hiv/Aids,Dr. Chebet,73198.89,Recovered,62,27.0
+ADM-00379,PAT-0046,2023-01-29,2023-02-05,Maternity,Hypertension,Dr. Otieno,21169.24,Deceased,112,7.0
+ADM-00513,PAT-0386,2023-02-25,2023-03-18,Surgical,Hiv/Aids,Dr. Omondi,94572.9,Referred,52,21.0
+ADM-00583,PAT-0016,2022-09-15,2022-09-17,Oncology,Malaria,Dr. Chebet,6952.64,Absconded,98,2.0
+ADM-00025,PAT-0313,2022-04-13,2022-04-30,General,Hypertension,Dr. Wanjiku,111845.87,Absconded,89,17.0
+ADM-00039,PAT-0167,2023-12-23,2024-01-01,General,,Dr. Wanjiku,115201.0,Recovered,110,9.0
+ADM-00298,PAT-0206,2022-04-01,2022-04-29,Oncology,Acute Gastroenteritis,Dr. Otieno,37716.3,Absconded,,28.0
+ADM-00151,PAT-0023,2022-09-17,2022-09-21,Oncology,Malaria,Dr. Otieno,87701.94,Absconded,10,4.0
+ADM-00042,PAT-0057,2023-10-01,2023-10-13,General,Typhoid,Dr. Wanjiku,114177.83,Against Medical Advice,4,12.0
+ADM-00322,PAT-0179,2022-03-01,2022-03-21,Paediatrics,Malaria,Dr. Muthoni,64789.29,Referred,,20.0
+ADM-00095,PAT-0160,2023-08-29,2023-08-31,Surgical,Pneumonia,Dr. Otieno,68872.83,Against Medical Advice,97,2.0
+ADM-00446,PAT-0029,2022-04-20,2022-05-18,Oncology,Tuberculosis,Dr. Wanjiku,74955.95,,63,28.0
+ADM-00426,PAT-0227,2023-07-06,2023-07-14,General,Pneumonia,Dr. Omondi,147545.18,Against Medical Advice,24,8.0
+ADM-00024,PAT-0156,2022-04-26,,Oncology,Fracture,Dr. Omondi,55212.13,Deceased,19,
+ADM-00013,PAT-0356,2022-01-03,2022-01-06,,Fracture,Dr. Omondi,50392.56,Referred,24,3.0
+ADM-00582,PAT-0062,2023-04-04,2023-04-26,Orthopaedics,Fracture,Dr. Wanjiku,17134.9,Deceased,47,22.0
+ADM-00413,PAT-0225,2023-03-29,2023-04-01,Surgical,Hiv/Aids,Dr. Wanjiku,38796.4,Referred,96,3.0
+ADM-00161,PAT-0013,2022-08-29,2022-09-17,Paediatrics,Preeclampsia,Dr. Kariuki,,Deceased,4,19.0
+ADM-00531,PAT-0167,2023-09-13,2023-10-06,General,Pneumonia,,53958.22,Recovered,48,23.0
+ADM-00174,PAT-0310,2022-12-07,2022-12-18,,Preeclampsia,Dr. Otieno,57952.73,Against Medical Advice,8,11.0
+ADM-00101,PAT-0026,2023-10-02,2023-10-16,General,Pneumonia,Dr. Kariuki,,Recovered,11,14.0
+ADM-00249,PAT-0219,2024-04-08,2024-04-12,Orthopaedics,Malaria,Dr. Kariuki,48771.98,Recovered,94,4.0
+ADM-00567,PAT-0175,2022-02-27,2022-03-01,General,Malaria,Dr. Muthoni,76911.77,Recovered,108,2.0
+ADM-00016,PAT-0212,2024-04-03,2024-04-08,Paediatrics,Fracture,Dr. Muthoni,,Recovered,5,5.0
+ADM-00563,PAT-0046,2023-02-12,2023-02-15,Oncology,Acute Gastroenteritis,Dr. Omondi,82370.05,Absconded,12,3.0
+ADM-00335,PAT-0326,2022-10-22,2022-11-08,Orthopaedics,Pneumonia,Dr. Kariuki,101199.68,Deceased,57,17.0
+ADM-00505,PAT-0337,2023-08-26,2023-09-01,Surgical,Diabetes Mellitus,Dr. Wanjiku,149072.5,Deceased,55,6.0
+ADM-00077,PAT-0005,2022-05-24,,Oncology,Malaria,Dr. Otieno,45554.28,Absconded,86,
+ADM-00074,PAT-0281,2023-07-23,2023-08-07,Surgical,Tuberculosis,Dr. Kariuki,138647.23,Absconded,,15.0
+ADM-00347,PAT-0065,2023-06-05,2023-06-25,Surgical,,Dr. Wanjiku,35140.32,Referred,79,20.0
+ADM-00485,PAT-0109,2022-05-12,2022-06-03,Orthopaedics,Typhoid,Dr. Otieno,4855.49,Against Medical Advice,102,22.0
+ADM-00592,PAT-0394,2022-04-02,2022-04-30,Paediatrics,Sepsis,Dr. Otieno,115289.51,Deceased,,28.0
+ADM-00378,PAT-0053,2023-10-24,2023-11-14,General,Tuberculosis,Dr. Muthoni,68952.66,Absconded,112,21.0
+ADM-00205,PAT-0150,2022-08-23,2022-09-03,,Tuberculosis,Dr. Muthoni,111344.0,Recovered,117,11.0
+ADM-00331,PAT-0094,2022-03-25,2022-04-11,General,Hiv/Aids,Dr. Otieno,32837.88,Against Medical Advice,35,17.0
+ADM-00385,PAT-0041,2023-06-20,2023-07-17,Surgical,Typhoid,Dr. Otieno,81175.67,Recovered,58,27.0
+ADM-00419,PAT-0151,2022-02-16,2022-03-10,Orthopaedics,Acute Gastroenteritis,Dr. Chebet,113111.87,Referred,111,22.0
+ADM-00346,PAT-0092,2022-06-01,,,Pneumonia,Dr. Omondi,74885.21,Absconded,36,
+ADM-00463,PAT-0013,2024-05-06,2024-05-11,Maternity,Pneumonia,Dr. Omondi,106200.28,Recovered,106,5.0
+ADM-00437,PAT-0375,2023-03-23,2023-03-31,,Road Traffic Accident,Dr. Kariuki,31498.3,Recovered,,8.0
+ADM-00321,PAT-0312,2024-05-16,,Paediatrics,Appendicitis,Dr. Muthoni,135831.76,Referred,39,
+ADM-00481,PAT-0225,2024-01-17,2024-02-14,Orthopaedics,Sepsis,Dr. Chebet,57402.8,Absconded,116,28.0
+ADM-00070,PAT-0382,2023-04-25,2023-05-24,Paediatrics,Preeclampsia,Dr. Wanjiku,81471.67,Deceased,97,29.0
+ADM-00568,PAT-0128,2023-03-12,2023-03-31,,Typhoid,Dr. Wanjiku,65577.23,Absconded,38,19.0
+ADM-00369,PAT-0198,2024-01-11,2024-01-24,Oncology,Tuberculosis,Dr. Muthoni,133720.7,Absconded,64,13.0
+ADM-00439,PAT-0150,2023-12-15,2023-12-24,Oncology,Malaria,Dr. Kariuki,94719.89,Absconded,87,9.0
+ADM-00079,PAT-0137,2023-06-05,,Paediatrics,Typhoid,Dr. Omondi,45106.26,Absconded,82,
+ADM-00203,PAT-0121,2022-10-30,2022-11-10,General,Hiv/Aids,Dr. Chebet,83530.46,,13,11.0
+ADM-00277,PAT-0285,2022-05-31,2022-06-26,Surgical,Diabetes Mellitus,Dr. Chebet,64840.56,Absconded,58,26.0
+ADM-00062,PAT-0104,2023-12-05,2023-12-22,Orthopaedics,Typhoid,Dr. Otieno,25668.94,Referred,64,17.0
+ADM-00224,PAT-0109,2022-09-05,2022-10-03,Orthopaedics,Fracture,Dr. Otieno,93557.98,Recovered,67,28.0
+ADM-00193,PAT-0381,2022-05-03,2022-05-11,,,Dr. Otieno,146859.25,Deceased,20,8.0
+ADM-00395,PAT-0022,2023-04-28,2023-05-15,Oncology,Fracture,Dr. Wanjiku,43992.2,,67,17.0
+ADM-00442,PAT-0342,2023-06-03,2023-06-27,General,Typhoid,Dr. Omondi,122560.34,Against Medical Advice,40,24.0
+ADM-00266,PAT-0192,2024-02-19,2024-03-09,Orthopaedics,Preeclampsia,Dr. Otieno,4206.55,Deceased,94,19.0
+ADM-00011,PAT-0321,2024-03-23,2024-04-10,Maternity,Preeclampsia,Dr. Kariuki,133420.24,Absconded,119,18.0
+ADM-00471,PAT-0372,2024-02-22,2024-03-02,Maternity,Malaria,Dr. Wanjiku,83094.37,Against Medical Advice,106,9.0
+ADM-00038,PAT-0213,2022-06-27,2022-07-04,Surgical,Diabetes Mellitus,Dr. Chebet,117629.58,Against Medical Advice,,7.0
+ADM-00003,PAT-0009,2022-10-10,2022-10-16,Surgical,Fracture,Dr. Wanjiku,109539.89,Absconded,39,6.0
+ADM-00026,PAT-0093,2023-02-02,,Surgical,,Dr. Otieno,8368.27,Against Medical Advice,102,
+ADM-00053,PAT-0276,2023-08-31,2023-09-10,Maternity,Acute Gastroenteritis,Dr. Chebet,,Recovered,15,10.0
+ADM-00217,PAT-0331,2023-11-20,2023-12-02,Orthopaedics,Preeclampsia,Dr. Chebet,57114.94,,118,12.0
+ADM-00417,PAT-0337,2024-04-09,2024-04-21,Maternity,Acute Gastroenteritis,Dr. Otieno,53597.9,Recovered,32,12.0
+ADM-00538,PAT-0041,2023-04-20,2023-05-07,,,Dr. Chebet,,Deceased,3,17.0
+ADM-00341,PAT-0358,2022-11-21,2022-12-16,Surgical,Anaemia,,50623.21,Absconded,21,25.0
+ADM-00167,PAT-0056,2023-02-11,2023-03-13,General,Sepsis,Dr. Muthoni,72271.12,Referred,94,30.0
+ADM-00415,PAT-0361,2022-09-06,2022-09-16,General,Pneumonia,Dr. Chebet,3905.88,Recovered,68,10.0
+ADM-00178,PAT-0303,2022-05-12,2022-06-07,,Appendicitis,Dr. Muthoni,132120.79,Recovered,15,26.0
+ADM-00248,PAT-0264,2023-07-09,2023-07-10,General,Typhoid,Dr. Muthoni,65054.7,Against Medical Advice,119,1.0
+ADM-00273,PAT-0295,2022-03-03,2022-03-20,General,Road Traffic Accident,Dr. Otieno,19949.14,Deceased,69,17.0
+ADM-00397,PAT-0287,2022-10-29,2022-11-02,Orthopaedics,Tuberculosis,Dr. Chebet,87778.15,Against Medical Advice,31,4.0
+ADM-00454,PAT-0036,2023-03-28,2023-04-05,Oncology,Appendicitis,Dr. Muthoni,77171.44,Deceased,31,8.0
+ADM-00493,PAT-0384,2023-05-25,2023-05-30,Oncology,Fracture,Dr. Wanjiku,19241.26,Referred,87,5.0
+ADM-00480,PAT-0258,2023-07-07,2023-07-13,,Acute Gastroenteritis,Dr. Wanjiku,138438.63,Deceased,80,6.0
+ADM-00268,PAT-0313,2023-01-20,2023-01-29,Orthopaedics,,Dr. Omondi,4556.67,Deceased,25,9.0
+ADM-00408,PAT-0035,2023-12-02,2023-12-06,Surgical,Pneumonia,Dr. Chebet,21996.59,Referred,85,4.0
+ADM-00055,PAT-0067,2023-11-16,2023-12-08,General,Fracture,Dr. Wanjiku,77510.22,Against Medical Advice,24,22.0
+ADM-00115,PAT-0282,2022-07-03,2022-07-15,Surgical,Fracture,Dr. Omondi,54655.55,Absconded,119,12.0
+ADM-00388,PAT-0391,2023-07-24,2023-08-21,Maternity,Road Traffic Accident,Dr. Chebet,40100.78,Absconded,51,28.0
+ADM-00509,PAT-0290,2022-12-27,2022-12-29,Oncology,Acute Gastroenteritis,Dr. Chebet,112586.53,Recovered,12,2.0
+ADM-00152,PAT-0330,2022-03-12,2022-04-08,Oncology,Pneumonia,Dr. Muthoni,52357.82,Referred,62,27.0
+ADM-00180,PAT-0356,2024-04-21,2024-05-19,Paediatrics,Acute Gastroenteritis,Dr. Otieno,113972.06,,118,28.0
+ADM-00155,PAT-0369,2023-01-19,2023-01-24,Maternity,Anaemia,Dr. Kariuki,44888.55,Against Medical Advice,89,5.0
+ADM-00257,PAT-0383,2024-03-28,2024-03-30,General,Anaemia,Dr. Omondi,99335.52,Deceased,102,2.0
+ADM-00332,PAT-0032,2022-10-07,2022-10-11,,Anaemia,Dr. Otieno,90387.39,Absconded,120,4.0
+ADM-00460,PAT-0025,2023-10-25,2023-11-13,Orthopaedics,Fracture,Dr. Muthoni,81400.74,Against Medical Advice,89,19.0
+ADM-00176,PAT-0030,2022-03-27,2022-04-17,Surgical,Diabetes Mellitus,Dr. Omondi,149119.94,Against Medical Advice,64,21.0
+ADM-00030,PAT-0338,2022-10-22,2022-11-11,Paediatrics,Hiv/Aids,Dr. Otieno,30115.11,Recovered,26,20.0
+ADM-00127,PAT-0327,2022-03-16,2022-03-28,Paediatrics,Typhoid,Dr. Wanjiku,70203.33,Referred,96,12.0
+ADM-00371,PAT-0021,2022-09-28,2022-10-24,,Preeclampsia,Dr. Muthoni,,Absconded,107,26.0
+ADM-00071,PAT-0151,2024-04-01,2024-04-23,Orthopaedics,Appendicitis,Dr. Kariuki,112317.54,Against Medical Advice,25,22.0
+ADM-00487,PAT-0324,2022-07-17,2022-07-25,,Preeclampsia,Dr. Wanjiku,3849.89,Recovered,30,8.0
+ADM-00512,PAT-0191,2022-07-22,2022-08-09,Paediatrics,Pneumonia,Dr. Wanjiku,41776.68,Referred,65,18.0
+ADM-00216,PAT-0097,2022-10-28,2022-11-19,Maternity,Pneumonia,Dr. Omondi,76802.53,Deceased,13,22.0
+ADM-00473,PAT-0061,2024-01-19,2024-01-25,General,Pneumonia,Dr. Otieno,72654.39,Recovered,53,6.0
+ADM-00231,PAT-0094,2023-10-16,,Oncology,Typhoid,,63143.61,Deceased,68,
+ADM-00267,PAT-0382,2023-03-19,2023-04-04,Paediatrics,Hypertension,Dr. Muthoni,138503.33,Against Medical Advice,47,16.0
+ADM-00431,PAT-0257,2024-03-21,2024-04-06,Oncology,Sepsis,Dr. Chebet,,,33,16.0
+ADM-00348,PAT-0327,2022-12-22,2023-01-13,Surgical,Fracture,Dr. Chebet,43068.98,Against Medical Advice,24,22.0
+ADM-00028,PAT-0395,2022-04-18,2022-05-15,Orthopaedics,Malaria,,146750.66,Against Medical Advice,96,27.0
+ADM-00318,PAT-0334,2022-07-03,2022-07-06,Orthopaedics,Sepsis,Dr. Kariuki,77848.3,Absconded,62,3.0
+ADM-00278,PAT-0346,2022-01-05,2022-01-12,Surgical,Typhoid,Dr. Muthoni,131940.41,Absconded,10,7.0
+ADM-00120,PAT-0240,2022-09-02,2022-09-06,Surgical,Preeclampsia,Dr. Otieno,131260.76,Absconded,37,4.0
+ADM-00229,PAT-0330,2023-02-22,2023-03-15,Orthopaedics,Road Traffic Accident,Dr. Chebet,49144.09,Deceased,83,21.0
+ADM-00170,PAT-0102,2023-12-08,2023-12-24,Orthopaedics,Preeclampsia,Dr. Omondi,97113.38,Recovered,43,16.0
+ADM-00148,PAT-0244,2022-11-09,2022-12-04,Maternity,Diabetes Mellitus,Dr. Otieno,58567.88,Deceased,67,25.0
+ADM-00286,PAT-0027,2023-04-30,2023-05-09,Paediatrics,Anaemia,Dr. Muthoni,102406.06,Referred,84,9.0
+ADM-00215,PAT-0291,2022-07-15,2022-07-24,Paediatrics,Hypertension,Dr. Wanjiku,38090.3,Against Medical Advice,50,9.0
+ADM-00390,PAT-0204,2022-03-23,2022-04-09,Paediatrics,,Dr. Wanjiku,134947.03,Deceased,40,17.0
+ADM-00584,PAT-0206,2023-11-27,2023-12-19,Orthopaedics,Pneumonia,Dr. Kariuki,91273.02,Recovered,112,22.0
+ADM-00502,PAT-0187,2024-02-13,2024-02-27,Maternity,Hiv/Aids,Dr. Muthoni,97994.65,Referred,67,14.0
+ADM-00380,PAT-0345,2022-02-12,2022-03-01,Paediatrics,Malaria,Dr. Wanjiku,70351.36,Recovered,108,17.0
+ADM-00107,PAT-0157,2023-02-14,2023-02-24,Orthopaedics,Acute Gastroenteritis,Dr. Otieno,118467.23,Referred,51,10.0
+ADM-00364,PAT-0344,2022-03-26,2022-04-02,Orthopaedics,Road Traffic Accident,Dr. Chebet,,Against Medical Advice,76,7.0
+ADM-00579,PAT-0075,2022-09-16,2022-09-25,General,Sepsis,Dr. Wanjiku,42964.72,Referred,17,9.0
+ADM-00420,PAT-0257,2023-03-04,2023-03-16,General,Preeclampsia,Dr. Omondi,21275.45,Deceased,56,12.0
+ADM-00260,PAT-0345,2023-08-24,2023-09-17,Surgical,Tuberculosis,Dr. Wanjiku,109459.59,,120,24.0
+ADM-00043,PAT-0061,2022-09-09,2022-09-17,Oncology,Preeclampsia,Dr. Omondi,21432.61,Absconded,11,8.0
+ADM-00598,PAT-0237,2022-02-06,2022-02-20,Surgical,Preeclampsia,Dr. Kariuki,53253.08,Referred,59,14.0
+ADM-00171,PAT-0088,2023-05-26,2023-06-12,Maternity,Pneumonia,Dr. Wanjiku,60452.15,Referred,119,17.0
+ADM-00255,PAT-0209,2023-04-09,2023-04-17,General,Sepsis,Dr. Wanjiku,87166.56,Referred,19,8.0
+ADM-00523,PAT-0344,2023-05-12,2023-06-09,Maternity,Sepsis,Dr. Kariuki,87401.49,Against Medical Advice,55,28.0
+ADM-00091,PAT-0007,2022-12-11,2022-12-23,Orthopaedics,Appendicitis,Dr. Muthoni,11706.28,Against Medical Advice,83,12.0
+ADM-00594,PAT-0197,2023-04-19,2023-05-10,Surgical,Diabetes Mellitus,Dr. Omondi,147402.93,Absconded,81,21.0
+ADM-00307,PAT-0075,2024-01-04,2024-01-11,Paediatrics,Road Traffic Accident,Dr. Omondi,54041.75,Referred,33,7.0
+ADM-00036,PAT-0272,2022-11-08,2022-11-19,,Acute Gastroenteritis,Dr. Otieno,63761.29,Absconded,107,11.0
+ADM-00459,PAT-0257,2022-08-12,2022-08-30,,Sepsis,Dr. Chebet,,Absconded,37,18.0
+ADM-00357,PAT-0381,2024-03-22,2024-04-07,Surgical,Diabetes Mellitus,Dr. Muthoni,67677.36,Against Medical Advice,41,16.0
+ADM-00270,PAT-0040,2023-07-07,2023-07-13,Maternity,Fracture,,15951.58,Against Medical Advice,29,6.0
+ADM-00409,PAT-0181,2022-06-13,2022-07-12,General,Acute Gastroenteritis,Dr. Otieno,8613.76,Deceased,2,29.0
+ADM-00119,PAT-0394,2022-12-19,2022-12-31,Maternity,Anaemia,Dr. Omondi,80184.59,Recovered,29,12.0
+ADM-00163,PAT-0331,2023-07-25,2023-08-08,General,Pneumonia,Dr. Muthoni,76148.46,Deceased,87,14.0
+ADM-00550,PAT-0066,2023-11-10,2023-11-26,Maternity,Diabetes Mellitus,Dr. Muthoni,135906.48,Deceased,15,16.0
+ADM-00476,PAT-0349,2022-12-15,2022-12-20,Paediatrics,,,133906.32,Absconded,105,5.0
+ADM-00007,PAT-0224,2024-02-17,2024-03-17,General,,Dr. Omondi,50635.31,Against Medical Advice,70,29.0
+ADM-00306,PAT-0213,2023-10-27,2023-11-23,,Appendicitis,,61184.72,Absconded,99,27.0
+ADM-00394,PAT-0269,2024-03-18,2024-04-02,Surgical,Acute Gastroenteritis,Dr. Muthoni,100700.66,Deceased,67,15.0
+ADM-00292,PAT-0139,2022-03-20,2022-04-02,Surgical,Typhoid,Dr. Wanjiku,76744.72,Deceased,24,13.0
+ADM-00175,PAT-0079,2022-08-26,2022-09-21,Surgical,Acute Gastroenteritis,Dr. Chebet,77724.07,Absconded,95,26.0
+ADM-00543,PAT-0160,2022-04-02,,,Preeclampsia,Dr. Muthoni,120587.4,Against Medical Advice,6,
+ADM-00100,PAT-0057,2024-04-06,2024-04-30,Maternity,Anaemia,Dr. Omondi,141328.56,Recovered,13,24.0
+ADM-00230,PAT-0350,2022-09-18,2022-09-28,Surgical,Fracture,Dr. Wanjiku,135387.9,Deceased,21,10.0
+ADM-00265,PAT-0188,2022-04-18,2022-05-18,Orthopaedics,Anaemia,Dr. Chebet,56400.93,Deceased,52,30.0
+ADM-00518,PAT-0172,2023-03-26,2023-04-23,Surgical,Acute Gastroenteritis,,48516.18,Against Medical Advice,38,28.0
+ADM-00533,PAT-0276,2023-07-15,2023-08-11,Orthopaedics,Malaria,Dr. Otieno,129664.71,Recovered,99,27.0
+ADM-00526,PAT-0035,2023-03-07,2023-04-01,Paediatrics,Anaemia,Dr. Omondi,14230.14,Recovered,93,25.0
+ADM-00218,PAT-0179,2024-04-17,,Orthopaedics,Pneumonia,Dr. Muthoni,64584.04,Referred,118,
+ADM-00383,PAT-0156,2022-05-20,2022-06-15,,Malaria,Dr. Muthoni,121379.24,Deceased,76,26.0
+ADM-00099,PAT-0145,2023-08-23,2023-09-20,Maternity,,Dr. Chebet,30551.62,Absconded,6,28.0
+ADM-00190,PAT-0196,2024-02-29,2024-03-26,,Hiv/Aids,Dr. Chebet,25769.54,,4,26.0
+ADM-00304,PAT-0172,2022-08-13,2022-08-30,,Preeclampsia,Dr. Omondi,37585.48,Against Medical Advice,73,17.0
+ADM-00261,PAT-0030,2024-01-31,2024-02-06,Orthopaedics,Diabetes Mellitus,Dr. Otieno,77764.34,Against Medical Advice,33,6.0
+ADM-00145,PAT-0369,2022-11-11,2022-11-22,Paediatrics,Diabetes Mellitus,Dr. Chebet,46071.87,,74,11.0
+ADM-00560,PAT-0079,2023-01-15,2023-01-20,Orthopaedics,Acute Gastroenteritis,Dr. Omondi,82198.5,Deceased,,5.0
+ADM-00453,PAT-0393,2023-06-10,2023-07-10,Oncology,Road Traffic Accident,Dr. Omondi,50260.76,Against Medical Advice,9,30.0
+ADM-00284,PAT-0155,2024-05-29,2024-06-20,General,Hypertension,Dr. Omondi,14437.04,Deceased,52,22.0
+ADM-00012,PAT-0187,2023-10-28,2023-11-11,General,Anaemia,Dr. Omondi,87818.84,Against Medical Advice,62,14.0
+ADM-00504,PAT-0058,2022-07-08,2022-08-02,Paediatrics,Pneumonia,Dr. Wanjiku,8100.85,Against Medical Advice,,25.0
+ADM-00452,PAT-0188,2022-12-13,2022-12-22,General,Pneumonia,Dr. Chebet,112675.72,Referred,,9.0
+ADM-00182,PAT-0081,2024-02-08,2024-03-03,Orthopaedics,Preeclampsia,Dr. Omondi,98911.61,Recovered,12,24.0
+ADM-00461,PAT-0008,2023-12-20,2024-01-02,Surgical,Tuberculosis,Dr. Chebet,9902.61,,47,13.0
+ADM-00128,PAT-0277,2023-02-17,2023-03-15,Maternity,Hiv/Aids,Dr. Muthoni,118392.02,Absconded,32,26.0
+ADM-00522,PAT-0294,2022-05-30,2022-06-05,Surgical,,Dr. Omondi,,Deceased,111,6.0
+ADM-00034,PAT-0038,2023-05-15,2023-05-27,Surgical,Hiv/Aids,Dr. Chebet,64685.74,Against Medical Advice,118,12.0
+ADM-00238,PAT-0026,2022-04-05,2022-05-03,Maternity,Road Traffic Accident,Dr. Otieno,64823.23,Absconded,65,28.0
+ADM-00283,PAT-0360,2022-12-31,2023-01-18,Surgical,,Dr. Otieno,20809.02,Recovered,75,18.0
+ADM-00075,PAT-0341,2023-12-09,2023-12-31,,,Dr. Kariuki,31407.37,Against Medical Advice,101,22.0
+ADM-00363,PAT-0360,2023-05-16,2023-05-24,Maternity,,Dr. Muthoni,95479.47,Deceased,98,8.0
+ADM-00244,PAT-0293,2023-03-27,2023-04-09,Oncology,Preeclampsia,Dr. Wanjiku,51029.67,,99,13.0
+ADM-00092,PAT-0021,2023-05-01,2023-05-03,Surgical,Fracture,Dr. Wanjiku,39159.46,Referred,113,2.0
+ADM-00093,PAT-0256,2022-01-30,2022-02-07,Oncology,Typhoid,Dr. Otieno,6874.36,Referred,100,8.0
+ADM-00445,PAT-0356,2023-04-22,2023-05-06,,Fracture,Dr. Omondi,21417.18,Deceased,17,14.0
+ADM-00338,PAT-0228,2022-06-22,2022-06-23,Paediatrics,Tuberculosis,Dr. Kariuki,147572.93,Deceased,6,1.0
+ADM-00400,PAT-0153,2023-10-09,2023-10-18,Oncology,Malaria,Dr. Otieno,97526.72,Absconded,18,9.0
+ADM-00280,PAT-0181,2023-04-23,2023-04-27,General,Malaria,Dr. Muthoni,48474.95,Against Medical Advice,,4.0
+ADM-00157,PAT-0194,2023-03-15,2023-03-23,Maternity,Hypertension,Dr. Omondi,145355.31,Against Medical Advice,71,8.0
+ADM-00302,PAT-0048,2022-01-15,2022-02-12,Paediatrics,Acute Gastroenteritis,Dr. Kariuki,59704.95,Referred,2,28.0
+ADM-00498,PAT-0055,2024-01-04,2024-01-13,,,Dr. Kariuki,45895.22,Deceased,11,9.0
+ADM-00086,PAT-0104,2022-11-03,2022-11-28,Orthopaedics,Pneumonia,Dr. Chebet,102896.23,Deceased,5,25.0
+ADM-00191,PAT-0332,2024-01-04,2024-01-26,Oncology,Road Traffic Accident,Dr. Otieno,34367.37,Deceased,29,22.0
+ADM-00040,PAT-0229,2023-01-30,2023-02-26,Oncology,Hypertension,Dr. Otieno,145534.88,Against Medical Advice,112,27.0
+ADM-00112,PAT-0293,2022-01-11,2022-02-07,Maternity,,Dr. Otieno,44701.42,Absconded,50,27.0
+ADM-00596,PAT-0245,2022-07-18,2022-07-29,Paediatrics,Preeclampsia,Dr. Muthoni,102597.57,Absconded,8,11.0
+ADM-00521,PAT-0222,2023-04-19,,Orthopaedics,Pneumonia,Dr. Muthoni,63980.59,Against Medical Advice,94,
+ADM-00311,PAT-0064,2023-07-02,2023-07-24,General,Hypertension,Dr. Muthoni,,Deceased,4,22.0
+ADM-00005,PAT-0075,2022-02-25,2022-03-14,Maternity,Tuberculosis,Dr. Chebet,134893.19,Deceased,101,17.0
+ADM-00508,PAT-0116,2022-04-15,,,Hypertension,Dr. Otieno,36594.44,Absconded,117,
+ADM-00574,PAT-0317,2022-12-15,2023-01-10,,Appendicitis,Dr. Muthoni,108474.25,Referred,66,26.0
+ADM-00234,PAT-0390,2023-04-17,2023-05-16,Orthopaedics,Typhoid,Dr. Wanjiku,104972.45,Against Medical Advice,65,29.0
+ADM-00165,PAT-0321,2023-05-21,2023-06-09,,Hypertension,Dr. Wanjiku,70922.26,Recovered,11,19.0
+ADM-00106,PAT-0288,2022-05-15,2022-05-27,Surgical,Road Traffic Accident,Dr. Wanjiku,,Absconded,90,12.0
+ADM-00242,PAT-0071,2022-04-20,2022-04-26,,Sepsis,Dr. Wanjiku,63533.41,Referred,114,6.0
+ADM-00186,PAT-0147,2024-05-30,2024-06-04,General,Anaemia,Dr. Otieno,82762.0,Recovered,103,5.0
+ADM-00440,PAT-0241,2023-11-17,2023-12-09,Oncology,Appendicitis,Dr. Muthoni,39728.08,Recovered,94,22.0
+ADM-00254,PAT-0251,2022-06-04,2022-06-24,General,Appendicitis,Dr. Muthoni,138248.93,Absconded,13,20.0
+ADM-00263,PAT-0260,2022-10-07,2022-10-21,Orthopaedics,Anaemia,Dr. Wanjiku,99828.69,Recovered,6,14.0
+ADM-00209,PAT-0056,2023-09-21,,General,Pneumonia,,27879.65,Referred,15,
+ADM-00482,PAT-0395,2022-07-20,2022-08-03,Oncology,Hypertension,Dr. Omondi,105577.93,Against Medical Advice,30,14.0
+ADM-00580,PAT-0127,2023-04-26,,Orthopaedics,Hypertension,Dr. Chebet,,Deceased,38,
+ADM-00450,PAT-0040,2022-01-11,2022-01-20,Maternity,Anaemia,Dr. Omondi,25043.72,Recovered,103,9.0
+ADM-00083,PAT-0293,2022-07-29,2022-08-06,,Tuberculosis,Dr. Otieno,101579.91,Recovered,77,8.0
+ADM-00566,PAT-0165,2022-07-01,2022-07-09,Maternity,Road Traffic Accident,Dr. Otieno,,Recovered,16,8.0
+ADM-00072,PAT-0327,2022-10-05,2022-10-11,Surgical,Hiv/Aids,Dr. Omondi,37057.85,,64,6.0
+ADM-00537,PAT-0212,2024-05-15,2024-06-09,General,Acute Gastroenteritis,Dr. Kariuki,95431.73,Against Medical Advice,35,25.0
+ADM-00290,PAT-0141,2022-07-04,2022-07-19,Paediatrics,Sepsis,Dr. Omondi,147380.45,Against Medical Advice,42,15.0
+ADM-00088,PAT-0132,2023-10-28,2023-10-29,Paediatrics,Acute Gastroenteritis,Dr. Chebet,76650.77,Recovered,85,1.0
+ADM-00065,PAT-0150,2024-01-15,2024-01-29,Oncology,,,144261.51,Absconded,57,14.0
+ADM-00094,PAT-0165,2022-08-28,2022-09-22,General,Hypertension,Dr. Omondi,139926.03,Against Medical Advice,3,25.0
+ADM-00448,PAT-0388,2023-11-16,2023-11-21,Surgical,Hiv/Aids,Dr. Muthoni,43731.49,Absconded,45,5.0
+ADM-00275,PAT-0105,2023-10-15,2023-10-17,General,Anaemia,Dr. Otieno,51109.53,Deceased,36,2.0
+ADM-00214,PAT-0088,2022-02-07,2022-03-01,Maternity,Malaria,Dr. Otieno,22266.28,Referred,53,22.0
+ADM-00144,PAT-0102,2023-04-29,2023-05-20,Paediatrics,Sepsis,Dr. Muthoni,48638.76,Deceased,16,21.0
+ADM-00464,PAT-0302,2023-11-05,2023-12-03,,Typhoid,Dr. Otieno,96115.94,Referred,17,28.0
+ADM-00549,PAT-0352,2022-04-16,2022-05-04,Oncology,Hiv/Aids,Dr. Muthoni,59239.24,Against Medical Advice,34,18.0
+ADM-00154,PAT-0200,2022-08-28,2022-09-17,Maternity,Acute Gastroenteritis,Dr. Omondi,39228.2,Referred,68,20.0
+ADM-00102,PAT-0173,2023-04-06,2023-04-28,Surgical,Preeclampsia,Dr. Chebet,130185.58,Absconded,34,22.0
+ADM-00600,PAT-0113,2023-07-13,2023-07-14,Maternity,Acute Gastroenteritis,Dr. Otieno,87023.47,Absconded,38,1.0
+ADM-00411,PAT-0325,2022-12-06,2022-12-23,Orthopaedics,Malaria,Dr. Wanjiku,52778.32,Referred,99,17.0
+ADM-00377,PAT-0004,2024-05-29,2024-06-24,General,Hypertension,Dr. Muthoni,8590.41,Deceased,3,26.0
+ADM-00309,PAT-0019,2022-06-30,2022-07-01,Surgical,Pneumonia,Dr. Wanjiku,7353.33,Recovered,64,1.0
+ADM-00496,PAT-0253,2023-09-29,2023-10-03,General,Acute Gastroenteritis,Dr. Muthoni,146560.17,Deceased,68,4.0
+ADM-00006,PAT-0110,2022-02-17,2022-03-04,Paediatrics,Preeclampsia,Dr. Omondi,81400.42,Recovered,114,15.0
+ADM-00045,PAT-0216,2022-03-07,2022-03-25,Paediatrics,Road Traffic Accident,Dr. Wanjiku,,Recovered,118,18.0
+ADM-00114,PAT-0347,2023-03-22,2023-04-14,Orthopaedics,Sepsis,Dr. Muthoni,68447.02,Against Medical Advice,49,23.0
+ADM-00391,PAT-0344,2022-04-23,2022-05-22,Orthopaedics,Pneumonia,Dr. Otieno,21895.88,Absconded,107,29.0
+ADM-00221,PAT-0274,2022-11-17,2022-12-12,Orthopaedics,Hypertension,Dr. Chebet,75727.25,Referred,11,25.0
+ADM-00350,PAT-0023,2023-05-03,2023-05-29,Orthopaedics,Anaemia,,122731.92,Absconded,5,26.0
+ADM-00358,PAT-0058,2022-03-11,2022-03-21,Surgical,Malaria,Dr. Omondi,114124.5,Recovered,,10.0
+ADM-00211,PAT-0140,2022-04-05,2022-04-26,Paediatrics,Diabetes Mellitus,Dr. Otieno,149292.3,Against Medical Advice,41,21.0
+ADM-00134,PAT-0109,2023-03-24,2023-04-11,Oncology,Hiv/Aids,Dr. Chebet,33328.64,,32,18.0
+ADM-00262,PAT-0137,2022-10-12,2022-10-25,Maternity,Pneumonia,Dr. Muthoni,58868.06,Against Medical Advice,103,13.0
+ADM-00279,PAT-0318,2023-08-06,,Oncology,Diabetes Mellitus,Dr. Otieno,18600.02,Against Medical Advice,85,
+ADM-00387,PAT-0217,2024-05-26,2024-06-08,Paediatrics,Hiv/Aids,Dr. Muthoni,31533.5,Absconded,116,13.0
+ADM-00080,PAT-0357,2023-06-17,2023-06-25,,Preeclampsia,Dr. Chebet,125362.75,Referred,88,8.0
+ADM-00412,PAT-0082,2023-03-26,2023-04-13,Surgical,Pneumonia,Dr. Wanjiku,121150.06,Deceased,69,18.0
+ADM-00116,PAT-0039,2023-05-31,2023-06-27,Surgical,Tuberculosis,,96541.42,Against Medical Advice,112,27.0
+ADM-00506,PAT-0171,2024-03-19,,Orthopaedics,Anaemia,Dr. Omondi,88368.73,Against Medical Advice,42,
+ADM-00520,PAT-0078,2022-11-30,2022-12-30,Orthopaedics,Fracture,Dr. Otieno,103173.55,Deceased,83,30.0
+ADM-00374,PAT-0123,2023-04-06,2023-04-26,Orthopaedics,Hiv/Aids,Dr. Muthoni,62797.6,Against Medical Advice,96,20.0
+ADM-00207,PAT-0199,2022-01-15,2022-02-06,,Sepsis,Dr. Wanjiku,80732.67,Recovered,90,22.0
+ADM-00381,PAT-0182,2022-07-16,2022-08-13,Paediatrics,Fracture,Dr. Wanjiku,87212.06,Referred,87,28.0
+ADM-00573,PAT-0291,2022-11-17,2022-11-19,Maternity,Acute Gastroenteritis,None,28031.86,Deceased,85,2.0
+ADM-00185,PAT-0117,2022-04-08,2022-04-29,Paediatrics,,Dr. Muthoni,,Recovered,10,21.0
+ADM-00477,PAT-0290,2024-01-28,2024-02-20,,Road Traffic Accident,Dr. Kariuki,12716.88,Recovered,43,23.0
+ADM-00359,PAT-0122,2024-04-01,2024-04-30,Orthopaedics,Acute Gastroenteritis,Dr. Otieno,65049.74,Absconded,34,29.0
+ADM-00519,PAT-0096,2023-01-20,2023-01-23,Paediatrics,Preeclampsia,Dr. Chebet,127482.2,Absconded,41,3.0
+ADM-00515,PAT-0390,2022-08-11,2022-08-21,,Sepsis,Dr. Otieno,4399.79,Against Medical Advice,38,10.0
+ADM-00340,PAT-0141,2023-07-24,2023-07-26,Surgical,Preeclampsia,Dr. Wanjiku,67533.2,Deceased,91,2.0
+ADM-00424,PAT-0008,2024-03-29,2024-04-09,Surgical,,Dr. Wanjiku,9606.71,Referred,69,11.0
+ADM-00243,PAT-0036,2022-01-11,2022-02-06,Oncology,Tuberculosis,Dr. Kariuki,87027.25,Absconded,90,26.0
+ADM-00421,PAT-0380,2023-09-23,2023-10-07,Oncology,Road Traffic Accident,Dr. Chebet,45732.31,Deceased,103,14.0
+ADM-00010,PAT-0340,2022-08-09,2022-08-17,Maternity,Tuberculosis,Dr. Chebet,117743.38,Absconded,66,8.0
+ADM-00294,PAT-0270,2022-09-28,2022-10-06,General,Fracture,Dr. Muthoni,22928.59,Absconded,,8.0
+ADM-00046,PAT-0309,2022-02-22,2022-02-23,Maternity,Tuberculosis,,21274.41,Recovered,36,1.0
+ADM-00572,PAT-0011,2023-01-07,2023-01-11,Surgical,Hiv/Aids,Dr. Muthoni,97842.03,Referred,62,4.0
+ADM-00096,PAT-0040,2024-01-03,2024-01-11,Surgical,Fracture,Dr. Otieno,141692.55,Absconded,31,8.0
+ADM-00557,PAT-0055,2023-08-29,2023-09-04,Maternity,Sepsis,Dr. Wanjiku,81518.55,Recovered,7,6.0
+ADM-00037,PAT-0109,2023-06-17,,Oncology,Anaemia,Dr. Chebet,64409.82,,71,
+ADM-00049,PAT-0041,2022-06-27,2022-07-17,Orthopaedics,Anaemia,Dr. Chebet,122420.87,Recovered,9,20.0
+ADM-00416,PAT-0054,2023-01-31,2023-02-11,Surgical,Malaria,Dr. Wanjiku,118309.71,Absconded,69,11.0
+ADM-00314,PAT-0351,2023-03-14,2023-03-27,Paediatrics,Anaemia,Dr. Wanjiku,146971.29,Against Medical Advice,28,13.0
+ADM-00422,PAT-0320,2023-06-27,2023-07-09,Oncology,Sepsis,,135364.07,,115,12.0
+ADM-00123,PAT-0087,2022-08-05,2022-08-29,Orthopaedics,Appendicitis,Dr. Muthoni,,Against Medical Advice,53,24.0
+ADM-00524,PAT-0256,2023-06-18,2023-07-08,Surgical,Sepsis,Dr. Wanjiku,,Deceased,111,20.0
+ADM-00597,PAT-0316,2024-04-15,2024-04-25,Oncology,Diabetes Mellitus,Dr. Kariuki,114086.91,Deceased,60,10.0
+ADM-00362,PAT-0040,2023-07-17,2023-08-15,Surgical,Sepsis,Dr. Kariuki,124601.25,Referred,,29.0
+ADM-00337,PAT-0036,2022-04-16,2022-04-27,Orthopaedics,Anaemia,Dr. Wanjiku,120313.42,Recovered,110,11.0
+ADM-00136,PAT-0371,2022-12-18,2023-01-04,Maternity,,Dr. Wanjiku,97079.23,,112,17.0
+ADM-00316,PAT-0310,2023-02-08,2023-02-28,Paediatrics,Sepsis,Dr. Omondi,,Absconded,86,20.0
+ADM-00198,PAT-0232,2022-12-09,2022-12-21,General,Pneumonia,Dr. Wanjiku,52279.73,Deceased,78,12.0
+ADM-00428,PAT-0099,2022-04-22,2022-05-10,Orthopaedics,Acute Gastroenteritis,Dr. Omondi,113423.61,Deceased,48,18.0
+ADM-00258,PAT-0307,2024-06-01,2024-06-11,Oncology,Acute Gastroenteritis,Dr. Chebet,58134.26,Absconded,104,10.0
+ADM-00140,PAT-0067,2024-05-28,2024-06-06,General,Anaemia,Dr. Wanjiku,12147.59,Absconded,101,9.0
+ADM-00368,PAT-0253,2022-05-01,2022-05-08,Oncology,Typhoid,Dr. Muthoni,136014.4,Referred,11,7.0
+ADM-00593,PAT-0022,2022-12-03,2022-12-23,Paediatrics,Fracture,Dr. Otieno,147961.87,Against Medical Advice,74,20.0
+ADM-00559,PAT-0100,2023-10-01,2023-10-20,Paediatrics,Appendicitis,,127243.51,Deceased,81,19.0
+ADM-00098,PAT-0110,2024-03-13,2024-03-14,Paediatrics,Preeclampsia,,103046.08,Against Medical Advice,76,1.0
+ADM-00589,PAT-0238,2022-09-13,2022-09-29,Orthopaedics,Anaemia,Dr. Chebet,128796.42,Referred,104,16.0
+ADM-00192,PAT-0073,2022-01-01,2022-01-12,Oncology,Appendicitis,Dr. Chebet,83783.2,Against Medical Advice,,11.0
+ADM-00525,PAT-0320,2023-10-25,2023-11-12,Oncology,,Dr. Chebet,78353.6,Deceased,106,18.0
+ADM-00235,PAT-0294,2023-11-18,2023-11-30,Paediatrics,Road Traffic Accident,Dr. Otieno,141463.36,Recovered,98,12.0
+ADM-00022,PAT-0331,2022-01-25,2022-01-31,Oncology,Hypertension,Dr. Kariuki,,,,6.0
+ADM-00483,PAT-0275,2022-06-30,2022-07-28,Orthopaedics,Fracture,Dr. Otieno,128066.27,Referred,23,28.0
+ADM-00406,PAT-0239,2022-03-20,2022-03-31,Oncology,Sepsis,Dr. Muthoni,10891.17,Referred,120,11.0
+ADM-00479,PAT-0048,2023-01-10,,Oncology,Anaemia,Dr. Chebet,38467.02,Absconded,110,
+ADM-00492,PAT-0345,2022-08-22,,Paediatrics,Sepsis,Dr. Chebet,100090.06,Against Medical Advice,67,
+ADM-00047,PAT-0132,2023-04-14,2023-04-15,,Typhoid,Dr. Chebet,21574.34,,21,1.0
+ADM-00365,PAT-0180,2022-03-01,2022-03-29,General,Preeclampsia,Dr. Muthoni,88452.43,Deceased,65,28.0
+ADM-00297,PAT-0189,2023-12-19,2023-12-23,Oncology,Pneumonia,Dr. Wanjiku,85736.92,Against Medical Advice,40,4.0
+ADM-00050,PAT-0017,2022-02-13,2022-03-10,Surgical,Sepsis,Dr. Chebet,133321.53,,78,25.0
+ADM-00488,PAT-0187,2023-12-08,2024-01-04,Surgical,Road Traffic Accident,Dr. Kariuki,46203.66,Recovered,65,27.0
+ADM-00225,PAT-0305,2022-09-28,2022-10-07,Orthopaedics,,Dr. Chebet,,Against Medical Advice,21,9.0
+ADM-00064,PAT-0038,2023-12-16,2024-01-04,Orthopaedics,Road Traffic Accident,Dr. Muthoni,17024.46,,101,19.0
+ADM-00246,PAT-0270,2024-01-19,2024-02-08,Paediatrics,Diabetes Mellitus,Dr. Chebet,105769.41,Referred,111,20.0
+ADM-00540,PAT-0105,2022-11-04,2022-11-29,Orthopaedics,Anaemia,Dr. Omondi,86226.6,Deceased,114,25.0
+ADM-00188,PAT-0020,2022-06-15,2022-06-29,Orthopaedics,Road Traffic Accident,Dr. Otieno,111626.42,Deceased,61,14.0
+ADM-00407,PAT-0237,2023-12-16,2024-01-12,Orthopaedics,Acute Gastroenteritis,Dr. Muthoni,104987.68,Against Medical Advice,2,27.0
+ADM-00027,PAT-0074,2024-03-09,2024-03-27,Maternity,Fracture,Dr. Omondi,55677.76,Referred,67,18.0
+ADM-00462,PAT-0075,2024-02-11,2024-02-17,Oncology,Fracture,Dr. Wanjiku,149167.76,Against Medical Advice,21,6.0
+ADM-00060,PAT-0098,2022-05-19,2022-05-24,Orthopaedics,Diabetes Mellitus,Dr. Otieno,27760.53,,89,5.0
+ADM-00327,PAT-0373,2023-11-26,,Oncology,Pneumonia,Dr. Otieno,97758.18,Referred,58,
+ADM-00425,PAT-0358,2022-05-09,2022-05-28,Orthopaedics,Tuberculosis,Dr. Otieno,47344.55,Deceased,75,19.0
+ADM-00478,PAT-0340,2022-01-02,2022-01-13,Paediatrics,Hiv/Aids,,119777.92,Deceased,22,11.0
+ADM-00044,PAT-0038,2023-10-07,2023-11-05,Surgical,Anaemia,Dr. Chebet,19075.72,Deceased,,29.0
+ADM-00529,PAT-0257,2023-05-12,2023-05-22,Paediatrics,Appendicitis,Dr. Chebet,39044.74,Deceased,94,10.0
+ADM-00484,PAT-0330,2022-04-15,2022-04-16,,Appendicitis,Dr. Muthoni,89995.04,,78,1.0
+ADM-00219,PAT-0309,2024-04-19,2024-05-09,Orthopaedics,Acute Gastroenteritis,Dr. Omondi,40274.33,Absconded,103,20.0
+ADM-00569,PAT-0118,2022-03-24,2022-04-10,General,,Dr. Omondi,2924.14,Referred,2,17.0
+ADM-00486,PAT-0329,2022-05-08,2022-05-18,General,Diabetes Mellitus,Dr. Muthoni,38017.19,Deceased,35,10.0
+ADM-00126,PAT-0316,2022-01-13,2022-01-27,General,Hiv/Aids,Dr. Chebet,63486.86,Referred,115,14.0
+ADM-00558,PAT-0040,2023-07-26,2023-08-09,,Sepsis,Dr. Kariuki,56697.55,Recovered,86,14.0
+ADM-00325,PAT-0040,2024-05-07,2024-05-23,,Acute Gastroenteritis,Dr. Chebet,136798.64,Absconded,20,16.0
+ADM-00386,PAT-0093,2023-05-19,2023-05-30,Maternity,Appendicitis,Dr. Otieno,118671.71,Against Medical Advice,60,11.0
+ADM-00057,PAT-0061,2024-04-03,2024-04-12,Oncology,Diabetes Mellitus,Dr. Otieno,121226.92,Recovered,113,9.0
+ADM-00020,PAT-0015,2023-08-13,2023-08-20,Orthopaedics,Preeclampsia,Dr. Chebet,57235.85,Recovered,41,7.0
+ADM-00591,PAT-0315,2022-05-07,2022-05-12,Orthopaedics,Hypertension,Dr. Chebet,114617.28,Deceased,4,5.0
+ADM-00087,PAT-0323,2022-03-31,2022-04-19,Orthopaedics,Sepsis,Dr. Chebet,68630.73,Deceased,78,19.0
+ADM-00317,PAT-0168,2023-10-15,,Paediatrics,,Dr. Chebet,,Absconded,25,
+ADM-00139,PAT-0166,2022-10-03,,,Diabetes Mellitus,Dr. Omondi,118212.95,Absconded,62,
+ADM-00499,PAT-0131,2024-02-16,,Orthopaedics,Typhoid,Dr. Muthoni,54401.18,Deceased,38,
+ADM-00539,PAT-0319,2023-08-22,2023-08-26,,Anaemia,Dr. Kariuki,53685.63,Recovered,77,4.0
+ADM-00556,PAT-0386,2023-09-25,2023-10-24,Maternity,Road Traffic Accident,Dr. Kariuki,,Against Medical Advice,3,29.0
+ADM-00084,PAT-0351,2023-03-22,2023-04-03,Paediatrics,Hiv/Aids,Dr. Otieno,62209.41,Referred,65,12.0
+ADM-00447,PAT-0258,2024-01-26,2024-02-21,Oncology,Fracture,Dr. Muthoni,144823.06,Referred,24,26.0
+ADM-00475,PAT-0059,2024-03-17,,Surgical,Appendicitis,Dr. Kariuki,29297.09,Referred,95,
+ADM-00367,PAT-0035,2024-01-22,2024-02-13,Maternity,Road Traffic Accident,Dr. Otieno,64207.63,,10,22.0
+ADM-00576,PAT-0181,2022-07-30,2022-08-02,Oncology,Anaemia,Dr. Omondi,144819.77,Referred,,3.0
+ADM-00402,PAT-0266,2024-04-26,2024-05-22,Oncology,Appendicitis,Dr. Otieno,,Referred,30,26.0
+ADM-00577,PAT-0235,2024-04-09,2024-04-22,Orthopaedics,Tuberculosis,Dr. Otieno,,Absconded,43,13.0
+ADM-00272,PAT-0023,2024-05-13,2024-05-18,Paediatrics,Tuberculosis,Dr. Wanjiku,21610.09,Recovered,64,5.0
+ADM-00507,PAT-0015,2023-07-04,2023-07-30,Maternity,Acute Gastroenteritis,Dr. Kariuki,18782.12,Recovered,,26.0
+ADM-00435,PAT-0386,2022-07-16,2022-07-26,Surgical,Anaemia,Dr. Otieno,127078.85,Recovered,34,10.0
+ADM-00562,PAT-0025,2024-04-09,2024-05-05,Oncology,Malaria,Dr. Wanjiku,94636.21,Recovered,108,26.0
+ADM-00208,PAT-0169,2022-02-04,2022-03-05,Paediatrics,Typhoid,Dr. Omondi,139047.07,Deceased,64,29.0
+ADM-00320,PAT-0252,2023-08-23,2023-09-16,Paediatrics,Acute Gastroenteritis,Dr. Chebet,124262.5,Referred,35,24.0
+ADM-00133,PAT-0092,2023-09-30,2023-10-10,Maternity,Malaria,Dr. Wanjiku,53952.01,Deceased,83,10.0
+ADM-00051,PAT-0397,2022-10-30,2022-11-14,Oncology,Acute Gastroenteritis,Dr. Otieno,38176.12,Against Medical Advice,59,15.0
+ADM-00239,PAT-0386,2023-12-25,2023-12-30,Surgical,Malaria,Dr. Omondi,105633.99,Referred,65,5.0
+ADM-00565,PAT-0162,2022-09-28,2022-10-01,Maternity,Malaria,Dr. Wanjiku,,Recovered,17,3.0
+ADM-00451,PAT-0398,2024-02-10,2024-02-27,General,Malaria,,38666.43,Deceased,92,17.0
+ADM-00032,PAT-0388,2023-10-17,2023-11-06,Maternity,Preeclampsia,Dr. Kariuki,63744.29,Deceased,117,20.0
+ADM-00122,PAT-0240,2023-11-17,2023-12-17,,Fracture,,118398.21,,15,30.0
+ADM-00352,PAT-0342,2024-05-12,2024-06-02,Maternity,Malaria,Dr. Chebet,109763.41,Recovered,62,21.0
+ADM-00455,PAT-0104,2022-02-19,2022-02-27,Maternity,Sepsis,Dr. Otieno,125134.37,Referred,37,8.0
+ADM-00303,PAT-0127,2023-04-04,2023-04-19,General,Typhoid,Dr. Chebet,104585.82,Deceased,,15.0
+ADM-00089,PAT-0291,2022-05-29,2022-06-10,Paediatrics,Acute Gastroenteritis,Dr. Omondi,79643.98,Absconded,97,12.0
+ADM-00326,PAT-0180,2023-04-11,2023-04-17,Maternity,Appendicitis,Dr. Chebet,58308.76,Against Medical Advice,56,6.0
+ADM-00256,PAT-0090,2023-09-04,2023-10-01,Paediatrics,Acute Gastroenteritis,Dr. Kariuki,128324.46,Deceased,59,27.0
+ADM-00571,PAT-0052,2023-02-27,,,Preeclampsia,Dr. Wanjiku,60602.46,Referred,33,
+ADM-00360,PAT-0130,2023-05-30,2023-06-23,Paediatrics,Preeclampsia,Dr. Wanjiku,22313.81,Deceased,22,24.0
+ADM-00052,PAT-0122,2022-06-04,2022-06-17,Maternity,Hypertension,Dr. Muthoni,27951.74,Against Medical Advice,22,13.0
+ADM-00103,PAT-0161,2022-10-09,2022-10-21,Orthopaedics,Pneumonia,Dr. Muthoni,52593.61,Absconded,,12.0
+ADM-00196,PAT-0057,2022-09-29,2022-10-20,Maternity,,Dr. Chebet,,,120,21.0
+ADM-00405,PAT-0322,2022-01-13,2022-01-28,,Tuberculosis,Dr. Chebet,37326.71,Recovered,93,15.0
+ADM-00288,PAT-0004,2022-04-04,2022-04-10,Maternity,Acute Gastroenteritis,Dr. Muthoni,99659.22,Referred,88,6.0
+ADM-00048,PAT-0020,2023-08-13,2023-08-18,Maternity,Road Traffic Accident,Dr. Kariuki,77523.88,Absconded,103,5.0
+ADM-00588,PAT-0315,2022-02-03,,Orthopaedics,Fracture,Dr. Omondi,12874.1,Deceased,79,
+ADM-00434,PAT-0061,2023-07-27,2023-08-10,Maternity,,Dr. Kariuki,134920.11,Against Medical Advice,19,14.0
+ADM-00264,PAT-0147,2023-02-08,,Maternity,Hypertension,,,Deceased,73,
+ADM-00361,PAT-0202,2023-01-15,2023-02-11,,Road Traffic Accident,Dr. Kariuki,77240.31,Deceased,114,27.0
+ADM-00467,PAT-0065,2023-06-16,2023-06-19,Orthopaedics,Anaemia,Dr. Muthoni,136818.84,Referred,43,3.0
+ADM-00300,PAT-0105,2023-07-13,2023-07-29,Paediatrics,Tuberculosis,Dr. Otieno,,Recovered,96,16.0
+ADM-00535,PAT-0189,2022-09-19,2022-10-19,,Hiv/Aids,Dr. Muthoni,54309.77,Referred,56,30.0
+ADM-00585,PAT-0017,2022-11-28,2022-12-02,Oncology,Fracture,Dr. Omondi,25897.78,Against Medical Advice,75,4.0
+ADM-00494,PAT-0158,2024-05-19,2024-06-07,General,Sepsis,Dr. Otieno,38590.33,Recovered,83,19.0
+ADM-00528,PAT-0341,2023-10-08,2023-10-22,Oncology,Malaria,Dr. Muthoni,14483.86,Against Medical Advice,37,14.0
+ADM-00169,PAT-0111,2024-05-08,2024-05-30,Surgical,Tuberculosis,Dr. Muthoni,17034.89,Referred,28,22.0

@@ -1,0 +1,792 @@
+visit_id,patient_id,visit_date,clinic,chief_complaint,attending_doctor,wait_time_mins,consultation_fee_kes,outcome,follow_up_date
+OPD-000093,PAT-0360,2022-02-01,Dental,Cough,Dr. Otieno,237,2633.16,Investigations ordered,2022-03-02
+OPD-000641,PAT-0221,2023-11-17,Paediatric Opd,Cough,Dr. Kariuki,52,779.77,Investigations ordered,
+OPD-000892,PAT-0032,2023-12-03,Tb Clinic,Cough,Dr. Omondi,53,2188.54,Investigations ordered,
+OPD-000774,PAT-0042,2023-08-21,Paediatric Opd,Chest Pain,Dr. Omondi,82,2124.19,Admitted,2023-09-12
+OPD-000105,PAT-0077,2023-07-08,Paediatric Opd,Vomiting,Dr. Omondi,196,688.1,,2023-09-23
+OPD-000359,PAT-0357,2024-03-05,General Opd,Cough,Dr. Kariuki,132,2530.98,Counselled & discharged,
+OPD-000696,PAT-0249,2023-03-30,Eye,Abdominal Pain,Dr. Kariuki,191,1327.58,Investigations ordered,2023-06-18
+OPD-000577,PAT-0216,2023-04-08,Dental,Fatigue,Dr. Kariuki,211,2024.32,Investigations ordered,
+OPD-000472,PAT-0133,2023-06-11,Paediatric Opd,,Dr. Kariuki,68,928.63,Investigations ordered,2023-09-02
+OPD-000551,PAT-0194,2022-12-03,Tb Clinic,Joint Pain,Dr. Muthoni,78,888.49,Prescription given,2023-01-16
+OPD-000664,PAT-0378,2024-05-18,Tb Clinic,Fever,Dr. Wanjiku,204,1156.34,Referred to specialist,
+OPD-000073,PAT-0355,2022-06-26,Dental,Headache,,105,1199.01,Investigations ordered,2022-07-29
+OPD-000048,PAT-0101,2023-10-05,Antenatal Care,Skin Rash,Dr. Muthoni,107,,,2023-11-01
+OPD-000263,PAT-0235,2022-10-31,General Opd,Headache,Dr. Chebet,117,,Admitted,2023-01-17
+OPD-000158,PAT-0280,2024-06-14,Dental,Chest Pain,Dr. Muthoni,47,1773.98,Investigations ordered,
+OPD-000512,PAT-0163,2022-09-05,Paediatric Opd,,Dr. Wanjiku,121,2599.43,Follow-up scheduled,2022-09-24
+OPD-000459,PAT-0148,2022-08-04,Nutrition,Headache,Dr. Omondi,29,1526.94,Counselled & discharged,2022-08-28
+OPD-000111,PAT-0219,2022-02-28,Hiv/Aids Clinic,Abdominal Pain,Dr. Wanjiku,64,1658.74,Prescription given,2022-05-23
+OPD-000686,PAT-0340,2022-03-18,Hiv/Aids Clinic,Fever,Dr. Chebet,194,1379.46,Prescription given,
+OPD-000226,PAT-0349,2023-12-30,General Opd,Back Pain,Dr. Wanjiku,69,1024.86,Referred to specialist,2024-01-08
+OPD-000850,PAT-0200,2023-11-02,General Opd,Dizziness,Dr. Chebet,180,832.49,Prescription given,2024-01-07
+OPD-000283,PAT-0350,2024-03-02,Eye,Abdominal Pain,Dr. Otieno,142,1012.06,Follow-up scheduled,2024-03-21
+OPD-000305,PAT-0330,2022-05-16,Tb Clinic,Vomiting,,95,,Referred to specialist,
+OPD-000633,PAT-0324,2023-06-11,Diabetes Clinic,Chest Pain,Dr. Otieno,147,1509.5,Prescription given,
+OPD-000386,PAT-0093,2023-06-27,General Opd,Vomiting,Dr. Otieno,125,1401.1,Admitted,
+OPD-000526,PAT-0006,2023-11-12,Nutrition,Chest Pain,Dr. Omondi,98,2687.13,Admitted,
+OPD-000171,PAT-0079,2023-07-02,Diabetes Clinic,Joint Pain,None,21,1094.11,Prescription given,2023-03-18
+OPD-000702,PAT-0166,2022-11-29,Paediatric Opd,Skin Rash,Dr. Chebet,160,1662.87,Investigations ordered,2022-12-12
+OPD-000741,PAT-0268,2022-02-04,General Opd,Fatigue,Dr. Muthoni,7,1882.01,,2022-06-15
+OPD-000190,PAT-0201,2022-05-06,General Opd,Fatigue,Dr. Otieno,28,976.85,Referred to specialist,
+OPD-000077,PAT-0350,2023-07-18,General Opd,Abdominal Pain,Dr. Otieno,36,219.91,Investigations ordered,
+OPD-000631,PAT-0188,2022-07-05,General Opd,Skin Rash,Dr. Wanjiku,45,1082.29,Admitted,2022-09-07
+OPD-000841,PAT-0309,2023-11-28,Eye,Dizziness,Dr. Omondi,224,,Follow-up scheduled,2024-02-03
+OPD-000597,PAT-0259,2022-09-25,Antenatal Care,Fatigue,Dr. Wanjiku,42,135.12,Prescription given,
+OPD-000134,PAT-0136,2022-10-01,Nutrition,Skin Rash,Dr. Chebet,72,1721.77,Counselled & discharged,2022-03-08
+OPD-000568,PAT-0248,2022-08-20,Paediatric Opd,Cough,Dr. Chebet,128,,Counselled & discharged,
+OPD-000790,PAT-0279,2022-04-03,Paediatric Opd,Cough,Dr. Omondi,12,2691.89,Referred to specialist,
+OPD-000519,PAT-0390,2022-08-05,Dental,Skin Rash,,101,690.63,Counselled & discharged,2022-07-11
+OPD-000375,PAT-0093,2022-09-18,Antenatal Care,Cough,Dr. Chebet,45,430.17,Prescription given,
+OPD-000573,PAT-0057,2022-03-22,Dental,Back Pain,,126,2530.93,Investigations ordered,
+OPD-000889,PAT-0274,2023-10-15,Eye,Joint Pain,Dr. Kariuki,6,971.32,Referred to specialist,
+OPD-000816,PAT-0260,2022-10-11,Tb Clinic,Abdominal Pain,Dr. Muthoni,106,1668.69,Prescription given,2022-11-21
+OPD-000410,PAT-0389,2022-03-16,Eye,Fatigue,,57,383.5,Investigations ordered,2022-05-16
+OPD-000064,PAT-0361,2023-02-11,Antenatal Care,,Dr. Muthoni,,2301.09,Counselled & discharged,2023-11-27
+OPD-000139,PAT-0344,2023-01-23,Nutrition,Dizziness,Dr. Omondi,126,2209.84,Admitted,2023-04-04
+OPD-000757,PAT-0213,2022-04-11,Hiv/Aids Clinic,Dizziness,,213,1968.46,Referred to specialist,2023-01-09
+OPD-000396,PAT-0013,2023-06-24,Diabetes Clinic,Cough,Dr. Kariuki,216,2495.27,Prescription given,2023-08-24
+OPD-000536,PAT-0235,2022-07-11,Paediatric Opd,,Dr. Chebet,134,643.79,Admitted,2022-08-06
+OPD-000738,PAT-0022,2023-07-08,Eye,Fatigue,Dr. Wanjiku,32,1928.54,Referred to specialist,
+OPD-000289,PAT-0263,2023-12-06,Dental,Cough,Dr. Otieno,239,369.6,Prescription given,2024-02-29
+OPD-000760,PAT-0171,2023-04-29,Nutrition,Headache,Dr. Chebet,115,429.61,,2023-05-16
+OPD-000751,PAT-0311,2024-03-01,Tb Clinic,Fatigue,Dr. Otieno,233,1153.46,Admitted,2024-04-15
+OPD-000154,PAT-0350,2023-09-29,Hiv/Aids Clinic,Headache,Dr. Otieno,168,1170.41,Admitted,
+OPD-000825,PAT-0048,2022-07-23,Paediatric Opd,Back Pain,Dr. Chebet,151,606.43,Referred to specialist,
+OPD-000380,PAT-0047,2022-05-23,Diabetes Clinic,Skin Rash,Dr. Muthoni,240,2814.27,Investigations ordered,
+OPD-000678,PAT-0357,2022-04-26,Paediatric Opd,Joint Pain,Dr. Chebet,217,807.2,Admitted,
+OPD-000036,PAT-0074,2023-12-17,Diabetes Clinic,Chest Pain,Dr. Muthoni,26,,Investigations ordered,
+OPD-000546,PAT-0356,2022-04-02,General Opd,Joint Pain,Dr. Chebet,236,1365.6,Investigations ordered,2022-04-04
+OPD-000482,PAT-0130,2022-09-04,Tb Clinic,Vomiting,Dr. Wanjiku,16,2593.81,Referred to specialist,
+OPD-000476,PAT-0119,2023-07-30,Hiv/Aids Clinic,Fatigue,Dr. Otieno,120,2158.49,Investigations ordered,
+OPD-000682,PAT-0341,2023-07-03,Dental,Abdominal Pain,Dr. Kariuki,39,678.71,Investigations ordered,
+OPD-000148,PAT-0118,2024-04-07,Paediatric Opd,Dizziness,Dr. Kariuki,60,,Prescription given,2024-05-03
+OPD-000379,PAT-0271,2023-02-11,Antenatal Care,Skin Rash,Dr. Kariuki,164,2647.18,Admitted,2023-03-21
+OPD-000225,PAT-0006,2023-09-10,Nutrition,Fatigue,Dr. Muthoni,115,2834.23,Admitted,2023-09-28
+OPD-000711,PAT-0325,2023-08-29,General Opd,Dizziness,Dr. Otieno,112,,Prescription given,
+OPD-000480,PAT-0160,2024-05-09,Paediatric Opd,Skin Rash,Dr. Omondi,83,604.38,Referred to specialist,
+OPD-000056,PAT-0083,2024-05-14,Hiv/Aids Clinic,Dizziness,Dr. Wanjiku,183,110.89,Admitted,2024-08-02
+OPD-000075,PAT-0186,2022-04-26,Antenatal Care,Skin Rash,Dr. Omondi,108,2353.14,Referred to specialist,2022-06-14
+OPD-000855,PAT-0140,2022-05-03,Nutrition,Skin Rash,,,1571.97,Admitted,2022-07-22
+OPD-000284,PAT-0393,2023-05-08,General Opd,Back Pain,Dr. Otieno,93,795.37,,
+OPD-000752,PAT-0177,2022-05-31,Hiv/Aids Clinic,Abdominal Pain,Dr. Wanjiku,178,1640.07,Referred to specialist,2022-08-03
+OPD-000068,PAT-0376,2022-09-25,Eye,,,153,2832.62,Referred to specialist,
+OPD-000385,PAT-0151,2023-01-07,Dental,Fatigue,Dr. Kariuki,108,2921.55,Investigations ordered,
+OPD-000635,PAT-0048,2023-03-27,Diabetes Clinic,Abdominal Pain,Dr. Muthoni,40,1404.49,Counselled & discharged,
+OPD-000758,PAT-0013,2024-04-28,Nutrition,Joint Pain,Dr. Kariuki,148,2038.05,Prescription given,2024-07-08
+OPD-000067,PAT-0206,2022-10-11,Hiv/Aids Clinic,Headache,Dr. Kariuki,114,2323.06,Counselled & discharged,
+OPD-000629,PAT-0230,2023-11-06,Hiv/Aids Clinic,Cough,Dr. Muthoni,125,1302.84,Follow-up scheduled,
+OPD-000210,PAT-0344,2022-12-15,Eye,Headache,Dr. Otieno,,1232.02,Investigations ordered,
+OPD-000862,PAT-0016,2022-06-26,Antenatal Care,Dizziness,Dr. Wanjiku,18,1211.97,Admitted,2022-08-15
+OPD-000216,PAT-0302,2022-06-27,Dental,Fatigue,Dr. Otieno,88,2144.62,Counselled & discharged,
+OPD-000428,PAT-0255,2022-08-26,Eye,Back Pain,Dr. Omondi,184,2551.17,Admitted,2022-09-28
+OPD-000274,PAT-0116,2022-10-07,Diabetes Clinic,Fatigue,,,2984.07,,2022-07-25
+OPD-000595,PAT-0348,2023-11-21,Paediatric Opd,Joint Pain,Dr. Muthoni,53,2101.61,Counselled & discharged,
+OPD-000783,PAT-0234,2022-07-28,Tb Clinic,Fatigue,Dr. Omondi,158,2696.65,Prescription given,
+OPD-000164,PAT-0296,2022-12-31,Nutrition,,Dr. Wanjiku,163,1729.24,Admitted,
+OPD-000254,PAT-0128,2024-04-22,Tb Clinic,Abdominal Pain,Dr. Muthoni,117,2405.3,Investigations ordered,
+OPD-000644,PAT-0158,2023-04-21,Tb Clinic,Vomiting,Dr. Otieno,121,1073.97,Investigations ordered,2023-06-02
+OPD-000632,PAT-0259,2023-06-11,Diabetes Clinic,Fever,Dr. Kariuki,23,645.24,Follow-up scheduled,
+OPD-000363,PAT-0125,2023-07-05,Tb Clinic,Abdominal Pain,Dr. Omondi,229,2744.1,Follow-up scheduled,
+OPD-000852,PAT-0024,2023-09-09,Paediatric Opd,Cough,Dr. Muthoni,121,332.03,Investigations ordered,
+OPD-000894,PAT-0364,2023-02-04,Nutrition,,Dr. Omondi,52,,Follow-up scheduled,2023-02-28
+OPD-000066,PAT-0098,2023-02-11,Eye,Cough,Dr. Kariuki,210,970.21,Admitted,
+OPD-000153,PAT-0002,2024-02-12,Eye,Vomiting,Dr. Chebet,9,1636.1,Admitted,
+OPD-000670,PAT-0379,2023-06-14,Tb Clinic,Vomiting,,8,1258.51,Prescription given,2023-08-17
+OPD-000810,PAT-0024,2022-04-06,Dental,Skin Rash,,203,273.43,Prescription given,
+OPD-000475,PAT-0125,2023-02-09,Paediatric Opd,Chest Pain,Dr. Chebet,99,1882.12,Follow-up scheduled,
+OPD-000726,PAT-0238,2022-05-16,Eye,Fatigue,Dr. Wanjiku,38,1806.5,Investigations ordered,2022-07-21
+OPD-000763,PAT-0181,2024-06-18,Diabetes Clinic,Fatigue,Dr. Otieno,78,1806.2,Referred to specialist,
+OPD-000838,PAT-0213,2023-01-07,General Opd,Cough,Dr. Chebet,87,,Prescription given,
+OPD-000578,PAT-0126,2023-06-13,Hiv/Aids Clinic,Chest Pain,Dr. Wanjiku,93,1546.0,Referred to specialist,2023-08-14
+OPD-000156,PAT-0257,2022-12-08,Diabetes Clinic,Cough,Dr. Otieno,178,2248.34,Admitted,
+OPD-000239,PAT-0169,2023-01-18,Hiv/Aids Clinic,Fever,Dr. Omondi,217,1619.54,Referred to specialist,
+OPD-000311,PAT-0087,2022-07-21,Dental,Skin Rash,Dr. Wanjiku,62,1052.83,Admitted,
+OPD-000833,PAT-0211,2023-02-25,General Opd,Vomiting,Dr. Kariuki,163,1489.46,Counselled & discharged,
+OPD-000384,PAT-0274,2024-11-03,Diabetes Clinic,Fever,Dr. Kariuki,35,2890.35,Follow-up scheduled,2024-04-13
+OPD-000358,PAT-0156,2023-09-18,Diabetes Clinic,Fever,Dr. Otieno,144,306.1,,2023-10-15
+OPD-000261,PAT-0319,2023-07-28,Dental,Headache,Dr. Otieno,51,1707.89,Referred to specialist,2023-08-13
+OPD-000279,PAT-0215,2024-06-24,General Opd,Headache,Dr. Omondi,168,2488.32,Counselled & discharged,
+OPD-000103,PAT-0100,2022-09-01,Eye,Vomiting,,159,899.17,Follow-up scheduled,2022-09-12
+OPD-000245,PAT-0374,2024-04-13,Diabetes Clinic,Fatigue,Dr. Otieno,194,1240.51,Referred to specialist,
+OPD-000788,PAT-0048,2022-06-03,Paediatric Opd,Headache,Dr. Kariuki,,,Prescription given,2022-07-11
+OPD-000365,PAT-0103,2024-03-19,Dental,Cough,Dr. Chebet,184,338.17,Prescription given,
+OPD-000795,PAT-0201,2024-02-17,Hiv/Aids Clinic,Joint Pain,Dr. Kariuki,116,1857.2,Follow-up scheduled,
+OPD-000155,PAT-0214,2022-08-16,Paediatric Opd,Fatigue,Dr. Omondi,185,1019.57,Referred to specialist,2022-09-05
+OPD-000192,PAT-0258,2023-08-17,Dental,Skin Rash,Dr. Chebet,,2958.09,Counselled & discharged,2023-11-07
+OPD-000601,PAT-0262,2024-05-14,Tb Clinic,Joint Pain,Dr. Omondi,90,,Admitted,
+OPD-000179,PAT-0145,2023-08-23,Dental,Fatigue,Dr. Omondi,,1223.5,Follow-up scheduled,2023-11-15
+OPD-000248,PAT-0311,2022-01-13,Tb Clinic,Back Pain,Dr. Wanjiku,100,1697.4,Referred to specialist,2022-03-10
+OPD-000165,PAT-0228,2022-11-23,Diabetes Clinic,Vomiting,Dr. Otieno,8,2089.25,Counselled & discharged,
+OPD-000346,PAT-0325,2022-10-17,Paediatric Opd,Vomiting,Dr. Wanjiku,226,,Follow-up scheduled,
+OPD-000880,PAT-0197,2022-07-24,Dental,Fatigue,Dr. Kariuki,151,1419.45,Referred to specialist,
+OPD-000630,PAT-0210,2022-12-11,Tb Clinic,Chest Pain,Dr. Otieno,152,1582.51,Investigations ordered,2023-02-28
+OPD-000666,PAT-0329,2023-01-11,Paediatric Opd,Abdominal Pain,Dr. Otieno,60,2601.97,Counselled & discharged,2023-01-31
+OPD-000128,PAT-0355,2023-02-17,Nutrition,Headache,Dr. Wanjiku,78,,,
+OPD-000286,PAT-0094,2024-03-25,Nutrition,Skin Rash,Dr. Otieno,179,822.35,Follow-up scheduled,
+OPD-000762,PAT-0246,2024-06-28,Dental,,Dr. Otieno,46,2951.86,Admitted,
+OPD-000012,PAT-0106,2023-12-17,Eye,Chest Pain,Dr. Wanjiku,,2955.69,Follow-up scheduled,
+OPD-000680,PAT-0366,2022-03-01,Tb Clinic,Abdominal Pain,Dr. Kariuki,128,1846.16,Follow-up scheduled,2022-05-27
+OPD-000287,PAT-0375,2022-05-31,Tb Clinic,Dizziness,Dr. Chebet,105,623.75,Follow-up scheduled,
+OPD-000113,PAT-0090,2022-09-19,Tb Clinic,Fever,Dr. Chebet,131,957.42,Prescription given,
+OPD-000531,PAT-0006,2024-04-23,Hiv/Aids Clinic,Cough,Dr. Muthoni,94,1015.69,Investigations ordered,2024-07-05
+OPD-000325,PAT-0198,2023-12-14,General Opd,Joint Pain,Dr. Wanjiku,84,980.95,Referred to specialist,2024-01-23
+OPD-000586,PAT-0081,2022-04-20,General Opd,Skin Rash,Dr. Muthoni,75,1896.67,Follow-up scheduled,
+OPD-000513,PAT-0054,2023-05-07,Eye,Headache,Dr. Kariuki,34,2682.4,,2023-06-25
+OPD-000180,PAT-0025,2024-03-17,Hiv/Aids Clinic,Skin Rash,Dr. Omondi,159,1657.18,Counselled & discharged,2024-05-07
+OPD-000615,PAT-0152,2024-01-13,Hiv/Aids Clinic,Back Pain,Dr. Omondi,12,1462.1,Follow-up scheduled,
+OPD-000326,PAT-0205,2022-01-20,Dental,Skin Rash,Dr. Muthoni,32,1535.75,Investigations ordered,
+OPD-000037,PAT-0256,2024-05-01,Hiv/Aids Clinic,Cough,Dr. Muthoni,239,,Investigations ordered,2024-03-28
+OPD-000373,PAT-0163,2022-01-15,Nutrition,Vomiting,Dr. Omondi,119,2294.26,Prescription given,2022-03-25
+OPD-000624,PAT-0125,2023-10-03,Hiv/Aids Clinic,Fatigue,Dr. Chebet,125,558.77,Investigations ordered,
+OPD-000307,PAT-0138,2022-11-06,Antenatal Care,Joint Pain,None,175,1483.22,Referred to specialist,
+OPD-000564,PAT-0201,2023-01-03,Hiv/Aids Clinic,,Dr. Omondi,53,2640.65,Counselled & discharged,2023-04-02
+OPD-000699,PAT-0073,2023-10-01,Eye,Dizziness,Dr. Omondi,202,2558.96,,2023-11-01
+OPD-000237,PAT-0397,2024-04-04,Diabetes Clinic,Headache,Dr. Kariuki,188,2084.24,Counselled & discharged,
+OPD-000354,PAT-0197,2024-01-06,Nutrition,Vomiting,Dr. Omondi,179,292.7,Admitted,
+OPD-000308,PAT-0294,2023-08-17,General Opd,Headache,Dr. Kariuki,196,2271.07,Prescription given,2023-09-21
+OPD-000063,PAT-0310,2023-12-31,Dental,Headache,Dr. Muthoni,149,798.72,Referred to specialist,2024-03-30
+OPD-000456,PAT-0400,2023-12-23,Antenatal Care,Joint Pain,Dr. Omondi,21,1232.11,Prescription given,2024-02-03
+OPD-000779,PAT-0382,2022-10-17,Paediatric Opd,Dizziness,Dr. Omondi,,856.3,Investigations ordered,2022-11-23
+OPD-000854,PAT-0250,2023-04-06,Antenatal Care,Chest Pain,Dr. Otieno,175,1574.33,Prescription given,2023-05-16
+OPD-000014,PAT-0019,2022-05-25,Eye,,Dr. Otieno,63,1593.16,Follow-up scheduled,
+OPD-000300,PAT-0078,2022-10-02,General Opd,Back Pain,Dr. Otieno,13,222.19,Investigations ordered,
+OPD-000804,PAT-0387,2024-09-01,Eye,Vomiting,Dr. Otieno,,2756.31,Follow-up scheduled,2024-03-06
+OPD-000343,PAT-0088,2024-04-25,Nutrition,Headache,Dr. Kariuki,239,842.08,Prescription given,2024-05-06
+OPD-000659,PAT-0277,2024-05-13,General Opd,Fever,,56,383.93,Investigations ordered,
+OPD-000695,PAT-0196,2023-01-17,Paediatric Opd,Dizziness,Dr. Otieno,88,1116.42,Admitted,
+OPD-000725,PAT-0302,2023-07-02,Paediatric Opd,Fatigue,Dr. Muthoni,225,582.58,Investigations ordered,
+OPD-000612,PAT-0368,2024-01-03,Hiv/Aids Clinic,Chest Pain,Dr. Muthoni,69,2955.89,Prescription given,2024-05-26
+OPD-000381,PAT-0276,2023-01-16,Paediatric Opd,Cough,Dr. Chebet,,1317.64,Counselled & discharged,2023-03-12
+OPD-000035,PAT-0109,2022-10-03,Hiv/Aids Clinic,Headache,Dr. Muthoni,155,1279.68,Follow-up scheduled,
+OPD-000885,PAT-0268,2024-04-12,General Opd,Chest Pain,,192,2403.37,Prescription given,2024-05-18
+OPD-000414,PAT-0317,2022-09-22,General Opd,Back Pain,Dr. Wanjiku,206,,Admitted,2022-09-29
+OPD-000622,PAT-0328,2024-03-13,Tb Clinic,Fatigue,Dr. Omondi,151,115.07,Follow-up scheduled,
+OPD-000337,PAT-0015,2024-03-27,Diabetes Clinic,Chest Pain,Dr. Omondi,85,789.94,Referred to specialist,2024-04-11
+OPD-000181,PAT-0263,2023-03-30,Eye,Chest Pain,Dr. Otieno,114,233.08,Follow-up scheduled,
+OPD-000406,PAT-0164,2023-06-10,Nutrition,Dizziness,Dr. Otieno,149,2604.05,Prescription given,2023-07-31
+OPD-000626,PAT-0051,2022-04-20,Tb Clinic,Vomiting,Dr. Otieno,115,953.06,Follow-up scheduled,
+OPD-000147,PAT-0207,2023-09-04,Paediatric Opd,Fatigue,Dr. Muthoni,190,1899.99,Counselled & discharged,2023-11-13
+OPD-000771,PAT-0367,2022-04-21,Hiv/Aids Clinic,Abdominal Pain,Dr. Muthoni,77,2780.78,Prescription given,2022-06-21
+OPD-000897,PAT-0381,2023-05-18,Hiv/Aids Clinic,Fatigue,Dr. Omondi,49,2787.51,Referred to specialist,2023-07-24
+OPD-000391,PAT-0280,2023-12-25,Hiv/Aids Clinic,Cough,,168,,Investigations ordered,
+OPD-000090,PAT-0004,2022-05-07,Dental,Back Pain,Dr. Kariuki,,419.04,Prescription given,
+OPD-000772,PAT-0131,2024-03-14,Paediatric Opd,,Dr. Wanjiku,,797.82,,
+OPD-000255,PAT-0380,2022-06-08,General Opd,Dizziness,Dr. Chebet,58,855.28,Counselled & discharged,2022-07-24
+OPD-000407,PAT-0194,2023-03-16,Diabetes Clinic,Joint Pain,Dr. Chebet,,1427.15,Investigations ordered,2023-05-03
+OPD-000842,PAT-0022,2022-08-05,Nutrition,Fever,Dr. Wanjiku,96,1621.15,Investigations ordered,
+OPD-000301,PAT-0144,2022-05-10,Dental,Headache,Dr. Muthoni,104,1045.59,Prescription given,2022-06-05
+OPD-000832,PAT-0231,2022-01-14,General Opd,Fever,Dr. Omondi,194,715.11,,2022-02-10
+OPD-000240,PAT-0245,2024-03-21,Hiv/Aids Clinic,Fever,Dr. Kariuki,,2954.9,Investigations ordered,2024-04-02
+OPD-000196,PAT-0252,2022-08-07,Eye,Skin Rash,Dr. Muthoni,111,868.11,Investigations ordered,2022-08-16
+OPD-000043,PAT-0220,2022-01-22,General Opd,Fever,Dr. Wanjiku,10,2093.48,Counselled & discharged,2022-03-06
+OPD-000593,PAT-0134,2023-02-17,Paediatric Opd,Back Pain,Dr. Kariuki,32,1521.39,Referred to specialist,2023-03-30
+OPD-000818,PAT-0155,2022-12-14,Antenatal Care,Fever,Dr. Muthoni,31,2367.56,Investigations ordered,
+OPD-000438,PAT-0025,2023-08-12,Dental,Skin Rash,Dr. Wanjiku,142,2889.7,Prescription given,
+OPD-000195,PAT-0112,2022-02-17,Diabetes Clinic,Chest Pain,Dr. Chebet,90,1288.29,Follow-up scheduled,
+OPD-000900,PAT-0038,2023-08-11,Tb Clinic,Joint Pain,Dr. Wanjiku,103,1877.64,Investigations ordered,
+OPD-000338,PAT-0209,2023-09-15,Nutrition,Dizziness,Dr. Chebet,187,2597.86,Prescription given,2023-12-02
+OPD-000716,PAT-0089,2023-05-13,Dental,,Dr. Omondi,6,259.22,Follow-up scheduled,2023-05-22
+OPD-000508,PAT-0245,2022-12-22,Nutrition,Fatigue,,156,1977.42,Counselled & discharged,2023-02-14
+OPD-000121,PAT-0051,2023-11-14,Nutrition,Vomiting,Dr. Omondi,,1008.75,Counselled & discharged,2023-12-01
+OPD-000717,PAT-0295,2024-08-01,Hiv/Aids Clinic,Skin Rash,Dr. Muthoni,194,1773.99,Investigations ordered,2024-01-30
+OPD-000107,PAT-0061,2024-04-29,Paediatric Opd,,Dr. Wanjiku,47,2904.37,Counselled & discharged,2024-05-29
+OPD-000114,PAT-0380,2024-02-17,Diabetes Clinic,Joint Pain,Dr. Muthoni,47,1053.64,Investigations ordered,2024-05-08
+OPD-000719,PAT-0374,2022-04-25,Nutrition,Abdominal Pain,Dr. Wanjiku,96,1781.67,Prescription given,2022-07-11
+OPD-000137,PAT-0115,2022-05-11,Dental,Chest Pain,Dr. Wanjiku,112,508.44,Investigations ordered,
+OPD-000464,PAT-0172,2023-06-03,Hiv/Aids Clinic,Headache,Dr. Wanjiku,42,1654.58,Admitted,2023-06-20
+OPD-000876,PAT-0354,2023-07-08,Eye,Abdominal Pain,Dr. Otieno,211,1705.89,Follow-up scheduled,
+OPD-000650,PAT-0244,2022-06-07,Hiv/Aids Clinic,Abdominal Pain,Dr. Chebet,99,1731.13,Follow-up scheduled,2022-07-31
+OPD-000660,PAT-0174,2023-10-28,Tb Clinic,Skin Rash,Dr. Otieno,13,1065.46,Referred to specialist,2024-01-21
+OPD-000886,PAT-0059,2023-07-14,General Opd,Fatigue,Dr. Otieno,188,2580.02,Counselled & discharged,2023-07-28
+OPD-000442,PAT-0349,2022-09-06,Tb Clinic,Chest Pain,Dr. Chebet,118,1407.56,Prescription given,2022-07-29
+OPD-000685,PAT-0151,2024-06-28,Antenatal Care,Fever,Dr. Muthoni,174,2247.98,Prescription given,
+OPD-000420,PAT-0373,2023-05-30,Hiv/Aids Clinic,Dizziness,Dr. Muthoni,94,2567.9,Follow-up scheduled,
+OPD-000402,PAT-0149,2023-11-03,Tb Clinic,Fever,Dr. Otieno,32,2120.43,Counselled & discharged,
+OPD-000288,PAT-0179,2022-09-29,Dental,Chest Pain,,,,Follow-up scheduled,2022-12-10
+OPD-000498,PAT-0177,2023-11-19,Eye,Fever,Dr. Chebet,33,487.94,Investigations ordered,
+OPD-000645,PAT-0174,2023-12-18,Antenatal Care,,,32,1586.52,Admitted,2024-03-06
+OPD-000091,PAT-0141,2024-03-16,Dental,Joint Pain,Dr. Muthoni,74,1575.12,Investigations ordered,2024-04-03
+OPD-000846,PAT-0217,2023-06-09,Tb Clinic,Cough,Dr. Kariuki,86,1072.63,Counselled & discharged,
+OPD-000215,PAT-0257,2023-01-30,Eye,Joint Pain,Dr. Chebet,213,1104.77,Investigations ordered,2023-02-13
+OPD-000723,PAT-0011,2022-07-26,Dental,Headache,Dr. Muthoni,39,,Counselled & discharged,2022-10-16
+OPD-000490,PAT-0085,2023-06-17,Nutrition,Joint Pain,Dr. Wanjiku,88,1678.71,Prescription given,
+OPD-000221,PAT-0066,2023-07-11,Diabetes Clinic,Fever,Dr. Kariuki,36,1351.98,Referred to specialist,2023-09-06
+OPD-000222,PAT-0396,2023-09-16,Diabetes Clinic,Vomiting,Dr. Muthoni,64,2391.04,Prescription given,
+OPD-000403,PAT-0392,2023-03-01,General Opd,Fatigue,Dr. Omondi,173,1479.78,Follow-up scheduled,
+OPD-000296,PAT-0010,2022-05-17,Tb Clinic,Abdominal Pain,Dr. Kariuki,192,2011.08,Counselled & discharged,2022-07-29
+OPD-000425,PAT-0338,2023-07-06,Nutrition,Fatigue,Dr. Wanjiku,139,1779.02,Admitted,2023-06-30
+OPD-000331,PAT-0223,2023-08-26,Dental,Back Pain,Dr. Omondi,180,,Referred to specialist,2023-11-19
+OPD-000453,PAT-0046,2024-02-22,Nutrition,Joint Pain,Dr. Otieno,67,1069.48,Referred to specialist,
+OPD-000718,PAT-0312,2023-07-03,Hiv/Aids Clinic,Dizziness,Dr. Otieno,52,1845.53,Admitted,2023-04-02
+OPD-000853,PAT-0260,2022-10-10,Nutrition,Back Pain,Dr. Omondi,116,172.13,Counselled & discharged,2022-10-31
+OPD-000651,PAT-0209,2023-08-27,Antenatal Care,Dizziness,,79,1874.5,Prescription given,
+OPD-000054,PAT-0336,2023-01-04,Hiv/Aids Clinic,Fever,Dr. Kariuki,59,485.16,Follow-up scheduled,2023-05-27
+OPD-000605,PAT-0182,2022-09-18,Hiv/Aids Clinic,Abdominal Pain,Dr. Otieno,,,Prescription given,
+OPD-000522,PAT-0371,2023-07-22,Eye,Cough,Dr. Kariuki,55,2898.85,Referred to specialist,2023-09-03
+OPD-000051,PAT-0238,2022-11-02,Dental,Abdominal Pain,Dr. Chebet,140,1659.75,Admitted,
+OPD-000545,PAT-0321,2023-07-23,Antenatal Care,Vomiting,Dr. Chebet,8,2110.69,Counselled & discharged,2023-09-26
+OPD-000487,PAT-0366,2022-09-18,Hiv/Aids Clinic,Headache,Dr. Chebet,59,1218.82,Follow-up scheduled,2022-11-13
+OPD-000348,PAT-0347,2022-07-28,Tb Clinic,Cough,Dr. Otieno,124,514.75,Admitted,2022-10-03
+OPD-000322,PAT-0178,2022-10-01,Hiv/Aids Clinic,Fever,Dr. Kariuki,54,971.25,,2022-03-02
+OPD-000834,PAT-0099,2024-01-18,Eye,Chest Pain,Dr. Wanjiku,40,,,2024-04-17
+OPD-000140,PAT-0104,2023-06-08,Paediatric Opd,,Dr. Otieno,163,2100.14,Admitted,2023-10-09
+OPD-000433,PAT-0071,2023-10-24,Dental,Fever,,227,,Prescription given,2023-11-22
+OPD-000185,PAT-0220,2023-11-28,General Opd,Back Pain,Dr. Kariuki,,1404.84,Referred to specialist,
+OPD-000858,PAT-0314,2022-02-24,Nutrition,,Dr. Muthoni,69,254.04,Investigations ordered,2022-04-15
+OPD-000290,PAT-0139,2022-01-09,Diabetes Clinic,Fatigue,Dr. Otieno,56,1896.16,Follow-up scheduled,
+OPD-000792,PAT-0272,2023-07-20,Dental,Dizziness,Dr. Kariuki,115,980.99,Referred to specialist,2023-10-05
+OPD-000360,PAT-0116,2024-07-05,Nutrition,Headache,Dr. Omondi,65,1413.12,Investigations ordered,
+OPD-000496,PAT-0303,2024-04-24,Tb Clinic,Fatigue,Dr. Omondi,177,,Referred to specialist,
+OPD-000797,PAT-0038,2022-08-16,Diabetes Clinic,Headache,Dr. Kariuki,9,583.42,Investigations ordered,2022-11-12
+OPD-000706,PAT-0117,2022-12-23,Paediatric Opd,Skin Rash,Dr. Muthoni,123,2577.69,Referred to specialist,2023-02-28
+OPD-000815,PAT-0283,2022-07-20,Nutrition,Fatigue,Dr. Wanjiku,229,,Follow-up scheduled,
+OPD-000424,PAT-0283,2022-11-29,Nutrition,Fatigue,,131,355.63,Prescription given,2022-12-21
+OPD-000817,PAT-0158,2023-06-28,Diabetes Clinic,Joint Pain,Dr. Wanjiku,190,1940.81,Prescription given,2023-09-19
+OPD-000559,PAT-0027,2023-12-09,Paediatric Opd,Chest Pain,Dr. Wanjiku,212,572.24,Referred to specialist,2024-01-30
+OPD-000474,PAT-0054,2023-11-29,Tb Clinic,Headache,Dr. Otieno,105,1983.53,Referred to specialist,2024-01-06
+OPD-000560,PAT-0012,2023-09-20,Dental,Abdominal Pain,Dr. Chebet,95,2563.31,Admitted,
+OPD-000478,PAT-0253,2023-10-06,Hiv/Aids Clinic,Headache,Dr. Wanjiku,34,2770.9,Follow-up scheduled,2023-07-05
+OPD-000527,PAT-0081,2024-09-01,Nutrition,Fever,Dr. Muthoni,36,714.2,Prescription given,
+OPD-000814,PAT-0322,2022-03-10,Diabetes Clinic,,Dr. Muthoni,132,1837.81,Follow-up scheduled,2022-05-18
+OPD-000463,PAT-0047,2023-10-01,Nutrition,Joint Pain,Dr. Kariuki,177,1363.78,Referred to specialist,
+OPD-000466,PAT-0137,2022-11-02,General Opd,Headache,,214,1012.24,Counselled & discharged,2022-04-05
+OPD-000032,PAT-0220,2022-08-22,Eye,Vomiting,Dr. Chebet,220,2606.2,Referred to specialist,2022-10-08
+OPD-000504,PAT-0231,2022-01-12,General Opd,Headache,Dr. Chebet,93,1427.41,Counselled & discharged,
+OPD-000759,PAT-0009,2022-04-08,Nutrition,Joint Pain,Dr. Kariuki,,2923.25,Follow-up scheduled,2022-06-06
+OPD-000581,PAT-0163,2023-01-23,General Opd,Chest Pain,Dr. Wanjiku,195,,Investigations ordered,
+OPD-000657,PAT-0003,2024-04-05,General Opd,Joint Pain,Dr. Wanjiku,63,106.03,Investigations ordered,
+OPD-000204,PAT-0347,2022-06-26,Eye,Back Pain,Dr. Otieno,6,,Prescription given,2022-08-03
+OPD-000398,PAT-0335,2023-07-16,Antenatal Care,Chest Pain,Dr. Omondi,206,1187.31,Counselled & discharged,2023-08-19
+OPD-000813,PAT-0090,2023-12-21,Diabetes Clinic,Fatigue,Dr. Muthoni,195,2165.42,Prescription given,
+OPD-000483,PAT-0017,2023-01-31,Eye,Dizziness,Dr. Wanjiku,191,682.8,Referred to specialist,
+OPD-000136,PAT-0002,2024-02-04,General Opd,Joint Pain,Dr. Chebet,193,1629.69,Admitted,2024-04-15
+OPD-000447,PAT-0327,2024-01-25,Eye,Abdominal Pain,Dr. Chebet,26,1760.45,Follow-up scheduled,2024-02-21
+OPD-000776,PAT-0395,2024-04-18,General Opd,Skin Rash,Dr. Omondi,186,536.36,Counselled & discharged,2024-05-20
+OPD-000848,PAT-0183,2022-08-16,Paediatric Opd,Fatigue,Dr. Muthoni,12,293.17,Prescription given,2022-11-13
+OPD-000672,PAT-0227,2024-06-05,Tb Clinic,Fatigue,Dr. Muthoni,137,1926.35,Prescription given,2024-07-11
+OPD-000437,PAT-0181,2023-04-11,General Opd,Fatigue,Dr. Muthoni,83,915.99,Counselled & discharged,2023-05-03
+OPD-000881,PAT-0079,2023-07-19,Paediatric Opd,,Dr. Muthoni,231,1006.38,Referred to specialist,
+OPD-000102,PAT-0304,2022-10-07,Dental,Back Pain,Dr. Otieno,163,2139.88,Referred to specialist,
+OPD-000491,PAT-0181,2024-01-23,Dental,Abdominal Pain,Dr. Omondi,217,2757.63,Prescription given,2024-04-08
+OPD-000812,PAT-0252,2022-09-03,Tb Clinic,Fever,Dr. Wanjiku,49,230.01,Prescription given,2022-10-12
+OPD-000822,PAT-0011,2024-03-04,Diabetes Clinic,Back Pain,Dr. Kariuki,185,980.83,Follow-up scheduled,
+OPD-000609,PAT-0095,2022-02-16,Tb Clinic,Fever,Dr. Wanjiku,234,2285.94,Admitted,2022-03-21
+OPD-000823,PAT-0244,2023-06-12,Diabetes Clinic,Fever,Dr. Omondi,162,2453.04,Referred to specialist,2023-07-07
+OPD-000009,PAT-0107,2022-10-22,Dental,Headache,Dr. Otieno,49,1977.59,Prescription given,
+OPD-000754,PAT-0094,2023-05-26,Hiv/Aids Clinic,Abdominal Pain,Dr. Omondi,196,2013.81,Referred to specialist,2023-07-14
+OPD-000109,PAT-0226,2024-06-22,Paediatric Opd,Fever,Dr. Kariuki,159,2506.4,Investigations ordered,2024-07-05
+OPD-000798,PAT-0106,2023-01-24,Nutrition,Headache,Dr. Wanjiku,14,,Referred to specialist,
+OPD-000638,PAT-0164,2022-02-18,Eye,Abdominal Pain,None,232,1257.32,Admitted,
+OPD-000177,PAT-0384,2023-09-28,General Opd,Joint Pain,Dr. Omondi,119,2240.17,Counselled & discharged,2023-10-27
+OPD-000572,PAT-0230,2022-12-23,Nutrition,Dizziness,Dr. Muthoni,102,1485.37,Admitted,2023-02-17
+OPD-000046,PAT-0045,2023-12-02,Nutrition,Joint Pain,Dr. Omondi,215,1130.35,Admitted,2023-12-28
+OPD-000160,PAT-0112,2023-02-18,Tb Clinic,Fever,Dr. Muthoni,94,,Admitted,
+OPD-000267,PAT-0377,2022-03-01,Eye,Back Pain,Dr. Omondi,214,767.74,,
+OPD-000321,PAT-0288,2023-06-24,Eye,Headache,None,47,299.8,Counselled & discharged,2023-08-13
+OPD-000516,PAT-0153,2022-10-30,General Opd,Dizziness,Dr. Otieno,204,1640.73,,
+OPD-000081,PAT-0137,2022-06-06,Tb Clinic,Cough,,70,422.32,,2022-07-13
+OPD-000713,PAT-0066,2022-03-23,Dental,Fatigue,Dr. Chebet,84,1758.08,Follow-up scheduled,2022-06-06
+OPD-000269,PAT-0270,2023-04-15,Nutrition,Chest Pain,Dr. Muthoni,153,1301.18,Follow-up scheduled,2023-05-20
+OPD-000625,PAT-0024,2024-04-29,Antenatal Care,Joint Pain,Dr. Wanjiku,235,1917.74,Investigations ordered,2024-05-16
+OPD-000840,PAT-0276,2022-12-04,Tb Clinic,Joint Pain,Dr. Omondi,76,2718.87,Admitted,
+OPD-000268,PAT-0161,2022-09-23,Tb Clinic,Fever,Dr. Wanjiku,229,615.83,Investigations ordered,2022-12-18
+OPD-000098,PAT-0107,2022-08-14,Dental,,Dr. Wanjiku,33,2634.57,Counselled & discharged,
+OPD-000538,PAT-0295,2023-02-07,Antenatal Care,Chest Pain,Dr. Wanjiku,169,1035.16,Counselled & discharged,
+OPD-000431,PAT-0019,2022-09-17,Eye,Joint Pain,Dr. Otieno,155,,Prescription given,2022-10-21
+OPD-000250,PAT-0385,2023-02-02,Paediatric Opd,Fever,Dr. Chebet,75,2942.21,,2023-03-09
+OPD-000019,PAT-0281,2022-12-05,Antenatal Care,Chest Pain,Dr. Chebet,71,1393.7,Referred to specialist,2022-06-16
+OPD-000537,PAT-0346,2022-04-18,Nutrition,Dizziness,Dr. Wanjiku,239,2184.39,Admitted,2022-07-02
+OPD-000062,PAT-0007,2024-04-06,Hiv/Aids Clinic,Fatigue,Dr. Wanjiku,216,,Prescription given,
+OPD-000167,PAT-0109,2022-03-20,Tb Clinic,Fatigue,Dr. Omondi,160,1838.39,Counselled & discharged,
+OPD-000026,PAT-0026,2023-05-27,Paediatric Opd,Vomiting,,,1682.6,Referred to specialist,
+OPD-000807,PAT-0202,2022-01-28,Eye,Skin Rash,Dr. Muthoni,16,2832.95,,2022-02-18
+OPD-000646,PAT-0262,2022-06-07,Eye,Joint Pain,Dr. Chebet,187,2903.61,Admitted,2022-08-24
+OPD-000072,PAT-0258,2022-08-20,Antenatal Care,Skin Rash,Dr. Omondi,164,770.39,Referred to specialist,2022-09-06
+OPD-000276,PAT-0226,2024-01-21,General Opd,Abdominal Pain,Dr. Muthoni,64,1400.01,,2024-04-11
+OPD-000859,PAT-0129,2023-09-07,Diabetes Clinic,Joint Pain,Dr. Muthoni,40,2350.33,Investigations ordered,2023-08-26
+OPD-000619,PAT-0394,2022-04-20,General Opd,Chest Pain,Dr. Omondi,222,341.16,Follow-up scheduled,
+OPD-000170,PAT-0243,2023-02-11,General Opd,,Dr. Otieno,25,2045.29,Admitted,2023-04-13
+OPD-000076,PAT-0041,2022-03-22,Tb Clinic,Chest Pain,Dr. Otieno,75,664.47,Investigations ordered,
+OPD-000875,PAT-0201,2023-01-09,Hiv/Aids Clinic,Back Pain,Dr. Chebet,198,1101.82,Referred to specialist,
+OPD-000733,PAT-0195,2024-03-01,Eye,Cough,Dr. Otieno,179,1340.89,Counselled & discharged,2024-04-05
+OPD-000306,PAT-0210,2024-06-30,General Opd,Fatigue,Dr. Muthoni,5,,Admitted,2024-09-17
+OPD-000579,PAT-0050,2023-03-22,Diabetes Clinic,,Dr. Wanjiku,85,2455.98,Follow-up scheduled,2023-04-20
+OPD-000349,PAT-0257,2022-07-11,Dental,Back Pain,Dr. Otieno,6,2533.97,Follow-up scheduled,2023-01-25
+OPD-000585,PAT-0006,2023-02-24,Tb Clinic,Vomiting,Dr. Chebet,211,1796.65,Counselled & discharged,2023-05-11
+OPD-000542,PAT-0143,2022-05-18,Antenatal Care,Joint Pain,Dr. Chebet,,1055.63,Prescription given,
+OPD-000351,PAT-0087,2024-09-04,Hiv/Aids Clinic,Skin Rash,Dr. Otieno,233,1531.71,Counselled & discharged,2024-05-08
+OPD-000421,PAT-0093,2022-09-12,Paediatric Opd,Chest Pain,Dr. Kariuki,124,2489.94,Prescription given,2023-01-20
+OPD-000555,PAT-0199,2023-07-02,Tb Clinic,Fever,Dr. Chebet,135,2321.08,Admitted,
+OPD-000409,PAT-0228,2022-08-18,Nutrition,Dizziness,Dr. Omondi,74,623.25,Follow-up scheduled,2022-09-08
+OPD-000069,PAT-0105,2024-06-29,Tb Clinic,Joint Pain,Dr. Muthoni,89,2431.66,Counselled & discharged,2024-09-21
+OPD-000683,PAT-0285,2024-04-05,Diabetes Clinic,,Dr. Kariuki,,2654.37,Counselled & discharged,2024-05-31
+OPD-000277,PAT-0346,2022-07-15,Eye,Fever,Dr. Wanjiku,126,2196.48,Investigations ordered,2022-10-04
+OPD-000377,PAT-0113,2023-01-02,Eye,Fever,Dr. Kariuki,197,606.62,Prescription given,
+OPD-000176,PAT-0274,2022-10-31,Dental,Chest Pain,Dr. Chebet,,1082.32,Follow-up scheduled,
+OPD-000217,PAT-0337,2022-11-20,Hiv/Aids Clinic,,Dr. Otieno,125,2816.05,Referred to specialist,2022-11-29
+OPD-000005,PAT-0040,2022-06-04,Eye,Joint Pain,Dr. Kariuki,233,2002.32,Investigations ordered,
+OPD-000882,PAT-0173,2022-07-01,Paediatric Opd,Back Pain,Dr. Chebet,42,999.47,Admitted,
+OPD-000518,PAT-0395,2022-01-18,Antenatal Care,Cough,Dr. Kariuki,236,1062.5,Referred to specialist,2022-03-18
+OPD-000473,PAT-0195,2022-12-18,Hiv/Aids Clinic,Chest Pain,Dr. Otieno,165,2103.16,Admitted,
+OPD-000412,PAT-0004,2023-06-23,Tb Clinic,Chest Pain,Dr. Muthoni,,1169.83,Investigations ordered,2023-09-11
+OPD-000178,PAT-0249,2023-03-22,Dental,Cough,Dr. Wanjiku,,214.15,Referred to specialist,2023-06-20
+OPD-000203,PAT-0254,2023-04-08,Antenatal Care,Headache,Dr. Wanjiku,19,2314.34,,2023-05-12
+OPD-000829,PAT-0129,2023-07-30,Nutrition,Dizziness,Dr. Wanjiku,128,958.24,Prescription given,
+OPD-000781,PAT-0284,2023-01-15,Nutrition,Cough,None,59,1704.86,Admitted,2023-03-17
+OPD-000004,PAT-0370,2023-01-03,Diabetes Clinic,Fever,Dr. Otieno,52,1141.95,Prescription given,2023-02-21
+OPD-000264,PAT-0111,2022-04-14,Hiv/Aids Clinic,Abdominal Pain,Dr. Omondi,31,1782.19,Follow-up scheduled,
+OPD-000497,PAT-0356,2022-11-11,Paediatric Opd,,Dr. Omondi,193,606.9,,
+OPD-000621,PAT-0200,2023-08-27,Antenatal Care,Fever,,129,1629.14,Prescription given,2023-11-13
+OPD-000262,PAT-0215,2024-05-27,Diabetes Clinic,Cough,Dr. Otieno,162,1304.55,Admitted,2024-07-23
+OPD-000252,PAT-0372,2022-05-16,Nutrition,Cough,Dr. Otieno,224,1119.72,Referred to specialist,
+OPD-000094,PAT-0380,2022-08-26,General Opd,Chest Pain,Dr. Omondi,71,1931.75,Prescription given,
+OPD-000539,PAT-0107,2022-08-10,Nutrition,Headache,Dr. Chebet,220,708.2,Prescription given,
+OPD-000227,PAT-0225,2023-01-30,General Opd,Joint Pain,Dr. Wanjiku,131,,Investigations ordered,
+OPD-000877,PAT-0147,2022-01-07,Antenatal Care,Chest Pain,Dr. Otieno,28,2759.29,Admitted,
+OPD-000715,PAT-0094,2023-04-25,Antenatal Care,Back Pain,Dr. Muthoni,198,591.21,Follow-up scheduled,2023-07-15
+OPD-000201,PAT-0014,2023-04-07,Antenatal Care,Headache,Dr. Otieno,117,1847.99,Prescription given,
+OPD-000724,PAT-0009,2023-04-09,Eye,Back Pain,,194,1269.91,Investigations ordered,2023-06-12
+OPD-000016,PAT-0282,2023-03-03,Tb Clinic,Cough,Dr. Chebet,99,,Prescription given,2023-06-01
+OPD-000258,PAT-0010,2023-12-13,Dental,Back Pain,Dr. Otieno,231,2188.96,Referred to specialist,
+OPD-000739,PAT-0136,2023-11-14,Paediatric Opd,Vomiting,Dr. Omondi,179,1217.9,Prescription given,
+OPD-000015,PAT-0145,2022-04-02,Eye,Abdominal Pain,Dr. Omondi,209,,Admitted,2022-06-08
+OPD-000334,PAT-0246,2022-05-26,Eye,Cough,Dr. Otieno,135,,Counselled & discharged,2022-07-31
+OPD-000230,PAT-0328,2023-01-08,Dental,Fatigue,Dr. Kariuki,37,457.31,Prescription given,
+OPD-000434,PAT-0109,2023-01-21,Paediatric Opd,Headache,Dr. Wanjiku,117,1466.85,Investigations ordered,2023-04-10
+OPD-000432,PAT-0146,2023-01-21,Dental,Skin Rash,Dr. Muthoni,223,,Admitted,
+OPD-000837,PAT-0002,2022-11-08,General Opd,Cough,Dr. Otieno,127,1561.0,Prescription given,2023-01-09
+OPD-000477,PAT-0171,2022-09-18,Nutrition,Dizziness,Dr. Kariuki,197,784.99,Investigations ordered,2022-11-11
+OPD-000874,PAT-0225,2022-07-04,Dental,Headache,Dr. Wanjiku,215,,Prescription given,
+OPD-000831,PAT-0151,2023-04-17,General Opd,Cough,Dr. Otieno,221,2878.98,Admitted,
+OPD-000863,PAT-0317,2024-06-28,General Opd,Vomiting,,38,1529.54,Referred to specialist,
+OPD-000100,PAT-0268,2023-09-26,Nutrition,Cough,Dr. Otieno,228,2379.38,Counselled & discharged,
+OPD-000867,PAT-0231,2022-07-14,Nutrition,Fever,Dr. Kariuki,134,2111.0,Investigations ordered,2022-10-08
+OPD-000748,PAT-0341,2022-07-19,Tb Clinic,Headache,Dr. Kariuki,137,1584.06,Referred to specialist,
+OPD-000591,PAT-0202,2024-03-22,Tb Clinic,,Dr. Kariuki,173,921.11,Admitted,2024-04-02
+OPD-000317,PAT-0369,2023-05-18,Paediatric Opd,Chest Pain,Dr. Omondi,136,1867.63,Prescription given,2023-05-28
+OPD-000803,PAT-0032,2024-05-19,Antenatal Care,Back Pain,Dr. Kariuki,73,609.5,Prescription given,2024-06-19
+OPD-000272,PAT-0142,2022-07-16,Antenatal Care,Joint Pain,Dr. Otieno,190,2921.17,Follow-up scheduled,2022-08-24
+OPD-000058,PAT-0355,2023-05-09,Hiv/Aids Clinic,Fatigue,Dr. Wanjiku,129,1486.35,Follow-up scheduled,2023-08-02
+OPD-000679,PAT-0135,2023-07-02,Eye,Skin Rash,Dr. Chebet,183,2902.81,Counselled & discharged,
+OPD-000124,PAT-0245,2023-09-08,Eye,Cough,Dr. Omondi,212,1622.55,Follow-up scheduled,
+OPD-000789,PAT-0245,2022-12-05,Hiv/Aids Clinic,Fever,Dr. Otieno,125,2026.47,Follow-up scheduled,
+OPD-000145,PAT-0061,2023-08-14,Eye,Vomiting,Dr. Omondi,,,,
+OPD-000782,PAT-0078,2023-10-11,Paediatric Opd,Fever,Dr. Omondi,13,1498.8,Counselled & discharged,
+OPD-000740,PAT-0216,2023-11-01,General Opd,Fever,Dr. Omondi,65,2874.33,Prescription given,
+OPD-000159,PAT-0057,2024-05-23,Dental,Fatigue,Dr. Wanjiku,125,,Counselled & discharged,
+OPD-000382,PAT-0132,2023-09-29,Diabetes Clinic,Headache,Dr. Chebet,43,2348.31,Follow-up scheduled,2023-11-15
+OPD-000118,PAT-0204,2022-03-26,Paediatric Opd,Back Pain,Dr. Chebet,154,1178.39,Follow-up scheduled,
+OPD-000745,PAT-0073,2023-05-25,Paediatric Opd,Fatigue,Dr. Chebet,154,561.7,Admitted,2023-06-18
+OPD-000509,PAT-0196,2023-07-23,Antenatal Care,Vomiting,Dr. Wanjiku,187,1279.91,Follow-up scheduled,2023-08-31
+OPD-000318,PAT-0032,2024-04-27,Eye,Cough,Dr. Otieno,238,489.46,Prescription given,2024-05-29
+OPD-000089,PAT-0294,2022-02-19,General Opd,Dizziness,Dr. Chebet,238,1791.33,Admitted,2022-04-15
+OPD-000169,PAT-0212,2023-12-04,Dental,Chest Pain,Dr. Chebet,231,2480.76,Follow-up scheduled,
+OPD-000594,PAT-0047,2022-06-21,General Opd,Joint Pain,Dr. Omondi,111,2936.44,Prescription given,2022-09-04
+OPD-000574,PAT-0383,2023-09-07,Tb Clinic,Back Pain,Dr. Muthoni,190,485.03,Admitted,2023-11-24
+OPD-000383,PAT-0200,2022-03-13,General Opd,Joint Pain,Dr. Wanjiku,161,2420.93,Counselled & discharged,
+OPD-000007,PAT-0317,2023-01-01,Dental,Cough,Dr. Wanjiku,89,1382.49,Admitted,
+OPD-000827,PAT-0347,2023-10-07,Paediatric Opd,Cough,Dr. Chebet,124,1670.26,Counselled & discharged,2023-12-11
+OPD-000320,PAT-0378,2024-06-20,Paediatric Opd,Dizziness,Dr. Kariuki,135,1452.88,Prescription given,
+OPD-000238,PAT-0275,2022-10-18,Paediatric Opd,Joint Pain,Dr. Muthoni,218,1020.42,Admitted,
+OPD-000211,PAT-0151,2022-12-15,Paediatric Opd,Back Pain,Dr. Muthoni,52,963.35,Investigations ordered,2023-03-05
+OPD-000663,PAT-0086,2023-08-18,Diabetes Clinic,Chest Pain,Dr. Muthoni,27,1274.77,Investigations ordered,
+OPD-000212,PAT-0285,2022-08-04,Paediatric Opd,,Dr. Omondi,175,2337.32,Prescription given,
+OPD-000794,PAT-0255,2023-11-25,Tb Clinic,Joint Pain,Dr. Wanjiku,143,,Counselled & discharged,
+OPD-000002,PAT-0239,2022-10-24,Tb Clinic,Joint Pain,Dr. Muthoni,239,983.4,Follow-up scheduled,
+OPD-000523,PAT-0043,2024-06-27,Diabetes Clinic,Skin Rash,Dr. Chebet,67,398.59,Admitted,
+OPD-000870,PAT-0373,2023-11-18,Eye,Cough,Dr. Muthoni,190,1855.32,Admitted,
+OPD-000304,PAT-0109,2022-06-03,Tb Clinic,Abdominal Pain,Dr. Wanjiku,235,2071.64,Prescription given,2022-06-18
+OPD-000065,PAT-0245,2022-10-06,Diabetes Clinic,Skin Rash,Dr. Otieno,,1091.83,,2022-12-30
+OPD-000462,PAT-0279,2023-08-03,Tb Clinic,Cough,Dr. Otieno,173,2273.1,Referred to specialist,2023-06-04
+OPD-000540,PAT-0123,2022-02-24,Antenatal Care,Fever,Dr. Muthoni,74,1656.18,Prescription given,2022-04-10
+OPD-000429,PAT-0208,2023-03-07,Dental,Cough,None,111,1924.45,Investigations ordered,
+OPD-000364,PAT-0229,2024-09-04,Tb Clinic,Fever,Dr. Muthoni,33,1256.76,,
+OPD-000312,PAT-0316,2023-07-14,Dental,Skin Rash,Dr. Chebet,,345.69,Investigations ordered,2023-09-05
+OPD-000675,PAT-0056,2023-04-23,Dental,Chest Pain,Dr. Wanjiku,14,1750.57,Referred to specialist,
+OPD-000101,PAT-0155,2022-01-28,Dental,,Dr. Muthoni,141,490.0,Investigations ordered,2022-03-05
+OPD-000099,PAT-0201,2022-04-25,Hiv/Aids Clinic,Fever,Dr. Otieno,137,599.4,Admitted,2022-05-04
+OPD-000891,PAT-0361,2023-10-02,Nutrition,Skin Rash,Dr. Wanjiku,101,288.99,Follow-up scheduled,
+OPD-000552,PAT-0367,2023-04-18,General Opd,Joint Pain,Dr. Wanjiku,164,1919.83,Admitted,2023-06-09
+OPD-000684,PAT-0308,2024-02-24,Diabetes Clinic,Dizziness,Dr. Wanjiku,205,894.5,Prescription given,
+OPD-000278,PAT-0132,2024-02-18,Tb Clinic,Joint Pain,Dr. Kariuki,76,2842.56,Follow-up scheduled,2024-03-12
+OPD-000390,PAT-0296,2024-02-24,Paediatric Opd,Joint Pain,Dr. Omondi,215,1594.24,Investigations ordered,
+OPD-000197,PAT-0305,2023-02-27,Tb Clinic,Chest Pain,Dr. Kariuki,36,2628.03,Counselled & discharged,2023-03-06
+OPD-000281,PAT-0106,2022-10-21,Paediatric Opd,Cough,Dr. Muthoni,36,2776.23,Counselled & discharged,
+OPD-000505,PAT-0126,2022-11-10,Antenatal Care,Joint Pain,Dr. Kariuki,144,986.6,Referred to specialist,2022-11-26
+OPD-000820,PAT-0301,2023-05-11,Diabetes Clinic,Fatigue,Dr. Omondi,31,2040.26,Investigations ordered,
+OPD-000335,PAT-0292,2022-12-31,Eye,Headache,Dr. Kariuki,220,1243.82,Prescription given,2023-03-17
+OPD-000163,PAT-0181,2023-02-11,Dental,Back Pain,,141,1999.0,Counselled & discharged,
+OPD-000294,PAT-0206,2022-06-25,Tb Clinic,Vomiting,Dr. Otieno,62,2726.56,Prescription given,
+OPD-000637,PAT-0230,2024-03-06,Tb Clinic,Cough,Dr. Kariuki,112,,Investigations ordered,
+OPD-000778,PAT-0279,2023-04-04,Paediatric Opd,Fatigue,Dr. Kariuki,218,596.46,,
+OPD-000232,PAT-0016,2022-05-15,Eye,Joint Pain,Dr. Otieno,112,1437.7,Investigations ordered,2022-07-06
+OPD-000023,PAT-0228,2022-11-23,Dental,Back Pain,Dr. Omondi,57,312.38,Admitted,
+OPD-000135,PAT-0220,2022-02-12,General Opd,Vomiting,Dr. Wanjiku,33,1657.99,Prescription given,
+OPD-000895,PAT-0310,2022-11-17,Eye,Skin Rash,Dr. Chebet,119,1678.46,Follow-up scheduled,
+OPD-000342,PAT-0168,2022-02-28,Paediatric Opd,Skin Rash,Dr. Omondi,226,1250.47,Admitted,
+OPD-000220,PAT-0039,2022-03-27,Tb Clinic,Abdominal Pain,Dr. Omondi,27,989.41,Prescription given,
+OPD-000493,PAT-0351,2024-03-16,Antenatal Care,Fever,Dr. Otieno,152,1865.15,Investigations ordered,2024-05-26
+OPD-000448,PAT-0317,2024-05-15,Paediatric Opd,Joint Pain,,81,2096.3,Referred to specialist,
+OPD-000884,PAT-0400,2024-03-05,Eye,Vomiting,,126,2386.97,,
+OPD-000189,PAT-0112,2023-10-22,Eye,,Dr. Omondi,159,2949.92,Admitted,
+OPD-000193,PAT-0285,2022-09-03,Hiv/Aids Clinic,Headache,Dr. Chebet,52,556.96,Admitted,2022-04-28
+OPD-000143,PAT-0120,2024-02-29,Dental,Fatigue,Dr. Otieno,,2831.26,Follow-up scheduled,2024-05-15
+OPD-000411,PAT-0364,2023-11-15,Dental,Vomiting,Dr. Omondi,123,787.58,Investigations ordered,2024-02-06
+OPD-000299,PAT-0168,2024-05-09,Dental,Joint Pain,Dr. Omondi,182,2378.63,,2024-08-01
+OPD-000704,PAT-0159,2022-12-13,Diabetes Clinic,Cough,Dr. Wanjiku,54,653.89,Referred to specialist,
+OPD-000302,PAT-0111,2022-11-08,Hiv/Aids Clinic,Fever,Dr. Wanjiku,6,,Follow-up scheduled,2022-10-29
+OPD-000753,PAT-0024,2022-11-28,General Opd,Chest Pain,Dr. Omondi,,1416.05,Admitted,
+OPD-000465,PAT-0142,2024-06-23,Nutrition,Chest Pain,,111,2073.15,,2024-09-10
+OPD-000399,PAT-0105,2022-05-10,Paediatric Opd,Headache,Dr. Wanjiku,113,1229.61,Referred to specialist,2022-06-12
+OPD-000575,PAT-0374,2023-03-24,Diabetes Clinic,Dizziness,Dr. Muthoni,223,885.65,Counselled & discharged,2023-04-27
+OPD-000129,PAT-0135,2023-03-24,Eye,Cough,Dr. Omondi,132,246.24,,
+OPD-000161,PAT-0048,2023-01-12,Eye,Headache,Dr. Omondi,212,1472.86,Counselled & discharged,2023-03-02
+OPD-000357,PAT-0319,2022-06-16,Diabetes Clinic,Back Pain,Dr. Otieno,210,1619.6,Admitted,2022-08-16
+OPD-000883,PAT-0332,2022-11-03,Eye,Chest Pain,Dr. Chebet,116,179.75,Prescription given,2022-03-27
+OPD-000655,PAT-0196,2023-09-19,Antenatal Care,Fever,Dr. Omondi,16,2625.73,,
+OPD-000106,PAT-0237,2024-01-05,Nutrition,Joint Pain,Dr. Wanjiku,218,2201.51,Counselled & discharged,2024-03-10
+OPD-000673,PAT-0096,2023-11-01,General Opd,Joint Pain,Dr. Muthoni,225,1393.39,,2023-02-28
+OPD-000864,PAT-0028,2023-11-20,Diabetes Clinic,Headache,Dr. Otieno,95,1934.89,Investigations ordered,2023-12-20
+OPD-000236,PAT-0347,2023-03-19,Eye,Cough,,183,2902.02,Admitted,2023-04-17
+OPD-000086,PAT-0238,2023-03-31,Nutrition,Fever,Dr. Omondi,,1506.59,Admitted,
+OPD-000366,PAT-0143,2022-01-13,Dental,Chest Pain,Dr. Muthoni,32,1255.05,Investigations ordered,
+OPD-000801,PAT-0256,2023-02-09,Diabetes Clinic,Headache,Dr. Muthoni,103,,Follow-up scheduled,
+OPD-000017,PAT-0305,2023-01-06,Tb Clinic,Dizziness,Dr. Omondi,29,1244.76,Counselled & discharged,
+OPD-000800,PAT-0319,2023-09-19,Diabetes Clinic,Vomiting,Dr. Chebet,141,,Follow-up scheduled,2023-11-20
+OPD-000047,PAT-0155,2022-01-10,Hiv/Aids Clinic,Chest Pain,Dr. Wanjiku,224,1244.34,Referred to specialist,2022-10-08
+OPD-000558,PAT-0152,2023-11-22,Diabetes Clinic,Back Pain,Dr. Omondi,66,2502.17,Prescription given,2023-12-31
+OPD-000345,PAT-0368,2022-07-27,Paediatric Opd,Chest Pain,Dr. Kariuki,77,,Follow-up scheduled,2022-08-20
+OPD-000130,PAT-0241,2022-12-27,Eye,,Dr. Otieno,51,2419.55,Counselled & discharged,
+OPD-000270,PAT-0325,2023-05-30,Hiv/Aids Clinic,Dizziness,Dr. Otieno,201,1018.87,Prescription given,
+OPD-000441,PAT-0106,2022-06-12,General Opd,Vomiting,Dr. Otieno,36,2038.61,Prescription given,
+OPD-000756,PAT-0213,2024-10-01,Paediatric Opd,Skin Rash,Dr. Muthoni,141,1051.84,Admitted,2024-03-26
+OPD-000095,PAT-0249,2022-11-27,Tb Clinic,Skin Rash,Dr. Omondi,135,,Follow-up scheduled,
+OPD-000469,PAT-0293,2022-04-06,Hiv/Aids Clinic,Dizziness,Dr. Muthoni,113,246.72,Referred to specialist,2022-05-27
+OPD-000617,PAT-0173,2024-06-02,Dental,Joint Pain,Dr. Muthoni,42,1307.34,Prescription given,2024-05-04
+OPD-000821,PAT-0244,2023-11-16,General Opd,Dizziness,Dr. Omondi,20,768.05,Investigations ordered,2024-01-09
+OPD-000514,PAT-0116,2023-01-16,Eye,Skin Rash,Dr. Omondi,108,968.35,Prescription given,2023-02-14
+OPD-000806,PAT-0156,2024-03-22,Nutrition,Skin Rash,Dr. Omondi,196,1434.44,Counselled & discharged,
+OPD-000828,PAT-0204,2024-02-19,Hiv/Aids Clinic,Cough,,96,994.29,Counselled & discharged,
+OPD-000243,PAT-0245,2023-09-14,Tb Clinic,Fever,Dr. Chebet,127,1073.43,Prescription given,2023-10-14
+OPD-000080,PAT-0050,2022-10-02,Eye,,Dr. Kariuki,108,701.16,,2022-11-10
+OPD-000708,PAT-0262,2023-12-14,Tb Clinic,Vomiting,Dr. Wanjiku,41,1005.68,Referred to specialist,
+OPD-000606,PAT-0137,2023-02-22,Hiv/Aids Clinic,Fatigue,Dr. Chebet,208,1206.52,Follow-up scheduled,2023-04-10
+OPD-000044,PAT-0224,2023-10-20,Dental,Headache,Dr. Wanjiku,240,2172.91,,
+OPD-000206,PAT-0088,2023-04-08,Nutrition,,Dr. Otieno,20,264.44,Referred to specialist,2023-05-27
+OPD-000653,PAT-0209,2023-01-01,Eye,Cough,Dr. Omondi,81,2660.66,Referred to specialist,2023-03-06
+OPD-000589,PAT-0300,2023-10-31,Dental,Abdominal Pain,Dr. Otieno,168,2906.78,Referred to specialist,2024-01-08
+OPD-000092,PAT-0364,2023-02-04,Tb Clinic,Skin Rash,,135,1621.5,Investigations ordered,
+OPD-000293,PAT-0014,2022-09-09,Paediatric Opd,Abdominal Pain,Dr. Chebet,78,,Follow-up scheduled,
+OPD-000151,PAT-0062,2022-05-08,Paediatric Opd,Vomiting,Dr. Otieno,7,2191.16,,
+OPD-000734,PAT-0373,2024-02-29,General Opd,Headache,Dr. Kariuki,20,546.64,Follow-up scheduled,2024-04-18
+OPD-000083,PAT-0004,2024-04-28,Nutrition,Cough,Dr. Kariuki,148,2356.94,Prescription given,
+OPD-000088,PAT-0375,2023-07-12,Tb Clinic,Back Pain,Dr. Kariuki,5,,Prescription given,
+OPD-000142,PAT-0006,2023-11-10,Antenatal Care,Headache,Dr. Otieno,59,2425.03,,
+OPD-000613,PAT-0375,2022-08-19,Diabetes Clinic,Skin Rash,,20,2975.34,Investigations ordered,
+OPD-000340,PAT-0063,2023-07-09,Eye,Cough,Dr. Chebet,,2468.68,,2023-10-03
+OPD-000705,PAT-0158,2022-07-20,General Opd,Dizziness,Dr. Chebet,208,1642.9,Investigations ordered,
+OPD-000868,PAT-0141,2023-09-18,Antenatal Care,Chest Pain,Dr. Wanjiku,75,303.07,Admitted,
+OPD-000761,PAT-0241,2022-03-04,Dental,Chest Pain,,,439.28,Prescription given,2022-04-17
+OPD-000040,PAT-0166,2023-03-18,Paediatric Opd,Vomiting,Dr. Muthoni,193,2585.44,Admitted,2023-04-22
+OPD-000596,PAT-0347,2022-09-19,Paediatric Opd,Dizziness,Dr. Kariuki,,528.95,Counselled & discharged,
+OPD-000835,PAT-0159,2022-04-26,Eye,Cough,Dr. Kariuki,81,915.57,Referred to specialist,2022-07-06
+OPD-000085,PAT-0086,2022-01-08,Paediatric Opd,,Dr. Wanjiku,101,2653.62,Prescription given,2022-08-29
+OPD-000231,PAT-0028,2024-03-26,Nutrition,Fatigue,Dr. Chebet,125,1195.34,Admitted,2024-06-22
+OPD-000665,PAT-0324,2022-12-31,General Opd,Cough,Dr. Muthoni,14,2692.54,Prescription given,2023-03-09
+OPD-000676,PAT-0171,2023-07-10,Dental,Fever,Dr. Muthoni,,1535.45,Follow-up scheduled,2023-08-29
+OPD-000315,PAT-0259,2023-01-07,General Opd,Dizziness,Dr. Omondi,,1548.35,Prescription given,2023-03-07
+OPD-000742,PAT-0239,2024-02-12,Hiv/Aids Clinic,Dizziness,,30,2769.63,Follow-up scheduled,
+OPD-000452,PAT-0151,2022-03-04,Paediatric Opd,Vomiting,Dr. Muthoni,239,281.06,Referred to specialist,2022-05-11
+OPD-000556,PAT-0102,2022-12-01,Tb Clinic,Dizziness,Dr. Omondi,227,2923.02,Prescription given,2023-01-31
+OPD-000484,PAT-0189,2023-01-31,Tb Clinic,Vomiting,Dr. Kariuki,229,2117.88,Admitted,2023-04-16
+OPD-000173,PAT-0022,2023-08-01,Antenatal Care,Joint Pain,Dr. Muthoni,176,573.13,Referred to specialist,
+OPD-000647,PAT-0387,2023-03-20,Dental,Abdominal Pain,Dr. Wanjiku,124,2325.1,Counselled & discharged,2023-05-18
+OPD-000849,PAT-0337,2023-11-22,Paediatric Opd,Back Pain,Dr. Kariuki,180,2065.16,Admitted,
+OPD-000450,PAT-0214,2024-01-25,Diabetes Clinic,Abdominal Pain,Dr. Muthoni,232,2501.11,Prescription given,2024-03-20
+OPD-000362,PAT-0022,2022-10-09,Paediatric Opd,Joint Pain,Dr. Chebet,59,1436.88,Counselled & discharged,2022-12-07
+OPD-000313,PAT-0162,2022-10-21,Hiv/Aids Clinic,Skin Rash,Dr. Wanjiku,107,1756.85,Investigations ordered,2023-01-13
+OPD-000049,PAT-0355,2022-04-18,Antenatal Care,,Dr. Muthoni,153,242.48,Referred to specialist,
+OPD-000369,PAT-0187,2023-10-17,General Opd,Joint Pain,Dr. Otieno,55,1155.53,Referred to specialist,
+OPD-000799,PAT-0288,2023-12-16,Antenatal Care,Back Pain,Dr. Kariuki,,1844.97,Prescription given,2024-03-11
+OPD-000097,PAT-0321,2022-02-10,Hiv/Aids Clinic,Back Pain,Dr. Kariuki,47,1090.15,Referred to specialist,
+OPD-000652,PAT-0360,2022-06-15,Tb Clinic,Abdominal Pain,Dr. Omondi,73,2407.53,Admitted,
+OPD-000242,PAT-0129,2022-06-17,Hiv/Aids Clinic,Joint Pain,Dr. Omondi,161,2905.25,Follow-up scheduled,2022-07-17
+OPD-000029,PAT-0314,2023-09-23,Paediatric Opd,Chest Pain,Dr. Chebet,31,625.7,Follow-up scheduled,
+OPD-000233,PAT-0041,2023-02-28,Dental,Fever,Dr. Omondi,95,593.94,Prescription given,
+OPD-000443,PAT-0174,2023-10-27,Nutrition,Vomiting,Dr. Omondi,151,1032.5,Counselled & discharged,2024-01-16
+OPD-000061,PAT-0295,2023-04-07,Tb Clinic,Chest Pain,Dr. Muthoni,198,2300.21,,2023-09-22
+OPD-000013,PAT-0150,2023-01-06,Tb Clinic,Headache,Dr. Omondi,,,Follow-up scheduled,2023-06-13
+OPD-000766,PAT-0233,2024-01-07,Antenatal Care,Abdominal Pain,Dr. Muthoni,26,700.35,Referred to specialist,2024-01-24
+OPD-000899,PAT-0006,2023-08-16,Diabetes Clinic,Fever,Dr. Omondi,160,1857.23,Investigations ordered,
+OPD-000022,PAT-0106,2023-05-04,Tb Clinic,Cough,Dr. Chebet,80,,Referred to specialist,2023-06-13
+OPD-000616,PAT-0288,2023-09-23,Hiv/Aids Clinic,Dizziness,Dr. Otieno,56,2828.83,Follow-up scheduled,2023-10-29
+OPD-000174,PAT-0017,2022-05-28,Antenatal Care,Cough,Dr. Muthoni,157,490.36,Admitted,2022-06-24
+OPD-000698,PAT-0101,2022-11-19,Hiv/Aids Clinic,Joint Pain,Dr. Omondi,60,1422.38,Investigations ordered,2022-12-22
+OPD-000470,PAT-0197,2022-12-25,Tb Clinic,Dizziness,Dr. Kariuki,181,434.07,Admitted,2023-02-16
+OPD-000273,PAT-0027,2023-02-24,Dental,Chest Pain,Dr. Omondi,128,1757.87,Investigations ordered,2023-04-26
+OPD-000070,PAT-0125,2022-06-14,General Opd,,Dr. Chebet,14,2204.54,Counselled & discharged,
+OPD-000701,PAT-0398,2023-07-17,Eye,Vomiting,Dr. Muthoni,221,1715.33,Investigations ordered,2023-08-12
+OPD-000246,PAT-0314,2023-05-22,Eye,Dizziness,Dr. Otieno,149,1202.56,Referred to specialist,
+OPD-000808,PAT-0061,2022-07-08,Diabetes Clinic,Back Pain,,201,1359.15,Referred to specialist,2022-10-26
+OPD-000330,PAT-0249,2022-05-28,General Opd,Joint Pain,,106,886.4,Referred to specialist,
+OPD-000387,PAT-0218,2022-06-03,Nutrition,Cough,Dr. Kariuki,199,2557.94,Admitted,
+OPD-000887,PAT-0236,2023-08-08,Dental,Skin Rash,Dr. Otieno,198,1870.12,Counselled & discharged,2023-10-23
+OPD-000764,PAT-0340,2022-09-26,Paediatric Opd,,Dr. Muthoni,205,2397.09,Investigations ordered,2022-10-13
+OPD-000722,PAT-0376,2022-06-07,Paediatric Opd,Dizziness,Dr. Chebet,201,443.66,Investigations ordered,2022-08-15
+OPD-000131,PAT-0368,2024-01-17,Antenatal Care,Dizziness,Dr. Omondi,225,2920.16,,2024-02-18
+OPD-000584,PAT-0152,2024-01-23,Diabetes Clinic,Vomiting,Dr. Omondi,95,377.91,Admitted,2024-04-03
+OPD-000507,PAT-0189,2022-02-19,Hiv/Aids Clinic,Cough,Dr. Wanjiku,192,1407.01,Referred to specialist,2022-03-03
+OPD-000347,PAT-0253,2022-05-15,Nutrition,Skin Rash,Dr. Omondi,,,Investigations ordered,2022-07-06
+OPD-000187,PAT-0082,2022-05-23,Paediatric Opd,Headache,Dr. Kariuki,44,2782.44,,2022-08-21
+OPD-000356,PAT-0047,2024-01-16,Dental,Skin Rash,Dr. Wanjiku,177,1496.3,Investigations ordered,
+OPD-000697,PAT-0379,2023-07-19,Eye,,Dr. Omondi,11,1226.98,Counselled & discharged,
+OPD-000439,PAT-0111,2023-07-03,Nutrition,Cough,Dr. Wanjiku,13,1560.83,Prescription given,2023-04-08
+OPD-000667,PAT-0225,2023-09-29,Paediatric Opd,Cough,,84,881.87,,
+OPD-000623,PAT-0037,2023-07-01,Antenatal Care,Fatigue,Dr. Kariuki,97,1659.7,Admitted,
+OPD-000138,PAT-0016,2023-06-27,Diabetes Clinic,Skin Rash,Dr. Wanjiku,72,424.21,Investigations ordered,2023-09-21
+OPD-000529,PAT-0143,2022-01-07,Antenatal Care,Cough,Dr. Wanjiku,100,2845.74,Prescription given,
+OPD-000324,PAT-0081,2023-03-17,General Opd,Chest Pain,Dr. Wanjiku,63,1726.11,Admitted,
+OPD-000693,PAT-0313,2022-08-27,Antenatal Care,Dizziness,,224,2218.61,Admitted,2022-10-28
+OPD-000604,PAT-0129,2022-05-13,Hiv/Aids Clinic,Headache,Dr. Omondi,201,1234.17,Admitted,2022-06-14
+OPD-000454,PAT-0211,2023-07-03,Eye,Dizziness,Dr. Kariuki,21,545.99,Follow-up scheduled,
+OPD-000802,PAT-0028,2024-04-17,Nutrition,Chest Pain,Dr. Muthoni,181,,Counselled & discharged,2024-07-05
+OPD-000416,PAT-0302,2024-05-28,Paediatric Opd,Chest Pain,Dr. Wanjiku,225,2742.08,Referred to specialist,2024-08-19
+OPD-000614,PAT-0153,2024-05-24,Tb Clinic,Vomiting,,178,1653.13,Counselled & discharged,2024-06-24
+OPD-000205,PAT-0251,2023-11-05,Paediatric Opd,Headache,Dr. Chebet,181,2587.53,Investigations ordered,
+OPD-000530,PAT-0165,2022-07-23,Dental,Abdominal Pain,Dr. Kariuki,225,236.49,Referred to specialist,2022-10-19
+OPD-000533,PAT-0379,2023-12-15,Dental,Chest Pain,Dr. Otieno,187,1410.76,Follow-up scheduled,2024-03-13
+OPD-000368,PAT-0252,2023-09-28,Hiv/Aids Clinic,Fever,Dr. Otieno,149,,Follow-up scheduled,2023-10-13
+OPD-000401,PAT-0079,2022-08-22,Antenatal Care,Abdominal Pain,,238,835.96,Admitted,
+OPD-000042,PAT-0179,2023-11-18,Eye,Fatigue,Dr. Kariuki,110,300.08,Investigations ordered,2024-01-22
+OPD-000352,PAT-0308,2024-04-14,Hiv/Aids Clinic,Skin Rash,Dr. Muthoni,97,303.08,Prescription given,2024-05-06
+OPD-000888,PAT-0257,2022-02-12,Eye,Fever,Dr. Kariuki,190,1517.44,Counselled & discharged,
+OPD-000200,PAT-0075,2022-06-17,Diabetes Clinic,Skin Rash,Dr. Kariuki,15,1494.34,Investigations ordered,2022-09-13
+OPD-000746,PAT-0225,2022-05-02,Paediatric Opd,Dizziness,Dr. Omondi,169,1229.59,Investigations ordered,2022-05-17
+OPD-000784,PAT-0274,2023-09-27,Eye,,Dr. Kariuki,63,2095.4,Counselled & discharged,
+OPD-000582,PAT-0278,2024-09-03,Diabetes Clinic,Skin Rash,Dr. Wanjiku,54,2980.64,,2024-03-17
+OPD-000224,PAT-0181,2024-01-06,Tb Clinic,,Dr. Kariuki,80,1054.42,Prescription given,2024-04-01
+OPD-000481,PAT-0101,2023-01-24,General Opd,Back Pain,Dr. Otieno,172,2230.18,Investigations ordered,2023-04-22
+OPD-000736,PAT-0131,2022-03-19,Paediatric Opd,Cough,Dr. Otieno,179,,Investigations ordered,
+OPD-000731,PAT-0315,2024-02-13,Paediatric Opd,Cough,Dr. Otieno,45,214.65,Admitted,
+OPD-000370,PAT-0383,2022-04-30,Paediatric Opd,Fever,Dr. Kariuki,184,1374.93,Admitted,2022-05-27
+OPD-000669,PAT-0123,2022-01-03,Hiv/Aids Clinic,Back Pain,Dr. Wanjiku,,1206.33,Prescription given,
+OPD-000543,PAT-0302,2024-03-17,Antenatal Care,Joint Pain,,30,984.73,Referred to specialist,2024-04-23
+OPD-000186,PAT-0231,2023-01-29,Nutrition,,Dr. Otieno,187,202.83,Referred to specialist,
+OPD-000532,PAT-0274,2022-09-08,Eye,Back Pain,Dr. Kariuki,34,2605.89,Follow-up scheduled,2022-11-02
+OPD-000133,PAT-0015,2024-01-12,Antenatal Care,Skin Rash,Dr. Otieno,65,2756.49,Admitted,2024-03-22
+OPD-000235,PAT-0383,2022-10-24,General Opd,Fever,Dr. Chebet,205,2631.6,Admitted,2023-01-11
+OPD-000486,PAT-0296,2023-02-12,Eye,Dizziness,Dr. Omondi,21,228.48,Investigations ordered,2024-02-05
+OPD-000732,PAT-0253,2022-02-09,Nutrition,Abdominal Pain,Dr. Omondi,23,1346.13,Prescription given,2022-05-09
+OPD-000408,PAT-0347,2024-01-23,Paediatric Opd,Joint Pain,Dr. Omondi,178,1944.86,,2024-02-04
+OPD-000890,PAT-0225,2023-08-31,Diabetes Clinic,Fatigue,Dr. Otieno,209,485.06,Investigations ordered,
+OPD-000561,PAT-0118,2022-06-28,Eye,Abdominal Pain,Dr. Muthoni,5,989.13,Referred to specialist,2022-08-14
+OPD-000770,PAT-0169,2022-02-04,Nutrition,Dizziness,Dr. Otieno,77,400.36,Prescription given,2022-07-01
+OPD-000608,PAT-0174,2024-04-13,Hiv/Aids Clinic,Abdominal Pain,Dr. Kariuki,179,,,
+OPD-000404,PAT-0346,2022-05-22,Eye,,Dr. Muthoni,190,2294.83,Follow-up scheduled,
+OPD-000847,PAT-0303,2022-01-21,General Opd,Chest Pain,Dr. Wanjiku,152,,Prescription given,
+OPD-000451,PAT-0327,2022-03-23,Dental,Chest Pain,Dr. Chebet,213,,Prescription given,
+OPD-000117,PAT-0340,2024-06-14,Hiv/Aids Clinic,Fever,Dr. Otieno,199,497.5,Investigations ordered,2024-07-04
+OPD-000149,PAT-0380,2023-11-20,Eye,Abdominal Pain,Dr. Kariuki,15,2212.49,,2024-01-22
+OPD-000557,PAT-0329,2022-12-14,General Opd,Fatigue,Dr. Chebet,207,977.64,Referred to specialist,
+OPD-000247,PAT-0108,2022-05-11,Paediatric Opd,Dizziness,Dr. Wanjiku,131,801.48,Referred to specialist,
+OPD-000218,PAT-0310,2022-08-06,Nutrition,Vomiting,Dr. Wanjiku,9,2619.07,Admitted,
+OPD-000112,PAT-0028,2022-05-06,Paediatric Opd,Dizziness,Dr. Muthoni,136,2855.17,Referred to specialist,2022-06-09
+OPD-000729,PAT-0357,2023-07-20,Antenatal Care,Headache,Dr. Muthoni,58,2929.2,Admitted,2023-08-26
+OPD-000367,PAT-0183,2022-11-19,Tb Clinic,Abdominal Pain,Dr. Chebet,134,2692.35,Prescription given,
+OPD-000119,PAT-0125,2023-11-01,Diabetes Clinic,Back Pain,Dr. Otieno,65,993.01,Referred to specialist,2023-11-17
+OPD-000234,PAT-0271,2023-05-27,Nutrition,Fatigue,Dr. Chebet,200,2171.14,Prescription given,
+OPD-000865,PAT-0210,2023-07-03,Antenatal Care,,Dr. Otieno,175,1481.42,Investigations ordered,2023-10-01
+OPD-000024,PAT-0168,2022-11-09,Diabetes Clinic,Headache,Dr. Chebet,103,162.73,Counselled & discharged,2022-12-08
+OPD-000259,PAT-0039,2023-03-18,Nutrition,Fever,Dr. Kariuki,111,1387.8,Admitted,2023-04-30
+OPD-000310,PAT-0052,2024-04-21,General Opd,Vomiting,Dr. Kariuki,159,2501.42,Investigations ordered,2024-06-12
+OPD-000603,PAT-0291,2023-09-21,Antenatal Care,Vomiting,Dr. Kariuki,77,951.11,,
+OPD-000378,PAT-0342,2024-06-24,Diabetes Clinic,Cough,Dr. Muthoni,49,104.57,Investigations ordered,
+OPD-000419,PAT-0180,2023-12-07,Antenatal Care,Cough,Dr. Omondi,182,2851.65,Follow-up scheduled,2023-09-21
+OPD-000548,PAT-0165,2023-02-22,Paediatric Opd,Vomiting,Dr. Wanjiku,,1099.96,Referred to specialist,2023-04-23
+OPD-000869,PAT-0206,2024-03-24,Diabetes Clinic,,Dr. Otieno,125,,Admitted,
+OPD-000208,PAT-0306,2022-01-26,Hiv/Aids Clinic,Fatigue,,,2313.96,Counselled & discharged,
+OPD-000144,PAT-0225,2022-02-21,Diabetes Clinic,Vomiting,Dr. Otieno,233,2660.48,Prescription given,2022-05-20
+OPD-000691,PAT-0344,2024-02-01,Hiv/Aids Clinic,Back Pain,,39,,Follow-up scheduled,2024-01-21
+OPD-000082,PAT-0272,2024-05-20,Paediatric Opd,Abdominal Pain,Dr. Omondi,,2311.6,Referred to specialist,2024-06-26
+OPD-000570,PAT-0114,2023-10-19,Diabetes Clinic,Dizziness,Dr. Kariuki,47,125.91,,
+OPD-000843,PAT-0297,2024-10-02,Eye,Chest Pain,Dr. Wanjiku,77,1813.46,Counselled & discharged,
+OPD-000455,PAT-0198,2022-05-05,Tb Clinic,Headache,Dr. Omondi,140,1186.74,Prescription given,
+OPD-000495,PAT-0098,2022-06-06,Hiv/Aids Clinic,,Dr. Otieno,96,117.31,Referred to specialist,
+OPD-000027,PAT-0161,2022-10-18,Tb Clinic,Abdominal Pain,Dr. Muthoni,140,1731.23,Investigations ordered,2022-11-24
+OPD-000501,PAT-0149,2024-03-11,Dental,Skin Rash,Dr. Wanjiku,199,1285.38,Admitted,
+OPD-000397,PAT-0366,2022-10-24,General Opd,Back Pain,Dr. Chebet,,1911.66,Follow-up scheduled,
+OPD-000791,PAT-0384,2023-01-24,Diabetes Clinic,Cough,Dr. Otieno,46,320.72,Referred to specialist,2023-04-14
+OPD-000517,PAT-0334,2024-06-27,Paediatric Opd,Fatigue,Dr. Wanjiku,31,348.03,Admitted,2024-08-06
+OPD-000590,PAT-0205,2023-05-29,General Opd,Vomiting,Dr. Otieno,220,685.06,,
+OPD-000648,PAT-0336,2022-07-04,Diabetes Clinic,Vomiting,Dr. Omondi,188,101.27,Counselled & discharged,2022-07-22
+OPD-000319,PAT-0110,2023-04-29,General Opd,Joint Pain,Dr. Wanjiku,36,2564.53,Referred to specialist,2023-05-15
+OPD-000436,PAT-0322,2024-03-22,Antenatal Care,Fatigue,Dr. Otieno,29,1328.24,Investigations ordered,2024-04-06
+OPD-000219,PAT-0314,2023-04-22,General Opd,Joint Pain,Dr. Otieno,80,1058.76,Counselled & discharged,2023-05-24
+OPD-000336,PAT-0074,2023-04-27,Eye,,Dr. Chebet,105,1865.53,Admitted,
+OPD-000796,PAT-0224,2022-07-13,Paediatric Opd,Back Pain,Dr. Kariuki,140,1654.13,Referred to specialist,
+OPD-000297,PAT-0303,2022-12-06,Paediatric Opd,Vomiting,Dr. Wanjiku,194,2582.08,Referred to specialist,2023-02-18
+OPD-000735,PAT-0139,2022-07-08,Eye,Headache,Dr. Chebet,191,2077.24,Follow-up scheduled,
+OPD-000861,PAT-0074,2023-03-16,General Opd,Joint Pain,Dr. Wanjiku,181,2669.33,Follow-up scheduled,
+OPD-000285,PAT-0106,2022-06-23,Paediatric Opd,Back Pain,Dr. Otieno,165,1387.77,Investigations ordered,
+OPD-000228,PAT-0217,2022-11-05,Dental,Vomiting,Dr. Kariuki,17,2455.57,,2022-12-13
+OPD-000721,PAT-0014,2022-04-17,Tb Clinic,Dizziness,Dr. Wanjiku,204,524.77,Referred to specialist,2022-06-21
+OPD-000003,PAT-0393,2022-06-12,Tb Clinic,Chest Pain,,153,2490.28,Prescription given,2022-12-24
+OPD-000446,PAT-0361,2022-11-30,Eye,Abdominal Pain,,36,266.7,Referred to specialist,2023-02-17
+OPD-000549,PAT-0099,2023-11-28,Diabetes Clinic,Skin Rash,Dr. Chebet,173,588.75,Admitted,
+OPD-000030,PAT-0043,2024-10-05,Dental,Cough,Dr. Otieno,,2541.79,Counselled & discharged,2024-06-18
+OPD-000499,PAT-0322,2023-10-31,Tb Clinic,Fatigue,Dr. Muthoni,46,2138.23,Admitted,
+OPD-000458,PAT-0313,2022-04-21,Nutrition,Vomiting,Dr. Chebet,188,282.5,Investigations ordered,2022-07-07
+OPD-000775,PAT-0394,2024-05-12,Antenatal Care,Fever,Dr. Omondi,178,306.17,Counselled & discharged,2024-05-28
+OPD-000282,PAT-0338,2022-05-17,Paediatric Opd,Cough,Dr. Otieno,122,378.35,Referred to specialist,
+OPD-000422,PAT-0135,2023-11-03,Paediatric Opd,Headache,Dr. Wanjiku,101,209.17,Referred to specialist,2023-11-18
+OPD-000628,PAT-0142,2022-04-15,Nutrition,Skin Rash,Dr. Omondi,30,1082.56,Follow-up scheduled,2022-05-07
+OPD-000157,PAT-0258,2024-04-20,Hiv/Aids Clinic,Vomiting,Dr. Otieno,232,2745.63,Prescription given,2024-06-21
+OPD-000860,PAT-0239,2023-11-11,Hiv/Aids Clinic,Chest Pain,Dr. Muthoni,,931.29,,2023-12-27
+OPD-000871,PAT-0031,2023-10-14,Nutrition,Fatigue,Dr. Wanjiku,97,429.91,Follow-up scheduled,2023-11-08
+OPD-000587,PAT-0321,2022-04-25,Dental,Skin Rash,Dr. Wanjiku,216,1866.69,Admitted,
+OPD-000260,PAT-0156,2023-10-13,Dental,Fatigue,Dr. Kariuki,86,2953.5,Prescription given,2023-12-10
+OPD-000298,PAT-0166,2023-04-24,Antenatal Care,Skin Rash,Dr. Otieno,232,309.93,Admitted,2023-06-19
+OPD-000656,PAT-0225,2023-11-22,Antenatal Care,Fever,Dr. Otieno,19,2674.39,,2024-01-02
+OPD-000471,PAT-0189,2024-02-26,Antenatal Care,Fever,Dr. Muthoni,43,889.55,Prescription given,2024-04-27
+OPD-000554,PAT-0153,2023-08-14,Nutrition,Headache,Dr. Kariuki,72,2361.75,Admitted,2023-10-05
+OPD-000011,PAT-0379,2024-08-02,Antenatal Care,Back Pain,Dr. Kariuki,163,2819.32,Investigations ordered,2024-03-01
+OPD-000692,PAT-0145,2023-03-27,Antenatal Care,Chest Pain,Dr. Omondi,64,313.94,Prescription given,
+OPD-000008,PAT-0018,2022-06-26,Tb Clinic,Back Pain,Dr. Wanjiku,190,,Counselled & discharged,2022-09-15
+OPD-000661,PAT-0084,2022-10-12,Nutrition,Fever,Dr. Kariuki,182,2161.84,Counselled & discharged,2023-03-01
+OPD-000376,PAT-0170,2022-08-11,Dental,Abdominal Pain,,,2556.11,Admitted,2022-10-06
+OPD-000599,PAT-0016,2023-07-06,General Opd,Fever,Dr. Wanjiku,160,795.32,Investigations ordered,2023-08-06
+OPD-000415,PAT-0123,2022-05-12,Nutrition,Chest Pain,Dr. Omondi,175,277.47,Admitted,
+OPD-000292,PAT-0233,2023-05-20,Nutrition,Headache,Dr. Muthoni,181,2607.64,,
+OPD-000050,PAT-0226,2023-04-04,Paediatric Opd,,Dr. Chebet,54,2110.09,,2023-07-02
+OPD-000687,PAT-0089,2023-04-09,Tb Clinic,Chest Pain,Dr. Chebet,6,279.22,Follow-up scheduled,2023-05-02
+OPD-000610,PAT-0288,2024-02-13,Diabetes Clinic,,Dr. Omondi,152,895.5,Counselled & discharged,2024-03-28
+OPD-000728,PAT-0305,2022-02-13,Paediatric Opd,Vomiting,,78,1431.89,Follow-up scheduled,
+OPD-000449,PAT-0177,2022-08-19,Tb Clinic,Chest Pain,Dr. Otieno,73,358.88,Prescription given,2022-10-14
+OPD-000053,PAT-0205,2023-08-19,Nutrition,Fatigue,Dr. Otieno,101,2187.32,Admitted,
+OPD-000309,PAT-0112,2023-09-03,General Opd,,Dr. Kariuki,191,1294.38,Investigations ordered,2023-11-08
+OPD-000316,PAT-0043,2024-05-23,Antenatal Care,Fatigue,Dr. Chebet,36,2173.04,Admitted,
+OPD-000489,PAT-0073,2022-08-21,Eye,Abdominal Pain,Dr. Chebet,153,2699.52,Prescription given,
+OPD-000592,PAT-0251,2023-08-14,Eye,Skin Rash,Dr. Wanjiku,74,328.21,Prescription given,2023-09-10
+OPD-000743,PAT-0228,2023-08-04,Hiv/Aids Clinic,Joint Pain,Dr. Muthoni,180,913.7,Referred to specialist,2023-10-01
+OPD-000392,PAT-0265,2022-12-19,Dental,Fever,Dr. Kariuki,78,1789.99,,
+OPD-000878,PAT-0318,2023-09-11,Dental,Fever,Dr. Wanjiku,14,567.35,Counselled & discharged,
+OPD-000502,PAT-0304,2022-09-08,Antenatal Care,Dizziness,Dr. Kariuki,31,1377.74,Referred to specialist,2022-10-24
+OPD-000120,PAT-0222,2022-05-11,Nutrition,Fatigue,Dr. Chebet,166,650.12,Referred to specialist,2022-05-24
+OPD-000395,PAT-0156,2022-08-06,Eye,Back Pain,Dr. Otieno,118,2399.16,Referred to specialist,2022-08-23
+OPD-000654,PAT-0336,2022-07-16,Eye,Headache,,39,2075.26,Admitted,
+OPD-000528,PAT-0248,2023-11-16,Antenatal Care,Dizziness,Dr. Chebet,,,Admitted,
+OPD-000640,PAT-0128,2022-08-15,Nutrition,Fatigue,Dr. Otieno,47,2512.1,Follow-up scheduled,2022-09-08
+OPD-000087,PAT-0369,2024-03-22,Antenatal Care,Headache,Dr. Muthoni,209,1433.25,Referred to specialist,
+OPD-000172,PAT-0300,2022-03-18,Dental,Skin Rash,Dr. Muthoni,158,789.52,Follow-up scheduled,2022-05-01
+OPD-000028,PAT-0332,2022-04-16,Tb Clinic,Abdominal Pain,Dr. Otieno,209,1800.1,Investigations ordered,2022-05-19
+OPD-000786,PAT-0251,2022-03-29,Diabetes Clinic,Abdominal Pain,Dr. Chebet,228,1057.76,Admitted,2022-05-30
+OPD-000747,PAT-0275,2024-05-07,Antenatal Care,,Dr. Muthoni,,502.13,Investigations ordered,2024-07-20
+OPD-000749,PAT-0082,2022-06-05,Eye,,Dr. Muthoni,138,,Admitted,2022-07-18
+OPD-000694,PAT-0360,2024-03-10,General Opd,Fever,Dr. Muthoni,227,1594.51,Admitted,
+OPD-000492,PAT-0257,2022-03-30,Nutrition,Joint Pain,Dr. Kariuki,165,2851.85,Follow-up scheduled,2022-06-03
+OPD-000580,PAT-0171,2023-05-12,Dental,Joint Pain,Dr. Omondi,235,204.89,Referred to specialist,
+OPD-000737,PAT-0133,2024-06-09,Hiv/Aids Clinic,Fever,Dr. Omondi,186,2807.91,Counselled & discharged,2024-07-03
+OPD-000253,PAT-0395,2024-01-05,Tb Clinic,Chest Pain,Dr. Muthoni,100,2363.68,Follow-up scheduled,2024-03-20
+OPD-000553,PAT-0390,2022-12-13,Antenatal Care,Abdominal Pain,Dr. Kariuki,151,2669.62,Prescription given,2023-01-26
+OPD-000826,PAT-0039,2023-04-02,Hiv/Aids Clinic,Back Pain,Dr. Chebet,92,1025.01,Referred to specialist,
+OPD-000773,PAT-0136,2022-07-20,Nutrition,Skin Rash,Dr. Chebet,49,2083.61,Investigations ordered,
+OPD-000132,PAT-0052,2023-06-30,Eye,Back Pain,Dr. Chebet,42,2175.15,Follow-up scheduled,2023-08-06
+OPD-000700,PAT-0285,2022-11-06,Eye,Headache,Dr. Omondi,82,2603.88,Counselled & discharged,
+OPD-000627,PAT-0399,2022-03-05,Nutrition,Joint Pain,Dr. Omondi,37,1683.78,Admitted,2022-03-14
+OPD-000709,PAT-0137,2022-10-28,General Opd,Fatigue,Dr. Omondi,175,2908.11,Prescription given,
+OPD-000566,PAT-0087,2022-12-01,Antenatal Care,Cough,,149,1484.12,Referred to specialist,2023-02-24
+OPD-000126,PAT-0306,2023-03-10,Nutrition,Vomiting,Dr. Wanjiku,38,1949.61,Counselled & discharged,2023-03-21
+OPD-000010,PAT-0348,2022-12-19,Tb Clinic,Fever,Dr. Omondi,186,817.87,Admitted,
+OPD-000079,PAT-0358,2022-01-28,Paediatric Opd,Abdominal Pain,Dr. Otieno,194,2180.76,,2022-03-10
+OPD-000809,PAT-0375,2023-06-02,Nutrition,Headache,Dr. Kariuki,182,2415.59,Counselled & discharged,
+OPD-000544,PAT-0375,2023-03-14,Eye,Fever,Dr. Omondi,114,2930.49,Referred to specialist,
+OPD-000485,PAT-0031,2024-01-16,Nutrition,Joint Pain,Dr. Omondi,147,2221.03,Admitted,
+OPD-000836,PAT-0377,2023-02-04,Eye,Back Pain,Dr. Otieno,237,,Counselled & discharged,
+OPD-000588,PAT-0399,2022-08-06,Nutrition,Chest Pain,Dr. Wanjiku,228,2896.13,Follow-up scheduled,2022-08-15
+OPD-000055,PAT-0360,2024-04-14,Tb Clinic,Vomiting,Dr. Muthoni,97,,Investigations ordered,2024-04-26
+OPD-000389,PAT-0103,2023-02-21,Nutrition,Fever,,139,1577.04,Admitted,
+OPD-000671,PAT-0226,2023-09-29,Dental,Cough,Dr. Muthoni,122,2070.86,Follow-up scheduled,
+OPD-000353,PAT-0281,2024-02-19,Eye,Dizziness,,61,2603.28,Prescription given,2024-02-27
+OPD-000488,PAT-0087,2022-11-15,Antenatal Care,Joint Pain,Dr. Muthoni,56,660.53,Admitted,
+OPD-000567,PAT-0234,2022-12-12,Hiv/Aids Clinic,Cough,Dr. Otieno,205,359.61,Referred to specialist,
+OPD-000251,PAT-0213,2022-05-20,General Opd,Back Pain,Dr. Muthoni,150,2138.63,Referred to specialist,
+OPD-000444,PAT-0093,2022-08-19,Eye,Fever,Dr. Otieno,121,1221.71,,
+OPD-000166,PAT-0302,2023-09-24,Nutrition,Abdominal Pain,Dr. Omondi,33,953.76,Investigations ordered,2023-11-11
+OPD-000506,PAT-0105,2024-05-05,Eye,,Dr. Muthoni,208,1685.74,Referred to specialist,2024-05-29
+OPD-000052,PAT-0145,2022-05-31,Nutrition,Chest Pain,Dr. Omondi,85,2689.96,Follow-up scheduled,2022-08-23
+OPD-000108,PAT-0054,2023-07-17,Tb Clinic,Dizziness,,149,499.05,Follow-up scheduled,
+OPD-000060,PAT-0254,2023-02-01,Hiv/Aids Clinic,,Dr. Chebet,55,1103.51,Referred to specialist,2023-03-16
+OPD-000805,PAT-0036,2023-10-26,Nutrition,Fatigue,Dr. Chebet,87,310.01,Investigations ordered,2024-01-18
+OPD-000479,PAT-0137,2022-04-17,Tb Clinic,Abdominal Pain,Dr. Otieno,118,449.1,Follow-up scheduled,2022-05-25
+OPD-000866,PAT-0115,2024-10-06,Antenatal Care,Fatigue,Dr. Chebet,239,2778.53,Admitted,
+OPD-000500,PAT-0397,2022-01-08,Diabetes Clinic,Cough,Dr. Kariuki,191,1223.78,,
+OPD-000182,PAT-0324,2023-11-15,Antenatal Care,Skin Rash,Dr. Omondi,38,2182.92,Prescription given,
+OPD-000467,PAT-0208,2022-09-29,Dental,Skin Rash,Dr. Muthoni,14,2514.44,Investigations ordered,
+OPD-000712,PAT-0129,2024-01-28,Dental,Back Pain,Dr. Chebet,230,1369.27,Admitted,2024-03-19
+OPD-000750,PAT-0159,2023-06-18,Tb Clinic,Dizziness,Dr. Kariuki,185,668.48,Prescription given,2023-08-30
+OPD-000744,PAT-0049,2022-07-13,Paediatric Opd,Fever,Dr. Otieno,26,1109.72,Referred to specialist,
+OPD-000199,PAT-0376,2023-07-22,Diabetes Clinic,Chest Pain,Dr. Wanjiku,16,1649.93,Prescription given,
+OPD-000893,PAT-0151,2022-07-04,Dental,Fever,Dr. Omondi,122,772.9,Follow-up scheduled,2022-08-19
+OPD-000280,PAT-0158,2022-04-30,Tb Clinic,,Dr. Chebet,33,2959.38,Counselled & discharged,
+OPD-000332,PAT-0011,2022-04-01,Eye,Cough,Dr. Muthoni,208,573.5,Follow-up scheduled,2022-06-19
+OPD-000856,PAT-0214,2024-02-23,Antenatal Care,Headache,Dr. Kariuki,96,787.58,Follow-up scheduled,2024-04-04
+OPD-000191,PAT-0395,2023-05-06,Paediatric Opd,Back Pain,Dr. Wanjiku,236,1215.38,Counselled & discharged,
+OPD-000535,PAT-0162,2023-04-13,Dental,Fever,Dr. Otieno,72,2495.85,Referred to specialist,
+OPD-000223,PAT-0326,2023-11-29,Diabetes Clinic,Joint Pain,Dr. Kariuki,151,1135.96,Referred to specialist,
+OPD-000152,PAT-0108,2023-02-19,General Opd,Headache,Dr. Kariuki,130,1178.21,Referred to specialist,
+OPD-000461,PAT-0105,2022-08-14,Tb Clinic,Joint Pain,Dr. Muthoni,131,2274.23,Investigations ordered,2022-08-25
+OPD-000689,PAT-0362,2022-01-23,Paediatric Opd,Cough,Dr. Chebet,74,1086.33,Prescription given,
+OPD-000188,PAT-0020,2024-06-24,Eye,Fatigue,Dr. Chebet,188,561.77,Prescription given,2024-08-15
+OPD-000074,PAT-0122,2022-10-15,Eye,Joint Pain,Dr. Muthoni,63,2175.15,Investigations ordered,2022-11-26
+OPD-000241,PAT-0351,2023-11-26,Dental,Fatigue,Dr. Kariuki,165,2697.41,Referred to specialist,2024-01-25
+OPD-000146,PAT-0080,2024-02-14,Hiv/Aids Clinic,Skin Rash,Dr. Wanjiku,212,,Prescription given,
+OPD-000563,PAT-0270,2022-05-15,Paediatric Opd,Dizziness,Dr. Chebet,45,671.58,,
+OPD-000256,PAT-0371,2022-09-18,Hiv/Aids Clinic,Abdominal Pain,Dr. Kariuki,104,2857.38,Prescription given,2022-10-20
+OPD-000096,PAT-0270,2024-03-24,Hiv/Aids Clinic,Fatigue,Dr. Otieno,82,1828.03,Follow-up scheduled,
+OPD-000611,PAT-0240,2023-07-15,General Opd,Chest Pain,Dr. Kariuki,,2104.96,Referred to specialist,
+OPD-000720,PAT-0223,2023-03-10,Paediatric Opd,Fatigue,Dr. Otieno,233,2214.96,Investigations ordered,2023-05-22
+OPD-000372,PAT-0373,2022-02-09,Hiv/Aids Clinic,Joint Pain,Dr. Chebet,,1408.47,Follow-up scheduled,2022-04-24
+OPD-000371,PAT-0299,2022-06-08,General Opd,Abdominal Pain,Dr. Chebet,61,2539.9,,
+OPD-000413,PAT-0055,2024-01-15,Eye,Skin Rash,Dr. Omondi,162,,Admitted,
+OPD-000494,PAT-0095,2023-06-29,General Opd,Joint Pain,Dr. Muthoni,235,2847.12,Admitted,2023-07-22
+OPD-000639,PAT-0256,2023-05-26,Nutrition,Fever,Dr. Otieno,235,1197.58,Prescription given,
+OPD-000162,PAT-0009,2023-11-08,Dental,,Dr. Muthoni,62,1486.82,Follow-up scheduled,
+OPD-000427,PAT-0316,2024-05-31,Tb Clinic,Fever,Dr. Chebet,195,1881.65,Investigations ordered,2024-07-05
+OPD-000244,PAT-0322,2022-07-30,Tb Clinic,Abdominal Pain,Dr. Chebet,14,1179.18,Counselled & discharged,
+OPD-000681,PAT-0040,2022-09-05,Paediatric Opd,Chest Pain,Dr. Kariuki,51,260.89,Investigations ordered,2022-10-28
+OPD-000417,PAT-0058,2022-01-17,Nutrition,Joint Pain,Dr. Wanjiku,71,,Referred to specialist,2022-03-13
+OPD-000344,PAT-0226,2022-10-31,Nutrition,Headache,Dr. Chebet,110,1472.29,Investigations ordered,
+OPD-000323,PAT-0047,2023-11-23,Hiv/Aids Clinic,Vomiting,,89,2058.67,Referred to specialist,2024-01-21
+OPD-000562,PAT-0022,2023-07-02,Hiv/Aids Clinic,Dizziness,Dr. Wanjiku,48,1852.88,Counselled & discharged,2023-04-05
+OPD-000649,PAT-0011,2024-03-24,General Opd,Cough,Dr. Otieno,108,288.53,Investigations ordered,2024-05-16
+OPD-000031,PAT-0239,2024-03-20,Paediatric Opd,Vomiting,Dr. Otieno,82,2342.52,Admitted,2024-05-31
+OPD-000374,PAT-0366,2023-12-21,Antenatal Care,Back Pain,Dr. Muthoni,219,2229.82,Prescription given,
+OPD-000707,PAT-0194,2022-08-02,Tb Clinic,Abdominal Pain,Dr. Omondi,78,1499.34,Counselled & discharged,2022-08-13
+OPD-000057,PAT-0046,2023-01-19,Paediatric Opd,Chest Pain,Dr. Kariuki,223,469.76,Follow-up scheduled,2023-04-09
+OPD-000510,PAT-0217,2023-10-06,General Opd,Cough,Dr. Otieno,149,2202.79,Referred to specialist,2023-12-12
+OPD-000423,PAT-0144,2023-03-01,Paediatric Opd,Headache,,23,130.83,Counselled & discharged,2023-02-26
+OPD-000714,PAT-0107,2023-08-21,Antenatal Care,Abdominal Pain,Dr. Kariuki,188,2049.61,Counselled & discharged,
+OPD-000150,PAT-0210,2022-12-13,Tb Clinic,Abdominal Pain,Dr. Wanjiku,205,587.94,Counselled & discharged,2023-02-18
+OPD-000184,PAT-0194,2023-07-05,Dental,Headache,Dr. Kariuki,53,194.46,Prescription given,
+OPD-000388,PAT-0183,2023-10-30,Eye,Headache,Dr. Omondi,161,1756.54,Admitted,2023-11-13
+OPD-000565,PAT-0036,2022-10-04,Nutrition,Vomiting,Dr. Otieno,77,1208.59,Counselled & discharged,2022-05-12
+OPD-000127,PAT-0019,2023-12-29,Antenatal Care,Joint Pain,Dr. Omondi,56,1871.8,Investigations ordered,2024-01-12
+OPD-000295,PAT-0011,2022-07-13,Paediatric Opd,Joint Pain,Dr. Otieno,161,1474.95,Investigations ordered,
+OPD-000045,PAT-0086,2023-10-18,Hiv/Aids Clinic,Chest Pain,Dr. Kariuki,204,939.37,Prescription given,
+OPD-000677,PAT-0264,2023-08-04,General Opd,Dizziness,Dr. Omondi,,2462.19,Admitted,
+OPD-000873,PAT-0253,2024-06-03,Diabetes Clinic,Skin Rash,Dr. Chebet,123,2244.58,Prescription given,
+OPD-000824,PAT-0046,2023-02-14,Hiv/Aids Clinic,Dizziness,Dr. Wanjiku,188,184.58,Follow-up scheduled,
+OPD-000607,PAT-0079,2024-06-07,Tb Clinic,Skin Rash,Dr. Otieno,194,1298.64,Counselled & discharged,2024-07-17
+OPD-000110,PAT-0300,2023-06-22,Dental,Fever,Dr. Otieno,51,2906.68,,2023-07-03
+OPD-000872,PAT-0234,2023-11-22,Eye,Cough,Dr. Wanjiku,80,630.03,Admitted,
+OPD-000059,PAT-0235,2023-05-25,General Opd,Fever,Dr. Wanjiku,210,2909.37,Follow-up scheduled,2023-07-26
+OPD-000394,PAT-0284,2023-12-19,General Opd,Joint Pain,,232,1429.99,Counselled & discharged,2024-03-11
+OPD-000819,PAT-0226,2023-09-12,Antenatal Care,Joint Pain,Dr. Muthoni,135,901.45,Investigations ordered,2023-10-11
+OPD-000457,PAT-0277,2023-03-28,Eye,Headache,Dr. Wanjiku,8,1320.73,Investigations ordered,2023-04-14
+OPD-000600,PAT-0325,2023-12-13,Antenatal Care,Skin Rash,Dr. Omondi,19,903.92,Follow-up scheduled,2024-01-22
+OPD-000361,PAT-0162,2023-10-08,Hiv/Aids Clinic,Skin Rash,Dr. Chebet,,2253.55,Prescription given,2023-10-06
+OPD-000898,PAT-0371,2023-10-12,Dental,Cough,Dr. Otieno,,1703.16,Referred to specialist,
+OPD-000710,PAT-0019,2024-04-19,Eye,Chest Pain,,170,1998.23,Counselled & discharged,2024-05-10
+OPD-000440,PAT-0269,2023-08-27,General Opd,Dizziness,,77,2558.17,Prescription given,2023-10-31
+OPD-000123,PAT-0122,2022-08-17,Antenatal Care,Cough,Dr. Wanjiku,,2434.32,Counselled & discharged,2022-10-22
