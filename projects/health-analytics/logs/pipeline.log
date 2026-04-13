@@ -1,0 +1,54 @@
+2026-04-01 07:32:55,308 | INFO     | health_pipeline | ============================================================
+2026-04-01 07:32:55,308 | INFO     | health_pipeline |   Hospital Health Analytics Pipeline  v1.0
+2026-04-01 07:32:55,308 | INFO     | health_pipeline |   Author: Kisavi Shadrack
+2026-04-01 07:32:55,308 | INFO     | health_pipeline | ============================================================
+2026-04-01 07:32:55,322 | INFO     | health_pipeline.Loader | Loaded patients: 418 rows × 10 cols
+2026-04-01 07:32:55,335 | INFO     | health_pipeline.Loader | Loaded admissions: 620 rows × 10 cols
+2026-04-01 07:32:55,377 | INFO     | health_pipeline.Loader | Loaded lab_tests: 1230 rows × 12 cols
+2026-04-01 07:32:55,392 | INFO     | health_pipeline.Loader | Loaded outpatient_visits: 925 rows × 10 cols
+2026-04-01 07:32:55,392 | INFO     | health_pipeline.Cleaner | Cleaning patients …
+2026-04-01 07:32:55,475 | INFO     | health_pipeline.Cleaner |   patients: 418 → 388 rows
+2026-04-01 07:32:55,476 | INFO     | health_pipeline.Cleaner | Cleaning admissions …
+2026-04-01 07:32:55,595 | INFO     | health_pipeline.Cleaner |   Discharge-before-admission fixed: 13
+2026-04-01 07:32:55,603 | INFO     | health_pipeline.Cleaner |   admissions: 620 → 519 rows
+2026-04-01 07:32:55,603 | INFO     | health_pipeline.Cleaner | Cleaning lab tests …
+2026-04-01 07:32:55,799 | INFO     | health_pipeline.Cleaner |   Result-before-order fixed: 37
+2026-04-01 07:32:55,803 | INFO     | health_pipeline.Cleaner |   lab_tests: 1230 → 1117 rows
+2026-04-01 07:32:55,804 | INFO     | health_pipeline.Cleaner | Cleaning outpatient visits …
+2026-04-01 07:32:55,927 | INFO     | health_pipeline.Cleaner |   outpatient_visits: 925 → 791 rows
+2026-04-01 07:32:55,949 | INFO     | health_pipeline | Clean CSVs saved to output/
+2026-04-01 07:32:55,985 | INFO     | health_pipeline.SQLExporter |   Inserts written → sql/cleaning/load_stg_patients.sql
+2026-04-01 07:32:56,007 | INFO     | health_pipeline.SQLExporter |   Inserts written → sql/cleaning/load_stg_admissions.sql
+2026-04-01 07:32:56,047 | INFO     | health_pipeline.SQLExporter |   Inserts written → sql/cleaning/load_stg_lab_tests.sql
+2026-04-01 07:32:56,089 | INFO     | health_pipeline.SQLExporter |   Inserts written → sql/cleaning/load_stg_outpatient_visits.sql
+2026-04-01 07:32:56,090 | INFO     | health_pipeline.SQLExporter | Views written → sql/views/analytical_views.sql
+2026-04-01 07:32:56,107 | INFO     | health_pipeline.Analytics | Data loaded into in-memory SQLite
+2026-04-01 07:32:56,108 | INFO     | health_pipeline.Analytics |   Query 'admissions_by_ward': 6 rows
+2026-04-01 07:32:56,109 | INFO     | health_pipeline.Analytics |   Query 'top_diagnoses': 10 rows
+2026-04-01 07:32:56,110 | INFO     | health_pipeline.Analytics |   Query 'monthly_admissions': 30 rows
+2026-04-01 07:32:56,112 | INFO     | health_pipeline.Analytics |   Query 'lab_abnormal_rate': 10 rows
+2026-04-01 07:32:56,112 | INFO     | health_pipeline.Analytics |   Query 'opd_by_clinic': 9 rows
+2026-04-01 07:32:56,113 | INFO     | health_pipeline.Analytics |   Query 'patient_demographics': 22 rows
+2026-04-01 07:32:56,114 | INFO     | health_pipeline.Analytics |   Query 'doctor_workload': 7 rows
+2026-04-01 07:32:56,115 | INFO     | health_pipeline.Analytics |   Query 'readmission_risk': 10 rows
+2026-04-01 07:32:56,116 | INFO     | health_pipeline.Analytics |   Query 'revenue_summary': 2 rows
+2026-04-01 07:32:56,117 | INFO     | health_pipeline.Analytics |   Query 'lab_tat_by_test': 10 rows
+2026-04-01 07:32:56,118 | INFO     | health_pipeline.Charts | Generating charts …
+2026-04-01 07:32:56,426 | INFO     | health_pipeline.Charts |   Chart saved: 01_ward_admissions.png
+2026-04-01 07:32:56,688 | INFO     | health_pipeline.Charts |   Chart saved: 02_top_diagnoses.png
+2026-04-01 07:32:56,700 | INFO     | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-01 07:32:56,701 | INFO     | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-01 07:32:56,717 | INFO     | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-01 07:32:56,719 | INFO     | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-01 07:32:57,113 | INFO     | health_pipeline.Charts |   Chart saved: 03_monthly_trend.png
+2026-04-01 07:32:57,371 | INFO     | health_pipeline.Charts |   Chart saved: 04_lab_abnormal_rates.png
+2026-04-01 07:32:57,683 | INFO     | health_pipeline.Charts |   Chart saved: 05_opd_clinics.png
+2026-04-01 07:32:57,768 | INFO     | health_pipeline.Charts |   Chart saved: 06_revenue_split.png
+2026-04-01 07:32:57,812 | INFO     | health_pipeline.Reports | Summary report → reports/summary_report.xlsx
+2026-04-01 07:32:57,812 | INFO     | health_pipeline | ============================================================
+2026-04-01 07:32:57,812 | INFO     | health_pipeline | Pipeline complete!
+2026-04-01 07:32:57,812 | INFO     | health_pipeline |   patients                 :  418 →  388 rows
+2026-04-01 07:32:57,812 | INFO     | health_pipeline |   admissions               :  620 →  519 rows
+2026-04-01 07:32:57,813 | INFO     | health_pipeline |   lab_tests                : 1230 → 1117 rows
+2026-04-01 07:32:57,813 | INFO     | health_pipeline |   outpatient_visits        :  925 →  791 rows
+2026-04-01 07:32:57,813 | INFO     | health_pipeline | ============================================================

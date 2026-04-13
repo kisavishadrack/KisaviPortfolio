@@ -1,0 +1,57 @@
+# ============================================================
+# Data Cleaning Pipeline - Configuration
+# Author: Kisavi Shadrack | Portfolio Project
+# ============================================================
+
+pipeline:
+  name: "Sales & Orders Data Cleaning Pipeline"
+  version: "1.0.0"
+  author: "Kisavi Shadrack"
+
+input:
+  file_path: "data/messy_sales_data.xlsx"
+  sheet_name: "Sales Data"
+  header_row: 2          # 0-indexed: actual headers are on Excel row 3
+  skip_footer_rows: 3    # drop trailing notes/blank rows
+
+output:
+  clean_file: "output/clean_sales_data.xlsx"
+  summary_report: "reports/summary_report.xlsx"
+  validation_report: "reports/validation_report.xlsx"
+  charts_dir: "output/charts"
+
+columns:
+  order_id: "Order ID"
+  order_date: "Order Date"
+  region: "Region"
+  sales_rep: "Sales Rep"
+  product: "Product"
+  quantity: "Quantity"
+  unit_price: "Unit Price (KES)"
+  revenue: "Revenue (KES)"
+  status: "Order Status"
+  email: "Customer Email"
+
+cleaning:
+  null_markers: ["N/A", "n/a", "NA", "", "None", "NaN", "TBD", "Unknown", "UNKNOWN"]
+  valid_statuses: ["Completed", "Pending", "Cancelled"]
+  valid_regions: ["Nairobi", "Mombasa", "Kisumu", "Eldoret"]
+  valid_products: ["Laptop", "Phone", "Tablet", "Headphones", "Monitor"]
+  order_id_pattern: "^ORD-\\d{4}$"
+  email_pattern: "^[\\w.+-]+@[\\w-]+\\.[\\w.]+$"
+  date_formats:
+    - "%d/%m/%Y"
+    - "%Y-%m-%d"
+    - "%m/%d/%Y"
+    - "%d-%m-%Y"
+  quantity_min: 1
+  quantity_max: 1000
+  price_min: 100
+  price_max: 100000
+  outlier_zscore_threshold: 3.0
+  revenue_tolerance_pct: 0.01   # flag if revenue differs from qty*price by >1%
+
+logging:
+  level: "INFO"
+  log_file: "logs/pipeline.log"
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
